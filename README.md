@@ -34,4 +34,4 @@
 Ce projet est sous licence CC BY-NC 4.0 (Creative Commons Attribution - Pas d’Utilisation Commerciale).
 >⚠️ L'utilisation de ce logiciel à des fins commerciales est strictement interdite sans autorisation préalable de l'auteur.
 
-Made with heart ❤️ by Fewday
+Made with passion and heart ❤️ by Fewday
