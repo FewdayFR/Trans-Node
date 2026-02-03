@@ -1,4 +1,4 @@
-# 🚌 TranNode - Système d'Information Voyageur Open source 
+# 🚌 TranNode - Système d'Information Voyageur
 
 ![Logo TranNode](https://raw.githubusercontent.com/FewdayFR/Trans-Node/refs/heads/main/assets/1000001254.png)
 
