@@ -1,6 +1,6 @@
-# 🚌 TranNode - Système d'Information Voyageur
+# 🚌 TransNode - Système d'Information Voyageur
 
-![Logo TranNode](https://raw.githubusercontent.com/FewdayFR/Trans-Node/refs/heads/main/assets/1000001254.png)
+![Logo TranNode](https://raw.githubusercontent.com/FewdayFR/Trans-Node/refs/heads/main/assets/trans-node-nobg.png)
 
 > [!CAUTION]
 > ### ⚠️ PROJET EN COURS DE DÉVELOPPEMENT (Work In Progress)
