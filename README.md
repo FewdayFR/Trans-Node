@@ -1,12 +1,12 @@
 # 🚌 TransNode - Système d'Information Voyageur
 
-![Logo TranNode](https://raw.githubusercontent.com/FewdayFR/Trans-Node/refs/heads/main/assets/trans-node-nobg.png)
+![Logo TransNode](https://raw.githubusercontent.com/FewdayFR/Trans-Node/refs/heads/main/assets/trans-node-nobg.png)
 
 > [!CAUTION]
 > ### ⚠️ PROJET EN COURS DE DÉVELOPPEMENT (Work In Progress)
 > Ce projet est actuellement en phase alpha. Les fonctionnalités décrites ci-dessous peuvent être incomplètes ou sujettes à des changements majeurs. L'utilisation en production n'est pas recommandée pour le moment.
 
-**TranNode** est une solution open source de Système d'Information Voyageur (SIV) conçue pour le Raspberry Pi. Inspiré par les systèmes professionnels, il permet de gérer l'affichage des arrêts et les annonces vocales en temps réel dans les bus.
+**TransNode** est une solution open source de Système d'Information Voyageur (SIV) conçue pour le Raspberry Pi. Inspiré par les systèmes professionnels, il permet de gérer l'affichage des arrêts et les annonces vocales en temps réel dans les bus.
 
 ## ✨ Fonctionnalités
 * 🖥️ **Affichage HDMI** : Interface moderne affichant le prochain arrêt, la destination et la progression sur la ligne.
