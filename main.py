@@ -12,30 +12,29 @@ VOICE_TEMP = os.path.join(BASE_DIR, "welcome.wav")
 FONT_PATH = os.path.join(BASE_DIR, "assets", "Ubuntu-Medium.ttf") # Ton nouveau fichier
 
 def generate_voice_thread():
-    """Génère l'audio en arrière-plan avec une priorité basse."""
+    """Génère l'audio en arrière-plan avec priorité basse."""
     piper_dir = os.path.join(BASE_DIR, "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
-    text = "Idéliss, Bonjour et bienvenue à bord."
+    text = "Bonjour et bienvenue à bord."
+    
+    # On prépare les variables proprement avant de créer la commande
+    piper_path = os.path.join(piper_dir, "piper")
     
     if platform.system() == "Windows":
-        piper_path = os.path.join(piper_dir, "piper.exe")
-       command = (
-                    f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
-                    f'echo "{text}" | "{piper_path}" --model "{model_path}" '
-                    f'--output_file "{VOICE_TEMP}" --threads 4'
-                )
+        piper_exe = os.path.join(piper_dir, "piper.exe")
+        command = f'echo {text} | "{piper_exe}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
     else:
-        piper_path = os.path.join(piper_dir, "piper")
-        # On utilise 'nice' pour que Piper ne ralentisse pas l'affichage Pygame
+        # Version Linux / Raspberry Pi avec optimisation threads
         command = (
             f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
-            f'echo "{text}" | nice -n 15 "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
+            f'echo "{text}" | nice -n 15 "{piper_path}" --model "{model_path}" '
+            f'--output_file "{VOICE_TEMP}" --threads 4'
         )
     
     try:
         subprocess.run(command, shell=True, check=True)
     except Exception as e:
-        print(f"Erreur Piper: {e}")
+        print(f"Erreur Piper : {e}")
 
 def main():
     # Initialisation Audio (Buffer de 4096 pour éviter les craquements)
