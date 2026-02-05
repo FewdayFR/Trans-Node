@@ -12,72 +12,54 @@ os.chdir(BASE_DIR)
 LOGO_PATH = os.path.join("assets", "trans-node-nobg.png")
 VOICE_TEMP = os.path.join(BASE_DIR, "welcome.wav")
 
-def speak_with_pygame():
-    """Génère la voix avec Piper et la joue avec Pygame de manière robuste."""
-    # Définition des chemins absolus pour éviter les erreurs de dossier
+def pre_generate_voice():
+    """Génère le fichier audio AVANT de commencer l'animation pour éviter les lags."""
     piper_dir = os.path.join(BASE_DIR, "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
     text = "Bonjour et bienvenue à bord."
+    
+    print("Pré-génération de la voix...")
 
     if platform.system() == "Windows":
         piper_path = os.path.join(piper_dir, "piper.exe")
-        # Commande Windows simple
         command = f'echo {text} | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
     else:
         piper_path = os.path.join(piper_dir, "piper")
-        # Forcer le volume à 100% sur Raspberry Pi
+        # On force le volume
         subprocess.run(["amixer", "sset", "Master", "100%"], capture_output=True)
-        # Commande Linux avec LD_LIBRARY_PATH pour charger les bibliothèques .so locales
+        # Commande Linux avec export
         command = (
             f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
             f'echo "{text}" | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
         )
 
-    # Vérification de l'existence des fichiers avant lancement
     if os.path.exists(piper_path) and os.path.exists(model_path):
-        # Nettoyage de l'ancien fichier audio
-        if os.path.exists(VOICE_TEMP):
-            try:
-                os.remove(VOICE_TEMP)
-            except Exception as e:
-                print(f"Impossible de supprimer l'ancien fichier : {e}")
-
         try:
-            # Exécution de Piper
+            # On attend que Piper finisse AVANT de continuer
             subprocess.run(command, shell=True, check=True)
-            
-            # Petite pause pour laisser le fichier s'écrire complètement sur la carte SD
-            time.sleep(0.3)
+            print("Voix prête.")
+            return True
+        except Exception as e:
+            print(f"Erreur génération voix : {e}")
+    return False
 
-            if os.path.exists(VOICE_TEMP):
-                speech = pygame.mixer.Sound(VOICE_TEMP)
-                speech.set_volume(1.0)
-                speech.play()
-                print("Audio Piper lancé avec succès !")
-            else:
-                print("Erreur : Le fichier audio n'a pas été généré.")
-                
-        except subprocess.CalledProcessError as e:
-            print(f"Erreur lors de l'exécution de Piper : {e}")
-        except pygame.error as e:
-            print(f"Erreur Pygame Audio : {e}")
-    else:
-        print(f"Fichiers manquants : Piper ({os.path.exists(piper_path)}) ou Modèle ({os.path.exists(model_path)})")
 def main():
-    # Initialisation audio avant l'init général pour éviter les délais
+    # 1. Initialiser le mixer en premier
     pygame.mixer.pre_init(44100, -16, 2, 512)
     pygame.init()
 
+    # 2. GÉNÉRATION DE LA VOIX (Écran noir, avant l'animation)
+    # On le fait avant de créer la fenêtre ou juste après pour ne pas bloquer l'animation
+    voice_ready = pre_generate_voice()
+
+    # 3. Configuration écran
     info = pygame.display.Info()
     sw, sh = info.current_w, info.current_h
     screen = pygame.display.set_mode((sw, sh), pygame.NOFRAME | pygame.FULLSCREEN)
     pygame.mouse.set_visible(False)
 
-    if not os.path.exists(LOGO_PATH):
-        pygame.quit()
-        return
-
-    # Préparation graphique
+    # Chargement des images (pendant que la voix est prête)
+    if not os.path.exists(LOGO_PATH): return
     logo_img = pygame.image.load(LOGO_PATH).convert_alpha()
     h_logo = int(sh * 0.5)
     ratio = h_logo / logo_img.get_height()
@@ -88,15 +70,20 @@ def main():
     txt_surf = font.render("Bienvenue à bord", True, (40, 40, 40))
     txt_rect = txt_surf.get_rect(center=(sw // 2, logo_rect.bottom + 60))
 
+    # 4. Début de l'animation
     duration = 2000 
     start_time = pygame.time.get_ticks()
-    has_spoken = False
+    has_played_audio = False
 
     running = True
+    clock = pygame.time.Clock() # Pour stabiliser les FPS
+
     while running:
+        clock.tick(60) # Limite à 60 FPS pour libérer du CPU
+        
         for event in pygame.event.get():
-            if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_ESCAPE: running = False
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
+                running = False
 
         now = pygame.time.get_ticks()
         elapsed = now - start_time
@@ -106,12 +93,13 @@ def main():
             prog = elapsed / duration
             radius = int(prog * (max(sw, sh) * 0.8))
             pygame.draw.circle(screen, (255, 255, 255), (sw // 2, sh // 2), radius)
-
         else:
-            # Lancement de la voix au moment de l'apparition du logo
-            if not has_spoken:
-                speak_with_pygame()
-                has_spoken = True
+            # ICI : On joue le son instantanément car le fichier est DÉJÀ là
+            if not has_played_audio:
+                if os.path.exists(VOICE_TEMP):
+                    speech = pygame.mixer.Sound(VOICE_TEMP)
+                    speech.play()
+                has_played_audio = True
 
             screen.fill((255, 255, 255))
             alpha = int(min((elapsed - duration) / duration, 1) * 255)
