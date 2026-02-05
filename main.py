@@ -39,7 +39,8 @@ def speak_after_animation():
         print(f"Erreur audio : {e}")
 
 def main():
-    pygame.mixer.pre_init(44100, -16, 2, 512)
+    # Augmenter le buffer de 512 à 4096 pour éviter les sauts
+    pygame.mixer.pre_init(44100, -16, 2, 4096)
     pygame.init()
 
     info = pygame.display.Info()
