@@ -5,45 +5,35 @@ import subprocess
 import platform
 import threading
 
-# Configuration des dossiers
+# Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(BASE_DIR)
 VOICE_TEMP = os.path.join(BASE_DIR, "welcome.wav")
-FONT_PATH = os.path.join(BASE_DIR, "assets", "Ubuntu-Medium.ttf") # Ton nouveau fichier
+FONT_PATH = os.path.join(BASE_DIR, "assets", "Ubuntu-Medium.ttf")
 
-def generate_voice_thread():
-    """Génère l'audio en arrière-plan avec priorité basse."""
-    piper_dir = os.path.join(BASE_DIR, "piper")
-    model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
+def generate_voice_pico():
+    """Génère l'audio instantanément avec Pico2Wave."""
     text = "Bonjour et bienvenue à bord."
     
-    # On prépare les variables proprement avant de créer la commande
-    piper_path = os.path.join(piper_dir, "piper")
-    
     if platform.system() == "Windows":
-        piper_exe = os.path.join(piper_dir, "piper.exe")
-        command = f'echo {text} | "{piper_exe}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
+        # Pico2Wave n'existe pas nativement sur Windows
+        # On peut mettre un message ou garder un Piper basique pour les tests PC
+        print("Pico2Wave non dispo sur Windows. Teste sur le Pi !")
     else:
-        # Version Linux / Raspberry Pi avec optimisation threads
-        command = (
-            f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
-            f'echo "{text}" | nice -n 15 "{piper_path}" --model "{model_path}" '
-            f'--output_file "{VOICE_TEMP}" --threads 4'
-        )
-    
-    try:
-        subprocess.run(command, shell=True, check=True)
-    except Exception as e:
-        print(f"Erreur Piper : {e}")
+        # Commande Linux : -l = langue, -w = fichier de sortie
+        command = f'pico2wave -l fr-FR -w "{VOICE_TEMP}" "{text}"'
+        try:
+            subprocess.run(command, shell=True, check=True)
+            print("Audio Pico2Wave généré.")
+        except Exception as e:
+            print(f"Erreur Pico2Wave : {e}")
 
 def main():
-    # Initialisation Audio (Buffer de 4096 pour éviter les craquements)
     pygame.mixer.pre_init(44100, -16, 2, 4096)
     pygame.init()
 
-    # Lancement immédiat de Piper en tâche de fond
-    voice_thread = threading.Thread(target=generate_voice_thread)
-    voice_thread.daemon = True # S'arrête si le programme principal s'arrête
+    # On lance la génération (c'est tellement rapide qu'on pourrait presque s'en passer)
+    voice_thread = threading.Thread(target=generate_voice_pico)
     voice_thread.start()
 
     info = pygame.display.Info()
@@ -51,78 +41,52 @@ def main():
     screen = pygame.display.set_mode((sw, sh), pygame.NOFRAME | pygame.FULLSCREEN)
     pygame.mouse.set_visible(False)
 
-    # Chargement Logo
+    # Logo et Texte
     logo_path = os.path.join("assets", "trans-node-nobg.png")
     logo_img = pygame.image.load(logo_path).convert_alpha()
     h_logo = int(sh * 0.5)
-    ratio = h_logo / logo_img.get_height()
-    logo = pygame.transform.smoothscale(logo_img, (int(logo_img.get_width() * ratio), h_logo))
+    logo = pygame.transform.smoothscale(logo_img, (int(logo_img.get_width() * (h_logo/logo_img.get_height())), h_logo))
     logo_rect = logo.get_rect(center=(sw // 2, sh // 2 - 50))
 
-    # Chargement Police Locale (Ubuntu-Medium)
-    if os.path.exists(FONT_PATH):
-        font = pygame.font.Font(FONT_PATH, int(sh * 0.07))
-    else:
-        print("Avertissement: Police Ubuntu introuvable, repli sur police par défaut.")
-        font = pygame.font.Font(None, int(sh * 0.09))
-
+    font = pygame.font.Font(FONT_PATH, int(sh * 0.07)) if os.path.exists(FONT_PATH) else pygame.font.Font(None, 50)
     txt_surf = font.render("Bienvenue à bord", True, (40, 40, 40))
     txt_rect = txt_surf.get_rect(center=(sw // 2, logo_rect.bottom + 60))
 
-    # Chronologie
-    circle_dur = 2500 
-    fade_dur = 2000
     start_time = pygame.time.get_ticks()
-    
+    circle_dur, fade_dur = 2000, 2000
     has_played = False
-    running = True
     clock = pygame.time.Clock()
 
-    while running:
+    while True:
         clock.tick(60)
         for event in pygame.event.get():
-            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
-                running = False
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE: return
 
         now = pygame.time.get_ticks()
         elapsed = now - start_time
 
-        # 1. Animation Cercle
         if elapsed < circle_dur:
             screen.fill((0, 0, 0))
-            prog = elapsed / circle_dur
-            radius = int(prog * (max(sw, sh) * 0.8))
+            radius = int((elapsed / circle_dur) * (max(sw, sh) * 0.8))
             pygame.draw.circle(screen, (255, 255, 255), (sw // 2, sh // 2), radius)
-
-        # 2. Animation Fondu
         elif elapsed < (circle_dur + fade_dur):
             screen.fill((255, 255, 255))
             alpha = int(((elapsed - circle_dur) / fade_dur) * 255)
             logo.set_alpha(alpha)
             screen.blit(logo, logo_rect)
-            
-            txt_tmp = txt_surf.copy()
-            txt_tmp.set_alpha(alpha)
-            screen.blit(txt_tmp, txt_rect)
-
-        # 3. Écran Fixe + Audio
+            t_tmp = txt_surf.copy(); t_tmp.set_alpha(alpha); screen.blit(t_tmp, txt_rect)
         else:
             screen.fill((255, 255, 255))
-            logo.set_alpha(255)
             screen.blit(logo, logo_rect)
             screen.blit(txt_surf, txt_rect)
             
             if not has_played:
-                # Si Piper a fini de générer le fichier
-                if not voice_thread.is_alive():
-                    if os.path.exists(VOICE_TEMP):
-                        pygame.mixer.Sound(VOICE_TEMP).play()
-                    has_played = True
+                voice_thread.join() # On attend (ce sera très court)
+                if os.path.exists(VOICE_TEMP):
+                    pygame.mixer.Sound(VOICE_TEMP).play()
+                has_played = True
 
         pygame.display.flip()
-
-    pygame.quit()
-    sys.exit()
 
 if __name__ == "__main__":
     main()
