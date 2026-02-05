@@ -10,7 +10,7 @@ def main():
     info = pygame.display.Info()
     sw, sh = info.current_w, info.current_h
     screen = pygame.display.set_mode((sw, sh), pygame.NOFRAME | pygame.FULLSCREEN)
-    
+    pygame.mouse.set_visible(False)
     if not os.path.exists(LOGO_PATH):
         pygame.quit()
         return
