@@ -3,17 +3,15 @@ import os
 import sys
 import subprocess
 import platform
-import time
+import threading # Pour générer l'audio sans bloquer l'image
 
-# Forcer le dossier de travail
+# Configuration
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(BASE_DIR)
-
-LOGO_PATH = os.path.join("assets", "trans-node-nobg.png")
 VOICE_TEMP = os.path.join(BASE_DIR, "welcome.wav")
 
-def speak_after_animation():
-    """Génère et joue la voix une fois que l'écran est stable."""
+def generate_voice_thread():
+    """Fonction qui sera lancée en arrière-plan."""
     piper_dir = os.path.join(BASE_DIR, "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
     text = "Bonjour et bienvenue à bord."
@@ -23,93 +21,81 @@ def speak_after_animation():
         command = f'echo {text} | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
     else:
         piper_path = os.path.join(piper_dir, "piper")
-        subprocess.run(["amixer", "sset", "Master", "100%"], capture_output=True)
         command = (
             f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
             f'echo "{text}" | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
         )
-
-    # Exécution de Piper
+    
     try:
         subprocess.run(command, shell=True, check=True)
-        if os.path.exists(VOICE_TEMP):
-            speech = pygame.mixer.Sound(VOICE_TEMP)
-            speech.play()
-    except Exception as e:
-        print(f"Erreur audio : {e}")
+        print("Voix générée en arrière-plan.")
+    except:
+        print("Erreur de génération voix.")
 
 def main():
-    # Augmenter le buffer de 512 à 4096 pour éviter les sauts
+    # 1. Initialisation Audio avec gros Buffer
     pygame.mixer.pre_init(44100, -16, 2, 4096)
     pygame.init()
+
+    # 2. LANCER LA GÉNÉRATION DE LA VOIX IMMÉDIATEMENT (Thread séparé)
+    # Cela tourne pendant que l'animation commence
+    voice_thread = threading.Thread(target=generate_voice_thread)
+    voice_thread.start()
 
     info = pygame.display.Info()
     sw, sh = info.current_w, info.current_h
     screen = pygame.display.set_mode((sw, sh), pygame.NOFRAME | pygame.FULLSCREEN)
     pygame.mouse.set_visible(False)
 
-    # Chargement graphique
-    if not os.path.exists(LOGO_PATH): return
-    logo_img = pygame.image.load(LOGO_PATH).convert_alpha()
+    # Chargement assets
+    logo_img = pygame.image.load(os.path.join("assets", "trans-node-nobg.png")).convert_alpha()
     h_logo = int(sh * 0.5)
-    ratio = h_logo / logo_img.get_height()
-    logo = pygame.transform.smoothscale(logo_img, (int(logo_img.get_width() * ratio), h_logo))
+    logo = pygame.transform.smoothscale(logo_img, (int(logo_img.get_width() * (h_logo/logo_img.get_height())), h_logo))
     logo_rect = logo.get_rect(center=(sw // 2, sh // 2 - 50))
 
-    font = pygame.font.SysFont("Arial", int(sh * 0.07), bold=True)
-    txt_surf = font.render("Bienvenue à bord", True, (40, 40, 40))
-    txt_rect = txt_surf.get_rect(center=(sw // 2, logo_rect.bottom + 60))
-
     # Chronologie
-    circle_duration = 2000  # 2s pour le cercle
-    fade_duration = 2000    # 2s pour le fondu du logo
+    circle_duration = 2000 
+    fade_duration = 2000
     start_time = pygame.time.get_ticks()
     
-    has_spoken = False
+    has_played = False
     running = True
     clock = pygame.time.Clock()
 
     while running:
         clock.tick(60)
         for event in pygame.event.get():
-            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
-                running = False
+            if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE: running = False
 
         now = pygame.time.get_ticks()
         elapsed = now - start_time
 
-        # 1. Animation du cercle (Fond noir)
+        # ÉTAPE 1 : Le cercle s'agrandit (Piper travaille en secret ici)
         if elapsed < circle_duration:
             screen.fill((0, 0, 0))
             prog = elapsed / circle_duration
             radius = int(prog * (max(sw, sh) * 0.8))
             pygame.draw.circle(screen, (255, 255, 255), (sw // 2, sh // 2), radius)
 
-        # 2. Animation du fondu (Fond blanc)
+        # ÉTAPE 2 : Fondu du logo
         elif elapsed < (circle_duration + fade_duration):
             screen.fill((255, 255, 255))
-            fade_elapsed = elapsed - circle_duration
-            alpha = int((fade_elapsed / fade_duration) * 255)
-            
-            l_tmp = logo.copy()
-            l_tmp.set_alpha(alpha)
-            screen.blit(l_tmp, logo_rect)
-            
-            t_tmp = txt_surf.copy()
-            t_tmp.set_alpha(alpha)
-            screen.blit(t_tmp, txt_rect)
+            alpha = int(((elapsed - circle_duration) / fade_duration) * 255)
+            logo.set_alpha(alpha)
+            screen.blit(logo, logo_rect)
 
-        # 3. Écran fixe + Lancement du son
+        # ÉTAPE 3 : Écran fixe et Lecture du son
         else:
             screen.fill((255, 255, 255))
+            logo.set_alpha(255)
             screen.blit(logo, logo_rect)
-            screen.blit(txt_surf, txt_rect)
             
-            # On ne lance le son que quand tout est fini et stable
-            if not has_spoken:
-                pygame.display.flip() # On force le dernier affichage avant de bloquer pour Piper
-                speak_after_animation()
-                has_spoken = True
+            if not has_played:
+                # On attend juste que le thread Piper ait fini au cas où le Pi est lent
+                voice_thread.join() 
+                if os.path.exists(VOICE_TEMP):
+                    pygame.mixer.Sound(VOICE_TEMP).play()
+                has_played = True
 
         pygame.display.flip()
 
