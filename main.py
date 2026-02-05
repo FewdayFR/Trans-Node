@@ -14,7 +14,7 @@ def generate_voice_thread():
     """Génère l'audio en arrière-plan pendant l'animation."""
     piper_dir = os.path.join(BASE_DIR, "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
-    text = "Trans node, service d'informations voyageurs.Bonjour et bienvenue à bord."
+    text = "Transs node, service d'informations voyageurs. Bonjour et bienvenue à bord."
     
     if platform.system() == "Windows":
         piper_path = os.path.join(piper_dir, "piper.exe")
