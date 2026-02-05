@@ -19,7 +19,11 @@ def generate_voice_thread():
     
     if platform.system() == "Windows":
         piper_path = os.path.join(piper_dir, "piper.exe")
-        command = f'echo {text} | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
+       command = (
+                    f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
+                    f'echo "{text}" | "{piper_path}" --model "{model_path}" '
+                    f'--output_file "{VOICE_TEMP}" --threads 4'
+                )
     else:
         piper_path = os.path.join(piper_dir, "piper")
         # On utilise 'nice' pour que Piper ne ralentisse pas l'affichage Pygame
