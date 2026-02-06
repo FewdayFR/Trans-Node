@@ -21,7 +21,7 @@ def generate_voice():
     # Mais restons simple avec une priorité élevée (nice)
     command = (
         f'export LD_LIBRARY_PATH="{piper_dir}:$LD_LIBRARY_PATH" && '
-        f'echo "{text}" | nice -n -10 "{piper_path}" --model "{model_path}" '
+        f'echo "{text}" | "{piper_path}" --model "{model_path}" '
         f'--output_file "{VOICE_TEMP}" --threads 4'
     )
     try:
