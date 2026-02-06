@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annonces>
+    <index id="1">
+        <description>depart</description>
+        <tts>En attente du départ.</tts>
+    </index>
+    <index id="2">
+        <description>destination</description>
+        <tts>Destination : Gan-le-Nés. Merci de laisser les places prioritaires à ceux qui en ont besoin. Départ dans une minute.</tts>
+    </index>
+    <index id="3">
+        <description>prochain arrêt</description>
+        <tts>Prochain arrêt : Place de la Mairie. Correspondance avec la ligne B.</tts>
+    </index>
+    <index id="4">
+        <description>sécurité descente</description>
+        <tts>Attention à la marche en descendant du véhicule.</tts>
+    </index>
+    <index id="5">
+        <description>terminus</description>
+        <tts>Terminus de la ligne ! Tous les passagers sont invités à descendre.</tts>
+    </index> </annonces>
