@@ -2,7 +2,7 @@
 <annonces>
     <index id="1">
         <description>depart</description>
-        <tts>En attente du départ.</tts>
+        <tts>Transs node, Bonjour et bienvenu. En attente du départ.</tts>
     </index>
     <index id="2">
         <description>destination</description>
