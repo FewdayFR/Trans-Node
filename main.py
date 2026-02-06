@@ -12,7 +12,7 @@ FONT_PATH = os.path.join(BASE_DIR, "assets", "Ubuntu-Medium.ttf")
 
 def generate_voice():
     """Génère la voix Piper - Optimisé Pi 3 B+"""
-    text = "Idéliss, Bonjour et bienvenue à bord."
+    text = "Transs node, Bonjour et bienvenue à bord."
     piper_dir = os.path.join(BASE_DIR, "piper")
     piper_path = os.path.join(piper_dir, "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
