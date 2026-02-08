@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SIV TransNode - {num_ligne}</title>
+    <style>
+        @font-face {
+            font-family: 'UbuntuCustom';
+            src: url('{font_base64}');
+        }
+
+        :root {
+            --green: #00A651;
+            --blue: #007CC3;
+            --dark-blue: #005689;
+            --bg-gray: #D9D9D9;
+        }
+
+        body, html {
+            margin: 0; padding: 0;
+            width: 100vw; height: 100vh;
+            background-color: var(--bg-gray);
+            font-family: 'UbuntuCustom', sans-serif;
+            overflow: hidden;
+            display: flex; flex-direction: column;
+        }
+
+        /* --- ENTETE --- */
+        .header {
+            height: 15vh;
+            display: flex;
+            align-items: center;
+            background-color: var(--green);
+            position: relative;
+        }
+
+        .header-logo-bg {
+            width: 200px;
+            height: 100%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .header-content {
+            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 40px;
+            color: white;
+            font-size: 3.2rem;
+            font-weight: 500;
+        }
+
+        /* --- ZONE CENTRALE --- */
+        .main-content {
+            flex: 1;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .line-bar {
+            margin-left: 206px;
+            position: absolute;
+            width: 95%;
+            height: 40px;
+            background: var(--green);
+            top: 64%; transform: translateY(-50%);
+        }
+
+        .dashed-prefix {
+            position: absolute;
+            left: 0; width: 204px; height: 40px;
+            background-image: linear-gradient(to right, var(--green) 50%, transparent 50%);
+            background-size: 29px 100%;
+            top: 64%; transform: translateY(-50%);
+        }
+
+        .stops-layer {
+            position: absolute;
+            width: 122%; height: 100%;
+            display: flex; align-items: center;
+            padding-left: 27px;
+            box-sizing: border-box;
+        }
+
+        .gps-arrow-container {
+            margin-top: 142px;
+            margin-right: 41px;
+            z-index: 30;
+        }
+
+        .gps-arrow {
+            width: 230px;
+            height: auto;
+        }
+
+        .stop-container {
+            position: relative;
+            margin-top: 136px;
+            margin-right: 193px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .stop-name {
+            position: absolute;
+            bottom: 89px;
+            left: 50px;
+            transform: rotate(-45deg);
+            transform-origin: bottom left;
+            display: flex;
+            flex-direction: column; 
+            line-height: 0.95; 
+            white-space: nowrap;
+            color: #1a1a1a;
+            font-size: 2.3rem; 
+            font-weight: bold;
+        }
+
+        /* --- FOOTER --- */
+        .footer-container {
+            height: 30vh;
+            position: relative;
+            width: 100vw;
+        }
+
+        .triangle-pointer {
+            position: absolute;
+            top: -102px;
+            left: 271px; 
+            z-index: 11;
+        }
+
+        .footer-blue-box {
+            height: 80%;
+            background-color: var(--blue);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-left: 50px;
+            color: white;
+        }
+
+        .footer-label { font-size: 1.5rem; margin-bottom: 5px; }
+        .footer-main-stop { font-size: 7.5rem; font-weight: bold; text-transform: uppercase; margin: 0; margin-left: 153px; }
+
+        .ticker-zone {
+            height: 20%;
+            background-color: var(--dark-blue);
+            display: flex; align-items: center;
+            overflow: hidden;
+            color: white; font-size: 1.6rem;
+        }
+
+        .ticker-text {
+            white-space: nowrap;
+            animation: marquee 30s linear infinite;
+        }
+
+        @keyframes marquee {
+            0% { transform: translateX(100vw); }
+            100% { transform: translateX(-100%); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="header-logo-bg">
+            <img src="{logo_base64}" alt="Logo" style="width:147px;">
+        </div>
+        <div class="header-content">
+            <span style="margin-left: 82px">Destination : {destination}</span>
+            <span id="clock">00:00</span>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="dashed-prefix"></div>
+        <div class="line-bar"></div>
+        
+        <div class="stops-layer">
+            <div class="gps-arrow-container">
+                <img src="{gps_base64}" alt="Localisation" class="gps-arrow">
+            </div>
+
+            {arrets_html}
+        </div>
+    </div>
+
+    <div class="footer-container">
+        <svg class="triangle-pointer" width="171" height="102" viewBox="0 0 100 100">
+            <polygon points="50,0 0,100 100,100" fill="#007CC3" />
+        </svg>
+
+        <div class="footer-blue-box">
+            <div class="footer-label">Prochain arrêt | next stop</div>
+            <h1 class="footer-main-stop">{prochain_arret}</h1>
+        </div>
+        <div class="ticker-zone">
+            <div class="ticker-text">
+                Validez vos titres de transport, y compris en correspondance — Bienvenue sur la ligne {num_ligne} du réseau TransNode
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function formatStopNames() {
+            const stopElements = document.querySelectorAll('.stop-name');
+            
+            stopElements.forEach(el => {
+                let name = el.getAttribute('data-name');
+                if (!name) return;
+
+                if (name.length > 32) name = name.substring(0, 32);
+
+                if (name.length > 14) {
+                    el.style.fontSize = "2.1rem";
+                }
+
+                if (name.length > 16 && name.includes(' ')) {
+                    const middle = Math.floor(name.length / 2);
+                    const spaces = [];
+                    for(let i = 0; i < name.length; i++) {
+                        if (name[i] === " ") spaces.push(i);
+                    }
+
+                    const bestSpaceIndex = spaces.reduce((prev, curr) => {
+                        return (Math.abs(curr - middle) < Math.abs(prev - middle) ? curr : prev);
+                    });
+
+                    const line1 = name.substring(0, bestSpaceIndex).trim();
+                    const line2 = name.substring(bestSpaceIndex).trim();
+
+                    el.innerHTML = `<span>${line1}</span><span>${line2}</span>`;
+                } else {
+                    el.innerText = name;
+                }
+            });
+        }
+
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('clock').innerText = now.toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'});
+        }
+
+        formatStopNames();
+        setInterval(updateClock, 1000); 
+        updateClock();
+    </script>
+</body>
+</html>

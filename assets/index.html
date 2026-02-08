@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>SIV TransNode - Avec Flèche GPS</title>
+    <style>
+        @font-face {
+            font-family: 'UbuntuCustom';
+            src: url('assets/Ubuntu-Medium.ttf');
+        }
+
+        :root {
+            --green: #00A651;
+            --blue: #007CC3;
+            --dark-blue: #005689;
+            --bg-gray: #D9D9D9;
+        }
+
+        body, html {
+            margin: 0; padding: 0;
+            width: 100vw; height: 100vh;
+            background-color: var(--bg-gray);
+            font-family: 'UbuntuCustom', sans-serif;
+            overflow: hidden;
+            display: flex; flex-direction: column;
+        }
+
+        /* --- ENTETE --- */
+        .header {
+            height: 15vh;
+            display: flex;
+            align-items: center;
+            background-color: var(--green);
+            position: relative;
+        }
+
+        .header-logo-bg {
+            width: 200px;
+            height: 100%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-bottom: 5px solid #E30613;
+        }
+
+        .header-content {
+            flex: 1;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 40px;
+            color: white;
+            font-size: 3.2rem;
+            font-weight: 500;
+        }
+
+        /* --- ZONE CENTRALE --- */
+        .main-content {
+            flex: 1;
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .line-bar {
+            position: absolute;
+            width: 100%;
+            height: 25px;
+            background: var(--green);
+            top: 60%; transform: translateY(-50%);
+        }
+
+        .dashed-prefix {
+            position: absolute;
+            left: 0; width: 100px; height: 25px;
+            background-image: linear-gradient(to right, var(--green) 50%, transparent 50%);
+            background-size: 25px 100%;
+            top: 50%; transform: translateY(-50%);
+        }
+
+        .stops-layer {
+            position: absolute;
+            width: 117%; height: 100%;
+            display: flex; align-items: center;
+            padding-left: 80px; /* Ajusté pour la nouvelle flèche */
+            box-sizing: border-box;
+        }
+
+        /* STYLE DE LA NOUVELLE FLÈCHE GPS */
+        .gps-arrow-container {
+            margin-right: 37px;
+            z-index: 30;
+            display: flex;
+            align-items: center;
+        }
+
+        .gps-arrow {
+            width: 147px; /* Taille augmentée pour correspondre au visuel */
+            height: auto;
+        }
+
+        .stop-container {
+            position: relative;
+            margin-right: 180px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .stop-name {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            transform: rotate(-45deg);
+            transform-origin: bottom left;
+            white-space: nowrap;
+            color: #1a1a1a;
+            font-size: 2rem;
+            font-weight: bold;
+        }
+
+        /* --- FOOTER --- */
+        .footer-container {
+            height: 30vh;
+            position: relative;
+            width: 100vw;
+        }
+
+        .triangle-pointer {
+            position: absolute;
+            top: -154px;
+            left: 201px;
+            z-index: 11;
+        }
+
+        .footer-blue-box {
+            height: 80%;
+            background-color: var(--blue);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-left: 50px;
+            color: white;
+        }
+
+        .footer-label { font-size: 1.5rem; margin-bottom: 5px; }
+        .footer-main-stop { font-size: 7rem; font-weight: bold; text-transform: uppercase; margin: 0;margin-left: 153px; }
+
+        .ticker-zone {
+            height: 20%;
+            background-color: var(--dark-blue);
+            display: flex; align-items: center;
+            overflow: hidden;
+            color: white; font-size: 1.6rem;
+        }
+
+        .ticker-text {
+            white-space: nowrap;
+            animation: marquee 30s linear infinite;
+        }
+
+        @keyframes marquee {
+            0% { transform: translateX(100vw); }
+            100% { transform: translateX(-100%); }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="header-logo-bg">
+            <img src="trans-node-nobg.png" alt="Localisation" class="gps-arrow">
+        </div>
+        <div class="header-content">
+            <span style="margin-left: 82px" >Destination : Gan le neez</span>
+            <span id="clock">07:00</span>
+        </div>
+    </div>
+
+    <div class="main-content">
+        <div class="dashed-prefix"></div>
+        <div class="line-bar"></div>
+        
+        <div class="stops-layer">
+            <div class="gps-arrow-container">
+                <img src="fleche-gps.svg" alt="Localisation" class="gps-arrow">
+            </div>
+
+            <div class="stop-container">
+                <svg width="50" height="50">
+                    <circle cx="25" cy="25" r="20" fill="#007CC3" stroke="white" stroke-width="4" />
+                </svg>
+            </div>
+
+            <div class="stop-container">
+                <span class="stop-name">Bonaparte</span>
+                <svg width="40" height="40"><circle cx="20" cy="20" r="16" fill="white" stroke="#00A651" stroke-width="5" /></svg>
+            </div>
+            <div class="stop-container">
+                <span class="stop-name">Barthou Beaumont</span>
+                <svg width="40" height="40"><circle cx="20" cy="20" r="16" fill="white" stroke="#00A651" stroke-width="5" /></svg>
+            </div>
+            <div class="stop-container">
+                <span class="stop-name">Bosquet Quai C</span>
+                <svg width="40" height="40"><circle cx="20" cy="20" r="16" fill="white" stroke="#00A651" stroke-width="5" /></svg>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-container">
+        <svg class="triangle-pointer" width="171" height="160" viewBox="0 0 100 100">
+            <polygon points="50,0 0,100 100,100" fill="#007CC3" />
+        </svg>
+
+        <div class="footer-blue-box">
+            <div class="footer-label">Prochain arrêt | next stop</div>
+            <h1 class="footer-main-stop">Gare de Pau</h1>
+        </div>
+        <div class="ticker-zone">
+            <div class="ticker-text">
+                Validez vos titres de transport, y compris en correspondance — Bienvenue sur le réseau TransNode —
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('clock').innerText = now.toLocaleTimeString('fr-FR', {hour: '2-digit', minute:'2-digit'});
+        }
+        setInterval(updateClock, 1000); 
+        updateClock();
+    </script>
+</body>
+</html>
