@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<lign id="F">
+  <destination>
+    <description>PAU Gare de Pau Quai E</description>
+    <sens_id>1</sens_id>
+    <sequence_1>
+      <code_arret>F-HFMI_1</code_arret>
+      <nom_arret>PAU Hôpital F. Mitterrand</nom_arret>
+      <tts>PAU Hôpital F. Mitterrand</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>F-CLIN_1</code_arret>
+      <nom_arret>Cliniques</nom_arret>
+      <tts>Cliniques</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>F-BHAM_1</code_arret>
+      <nom_arret>Buros - Le Hameau</nom_arret>
+      <tts>Buros - Le Hameau</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>F-BPAI_1</code_arret>
+      <nom_arret>Bd de la Paix</nom_arret>
+      <tts>Bd de la Paix</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>CDBOQC_C</code_arret>
+      <nom_arret>Catherine de Bourbon Quai C</nom_arret>
+      <tts>Catherine de Bourbon Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>CUNIQC_C</code_arret>
+      <nom_arret>Condorcet - Université Quai C</nom_arret>
+      <tts>Condorcet - Université Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>TCADQC_C</code_arret>
+      <nom_arret>Tourasse - Cité Administrative Quai C</nom_arret>
+      <tts>Tourasse - Cité Administrative Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>F-SARA_1</code_arret>
+      <nom_arret>Saragosse</nom_arret>
+      <tts>Saragosse</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>F-FOIR_1</code_arret>
+      <nom_arret>Pl. du Foirail</nom_arret>
+      <tts>Pl. du Foirail</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, T4, 6, 10, A</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>F-HDES_1</code_arret>
+      <nom_arret>Les Halles - Despourrins</nom_arret>
+      <tts>Les Halles - Despourrins</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 6, 10, A</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>BOSQQA_A</code_arret>
+      <nom_arret>Pl. d'Espagne - Bosquet Quai A</nom_arret>
+      <tts>Pl. d'Espagne - Bosquet Quai A</tts>
+      <terminus>0</terminus>
+      <correspondance>T1</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>F-BABE_2</code_arret>
+      <nom_arret>Barthou - Beaumont</nom_arret>
+      <tts>Barthou - Beaumont</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 5, A, 8, 9</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>PGDPQE_E</code_arret>
+      <nom_arret>PAU Gare de Pau Quai E</nom_arret>
+      <tts>PAU Gare de Pau Quai E</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+  </destination>
+  <destination>
+    <description>PAU Hôpital F. Mitterrand</description>
+    <sens_id>2</sens_id>
+    <sequence_1>
+      <code_arret>PGDPQE_E</code_arret>
+      <nom_arret>PAU Gare de Pau Quai E</nom_arret>
+      <tts>PAU Gare de Pau Quai E</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>F-BABE_1</code_arret>
+      <nom_arret>Barthou - Beaumont</nom_arret>
+      <tts>Barthou - Beaumont</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 5, A, 8, 9</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>BOSQQB_B</code_arret>
+      <nom_arret>Pl. d'Espagne - Bosquet Quai B</nom_arret>
+      <tts>Pl. d'Espagne - Bosquet Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 5, COXI, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>F-HDES_2</code_arret>
+      <nom_arret>Les Halles - Despourrins</nom_arret>
+      <tts>Les Halles - Despourrins</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T1, 16, 6, 10, COXI, A, C, D</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>F-AALO_2</code_arret>
+      <nom_arret>Alliés - Alsace Lorraine</nom_arret>
+      <tts>Alliés - Alsace Lorraine</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 16, T4, 6, 10, COXI, A</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>F-SARA_2</code_arret>
+      <nom_arret>Saragosse</nom_arret>
+      <tts>Saragosse</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>TCADQB_B</code_arret>
+      <nom_arret>Tourasse - Cité Administrative Quai B</nom_arret>
+      <tts>Tourasse - Cité Administrative Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>CUNIQB_B</code_arret>
+      <nom_arret>Condorcet - Université Quai B</nom_arret>
+      <tts>Condorcet - Université Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>CDBOQB_B</code_arret>
+      <nom_arret>Catherine de Bourbon Quai B</nom_arret>
+      <tts>Catherine de Bourbon Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>F-BPAI_2</code_arret>
+      <nom_arret>Bd de la Paix</nom_arret>
+      <tts>Bd de la Paix</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>F-BHAM_2</code_arret>
+      <nom_arret>Buros - Le Hameau</nom_arret>
+      <tts>Buros - Le Hameau</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>F-CLIN_2</code_arret>
+      <nom_arret>Cliniques</nom_arret>
+      <tts>Cliniques</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>F-HFMI_2</code_arret>
+      <nom_arret>PAU Hôpital F. Mitterrand</nom_arret>
+      <tts>PAU Hôpital F. Mitterrand</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+  </destination>
+</lign>

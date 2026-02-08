@@ -1,0 +1,587 @@
+<?xml version="1.0" ?>
+<lign id="D">
+  <destination>
+    <description>BILLERE J. Gois</description>
+    <sens_id>1</sens_id>
+    <sequence_1>
+      <code_arret>CSTO_1/2</code_arret>
+      <nom_arret>PAU CST Jean Feger</nom_arret>
+      <tts>PAU CST Jean Feger</tts>
+      <terminus>0</terminus>
+      <correspondance>T3, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>STAP_1</code_arret>
+      <nom_arret>STAP</nom_arret>
+      <tts>STAP</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>RAMADI_1</code_arret>
+      <nom_arret>Ramadier</nom_arret>
+      <tts>Ramadier</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>LARRIB_1</code_arret>
+      <nom_arret>Larribau</nom_arret>
+      <tts>Larribau</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>GEOLOG_1</code_arret>
+      <nom_arret>Géologues</nom_arret>
+      <tts>Géologues</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>PSANTA_1</code_arret>
+      <nom_arret>Pissard Santarelli</nom_arret>
+      <tts>Pissard Santarelli</tts>
+      <terminus>0</terminus>
+      <correspondance>9</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>PSDHAM_1</code_arret>
+      <nom_arret>PAU Stades du Hameau</nom_arret>
+      <tts>PAU Stades du Hameau</tts>
+      <terminus>0</terminus>
+      <correspondance>T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>MOUCHO_N</code_arret>
+      <nom_arret>Cdt Mouchotte</nom_arret>
+      <tts>Cdt Mouchotte</tts>
+      <terminus>0</terminus>
+      <correspondance>11, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>PPDPQC_C</code_arret>
+      <nom_arret>PAU Porte des Pyrénées Quai C</nom_arret>
+      <tts>PAU Porte des Pyrénées Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>CHP_N</code_arret>
+      <nom_arret>CHP</nom_arret>
+      <tts>CHP</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>CJDALB_N</code_arret>
+      <nom_arret>Collège J. d'Albret</nom_arret>
+      <tts>Collège J. d'Albret</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, T2, 13</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>NPRINC_N</code_arret>
+      <nom_arret>Norman Prince</nom_arret>
+      <tts>Norman Prince</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>SJAMME_1</code_arret>
+      <nom_arret>St Jammes</nom_arret>
+      <tts>St Jammes</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>EVII_1</code_arret>
+      <nom_arret>Edouard VII</nom_arret>
+      <tts>Edouard VII</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 6, 9, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>FAISAN_1</code_arret>
+      <nom_arret>Faisans</nom_arret>
+      <tts>Faisans</tts>
+      <terminus>0</terminus>
+      <correspondance>T2, 11, 6, 9, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>BOSQQC_C</code_arret>
+      <nom_arret>PAU Bosquet Quai C</nom_arret>
+      <tts>PAU Bosquet Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, T3, 11, 6, C, 9, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>F-HDES_2</code_arret>
+      <nom_arret>Les Halles - Despourrins</nom_arret>
+      <tts>Les Halles - Despourrins</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T1, 16, 6, 10, COXI, A, C, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>LHMEDI_N</code_arret>
+      <nom_arret>Les Halles Médiathèque</nom_arret>
+      <tts>Les Halles Médiathèque</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>PDJUST_2</code_arret>
+      <nom_arret>Palais de Justice</nom_arret>
+      <tts>Palais de Justice</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>VERDQB_B</code_arret>
+      <nom_arret>Pl. Verdun Quai B</nom_arret>
+      <tts>Pl. Verdun Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, COXI, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>PHOEBU_2</code_arret>
+      <nom_arret>Gaston Phoebus</nom_arret>
+      <tts>Gaston Phoebus</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>PLAWRE_2</code_arret>
+      <nom_arret>Parc Lawrance</nom_arret>
+      <tts>Parc Lawrance</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>PDEXPO_2</code_arret>
+      <nom_arret>Parc des Expos</nom_arret>
+      <tts>Parc des Expos</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>BFRENE_2</code_arret>
+      <nom_arret>Beau Frêne</nom_arret>
+      <tts>Beau Frêne</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+    <sequence_25>
+      <code_arret>CSOLEI_2</code_arret>
+      <nom_arret>Clair Soleil</nom_arret>
+      <tts>Clair Soleil</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_25>
+    <sequence_26>
+      <code_arret>LAPLAC_2</code_arret>
+      <nom_arret>Laplace</nom_arret>
+      <tts>Laplace</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_26>
+    <sequence_27>
+      <code_arret>LAYGUE_2</code_arret>
+      <nom_arret>L'Ayguette</nom_arret>
+      <tts>L'Ayguette</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_27>
+    <sequence_28>
+      <code_arret>CDESTE_2</code_arret>
+      <nom_arret>Château d'Este</nom_arret>
+      <tts>Château d'Este</tts>
+      <terminus>0</terminus>
+      <correspondance>8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_28>
+    <sequence_29>
+      <code_arret>BDAMOU_2</code_arret>
+      <nom_arret>Bois d'Amour</nom_arret>
+      <tts>Bois d'Amour</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_29>
+    <sequence_30>
+      <code_arret>SCHWEI_2</code_arret>
+      <nom_arret>Schweitzer</nom_arret>
+      <tts>Schweitzer</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_30>
+    <sequence_31>
+      <code_arret>LACAOU_2</code_arret>
+      <nom_arret>Lacaou</nom_arret>
+      <tts>Lacaou</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_31>
+    <sequence_32>
+      <code_arret>RICHEL_2</code_arret>
+      <nom_arret>Richelieu</nom_arret>
+      <tts>Richelieu</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_32>
+    <sequence_33>
+      <code_arret>BJGOIS_2</code_arret>
+      <nom_arret>BILLERE J. Gois</nom_arret>
+      <tts>BILLERE J. Gois</tts>
+      <terminus>1</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_33>
+  </destination>
+  <destination>
+    <description>PAU CST Jean Feger</description>
+    <sens_id>2</sens_id>
+    <sequence_1>
+      <code_arret>BJGOIS_1</code_arret>
+      <nom_arret>BILLERE J. Gois</nom_arret>
+      <tts>BILLERE J. Gois</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>RICHEL_1</code_arret>
+      <nom_arret>Richelieu</nom_arret>
+      <tts>Richelieu</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>LACAOU_1</code_arret>
+      <nom_arret>Lacaou</nom_arret>
+      <tts>Lacaou</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>SCHWEI_1</code_arret>
+      <nom_arret>Schweitzer</nom_arret>
+      <tts>Schweitzer</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>BDAMOU_1</code_arret>
+      <nom_arret>Bois d'Amour</nom_arret>
+      <tts>Bois d'Amour</tts>
+      <terminus>0</terminus>
+      <correspondance>T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>CDESTE_1</code_arret>
+      <nom_arret>Château d'Este</nom_arret>
+      <tts>Château d'Este</tts>
+      <terminus>0</terminus>
+      <correspondance>8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>LAYGUE_1</code_arret>
+      <nom_arret>L'Ayguette</nom_arret>
+      <tts>L'Ayguette</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>LAPLAC_1</code_arret>
+      <nom_arret>Laplace</nom_arret>
+      <tts>Laplace</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>CSOLEI_1</code_arret>
+      <nom_arret>Clair Soleil</nom_arret>
+      <tts>Clair Soleil</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>BFRENE_1</code_arret>
+      <nom_arret>Beau Frêne</nom_arret>
+      <tts>Beau Frêne</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>PDEXPO_1</code_arret>
+      <nom_arret>Parc des Expos</nom_arret>
+      <tts>Parc des Expos</tts>
+      <terminus>0</terminus>
+      <correspondance>T4, 8</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>PLAWRE_1</code_arret>
+      <nom_arret>Parc Lawrance</nom_arret>
+      <tts>Parc Lawrance</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>PHOEBU_1</code_arret>
+      <nom_arret>Gaston Phoebus</nom_arret>
+      <tts>Gaston Phoebus</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>VERDQA_A</code_arret>
+      <nom_arret>Pl. Verdun Quai A</nom_arret>
+      <tts>Pl. Verdun Quai A</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>PDJUST_1</code_arret>
+      <nom_arret>Palais de Justice</nom_arret>
+      <tts>Palais de Justice</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>GUICHE_1</code_arret>
+      <nom_arret>Guichenné</nom_arret>
+      <tts>Guichenné</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, T2, 5, T3, 11, EMMA, C, 8, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>BOSQQD_D</code_arret>
+      <nom_arret>PAU Bosquet Quai D</nom_arret>
+      <tts>PAU Bosquet Quai D</tts>
+      <terminus>0</terminus>
+      <correspondance>T2, T3, 11, 6, A, 9, 17, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>FAISAN_2</code_arret>
+      <nom_arret>Faisans</nom_arret>
+      <tts>Faisans</tts>
+      <terminus>0</terminus>
+      <correspondance>T2, 11, 6, 9, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>EVII_2</code_arret>
+      <nom_arret>Edouard VII</nom_arret>
+      <tts>Edouard VII</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 6, 9, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>SJAMME_2</code_arret>
+      <nom_arret>St Jammes</nom_arret>
+      <tts>St Jammes</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>NPRINC_S</code_arret>
+      <nom_arret>Norman Prince</nom_arret>
+      <tts>Norman Prince</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>CJDALB_S</code_arret>
+      <nom_arret>Collège J. d'Albret</nom_arret>
+      <tts>Collège J. d'Albret</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>CHP_S</code_arret>
+      <nom_arret>CHP</nom_arret>
+      <tts>CHP</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>PPDPQD_D</code_arret>
+      <nom_arret>PAU Porte des Pyrénées Quai D</nom_arret>
+      <tts>PAU Porte des Pyrénées Quai D</tts>
+      <terminus>0</terminus>
+      <correspondance>11, 9, 13, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+    <sequence_25>
+      <code_arret>MOUCHO_S</code_arret>
+      <nom_arret>Cdt Mouchotte</nom_arret>
+      <tts>Cdt Mouchotte</tts>
+      <terminus>0</terminus>
+      <correspondance>11, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_25>
+    <sequence_26>
+      <code_arret>PSDHAM_2</code_arret>
+      <nom_arret>PAU Stades du Hameau</nom_arret>
+      <tts>PAU Stades du Hameau</tts>
+      <terminus>0</terminus>
+      <correspondance>T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_26>
+    <sequence_27>
+      <code_arret>PSANTA_2</code_arret>
+      <nom_arret>Pissard Santarelli</nom_arret>
+      <tts>Pissard Santarelli</tts>
+      <terminus>0</terminus>
+      <correspondance>9</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_27>
+    <sequence_28>
+      <code_arret>GEOLOG_2</code_arret>
+      <nom_arret>Géologues</nom_arret>
+      <tts>Géologues</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_28>
+    <sequence_29>
+      <code_arret>LARRIB_2</code_arret>
+      <nom_arret>Larribau</nom_arret>
+      <tts>Larribau</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_29>
+    <sequence_30>
+      <code_arret>RAMADI_2</code_arret>
+      <nom_arret>Ramadier</nom_arret>
+      <tts>Ramadier</tts>
+      <terminus>0</terminus>
+      <correspondance>T3</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_30>
+    <sequence_31>
+      <code_arret>CSTO_1/2</code_arret>
+      <nom_arret>PAU CST Jean Feger</nom_arret>
+      <tts>PAU CST Jean Feger</tts>
+      <terminus>1</terminus>
+      <correspondance>T3, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_31>
+  </destination>
+</lign>

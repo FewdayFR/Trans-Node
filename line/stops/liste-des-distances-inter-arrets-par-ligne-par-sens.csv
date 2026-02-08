@@ -1,0 +1,1860 @@
+﻿Ligne;Direction;Description;Séquence;Arrêt;Description;Distance Inter-Arrêts
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;1.0;MLAR_1/2;MAZERES-LEZONS L'Arriou;0.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;4.0;LAGUTS_1;Les Agûts;646.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;5.0;BARTHO_1;Barthou;139.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;9.0;LIBERT_1;Liberté;499.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;12.0;CONCOR_N;Concorde;233.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;14.0;BARTHE_E;Barthe;339.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;16.0;MONNAI_S;Pl. de la Monnaie;453.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;17.0;PGDPQA_A;PAU Gare de Pau Quai A;480.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;19.0;F-BABE_1;Barthou - Beaumont;364.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;23.0;VERDQB_B;Pl. Verdun Quai B;247.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;25.0;PLAWRE_2;Parc Lawrance;302.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;26.0;SJOSEP_E;St Joseph;323.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;27.0;MOHED_2;Mohédan;419.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;32.0;ANGOT_S;Angot;201.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;38.0;BOILEA_2;Boileau;221.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;4.0;GCHEN_O;Grands Chênes;213.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;5.0;BOILEA_1;Boileau;218.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;6.0;GAVARN_1;Gavarnie;192.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;2.0;DGAULL_1;Gal De Gaulle;403.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;8.0;COUETT_1;Couettes;218.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;3.0;LCOLLI_1;Les Collines;429.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;9.0;CDBOQG_G;Catherine de Bourbon Quai G;252.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;6.0;MLEZON_N;Lezons;403.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;14.0;BIDASS_O;Bidassoa;455.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;7.0;CCMAZE_N;Grand Sud;300.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;15.0;SDOMIN_1;St Dominique;233.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;18.0;BONAPA_1;Bonaparte;406.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;21.0;VERDQA_A;Pl. Verdun Quai A;317.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;21.0;LHMEDI_N;Les Halles Médiathèque;323.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;23.0;GUICHE_1;Guichenné;349.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;24.0;PHOEBU_2;Gaston Phoebus;262.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;29.0;ROUSSI_O;Roussille;353.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;29.0;BIDASS_E;Bidassoa;300.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;41.0;LCOLLI_2;Les Collines;496.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;30.0;PCIEL_2;Plein Ciel;446.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;1.0;BLAURE_O;BIZANOS Laurets;0.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;33.0;CITEAU_S;Cîteaux;351.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;2.0;SPOLYV_1;Salle Polyvalente;652.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;34.0;CDBOQH_H;Catherine de Bourbon Quai H;353.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;3.0;VHUGO_O;Victor Hugo;278.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;37.0;GAVARN_2;Gavarnie;252.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;6.0;MDBIZA_1;Mairie de Bizanos;205.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;39.0;GCHEN_E;Grands Chênes;242.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;8.0;CONSER_1;Conservatoire;712.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;40.0;SAUMUR_2;Saumur;173.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;9.0;NAVARR_1;Navarre;221.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;2.0;JALAI_1;Jaï Alaï;471.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;12.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;3.0;SAUMUR_1;Saumur;223.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;13.0;F-HDES_2;Les Halles - Despourrins;304.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;7.0;LAPERR_1;Laperrine;254.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;14.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;10.0;CITEAU_N;Cîteaux;324.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;15.0;ABREMO_2;Abbé Brémond;436.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;17.0;MONTAR_1;Montardon;373.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;16.0;REDANU_2;Rhin et Danube;312.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;24.0;BOSQQH_H;PAU Bosquet Quai H;313.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;19.0;CUNIVE_E;Cité Universitaire;260.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;26.0;BONAPA_2;Bonaparte;358.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;21.0;CITEAU_S;Cîteaux;374.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;27.0;PGDPQB_B;PAU Gare de Pau Quai B;392.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;25.0;CVERT_2;Chemin Vert;348.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;30.0;BARTHE_O;Barthe;233.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;26.0;GCHEN_N;Grands Chênes;351.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;31.0;CDPRIN_O;Croix du Prince;303.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;29.0;ADER_2;Ader;392.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;34.0;LPDGEL_2;Lycée des Métiers de l'Habitat;280.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;30.0;DAURAT_2;Daurat;370.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;35.0;LIBERT_2;Liberté;363.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;31.0;VDOR_2;Val d'Or;250.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;36.0;GAYET_2;Gayet;367.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;34.0;AYGUEL_2;Ayguelongue;700.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;38.0;MLEZON_S;Lezons;204.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;35.0;NNIEME_2;Normandie Niemen;430.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;39.0;BARTHO_2;Barthou;484.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;36.0;LDBEAR_2;Luy de Béarn;649.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;42.0;DGAULL_2;Gal De Gaulle;437.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;40.0;CRFORG_2;Collège R. Forgues;445.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;43.0;MLAR_1/2;MAZERES-LEZONS L'Arriou;572.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;41.0;PD4SAI_2;Pl. des 4 Saisons;516.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;5.0;SMAGNE_N;St Magne;155.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;1.0;SCLI_1/2;SERRES-CASTET Liben;0.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;10.0;EVII_1;Edouard VII;476.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;9.0;NNIEME_1;Normandie Niemen;523.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;20.0;HELIOP_2;Hélioparc;303.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;15.0;ADER_1;Ader;368.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;22.0;CDBOQH_H;Catherine de Bourbon Quai H;353.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;16.0;CAFPA_1;Centre AFPA;416.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;28.0;CAFPA_2;Centre AFPA;241.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;17.0;CADETS_1;Cadets;190.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;32.0;HIPPAU_2;Hippodrome;233.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;20.0;BOCAGE_1;Bocage;360.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;37.0;VDOSSA_2;Vallée d'Ossau;831.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;21.0;SBLANC_1;Stade Blanchard;256.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;38.0;DEVEZE_2;Devèzes;774.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;22.0;CDBOQG_G;Catherine de Bourbon Quai G;396.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;43.0;SCLI_1/2;SERRES-CASTET Liben;549.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;25.0;CUNIVE_O;Cité Universitaire;330.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;2.0;SDSCAS_1;Stade H. Marracq;610.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;26.0;FACULT_O;Facultés;300.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;3.0;PD4SAI_1;Pl. des 4 Saisons;470.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;27.0;CCLERM_O;Collège Clermont;480.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;5.0;LARLAS_1;Larlas;453.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;1.0;8M1945_2;8 Mai 1945;0.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;6.0;DEVEZE_1;Devèzes;361.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;4.0;MOUNYO_2;Mounyoye;843.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;12.0;HIPPAU_1;Hippodrome;1334.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;5.0;ASDF_1/2;ARTIGUELOUTAN Salle des Fêtes;406.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;13.0;VDOR_1;Val d'Or;226.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;8.0;CANAL_1;Canal;1013.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;18.0;GCHEN_S;Grands Chênes;255.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;9.0;MDOUSS_1;Mairie d'Ousse;537.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;19.0;CVERT_1;Chemin Vert;300.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;10.0;BARTH_1;Barthouil;725.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;24.0;HELIOP_1;Hélioparc;361.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;12.0;EDLEE_1;Ecole de Lée;891.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;28.0;REDANU_1;Rhin et Danube;251.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;15.0;CAMARD_1;Camardoun;276.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;29.0;ABREMO_1;Abbé Brémond;415.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;19.0;ARROUT_1;Arrouturous;525.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;31.0;F-HDES_1;Les Halles - Despourrins;345.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;20.0;SJEAN_1;St Jean;373.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;32.0;BOSQQD_D;PAU Bosquet Quai D;343.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;22.0;EALPHA_E;ESAT Alpha;238.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;33.0;FAISAN_2;Faisans;350.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;24.0;SBENOI_1;St Benoît;589.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;36.0;CONSER_2;Conservatoire;229.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;25.0;SANSAR_1;Sansarricq;249.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;37.0;BUISSO_O;Buisson;740.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;26.0;SAPINS_O;Sapins;389.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;38.0;MDBIZA_2;Mairie de Bizanos;519.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;27.0;CDLARR_1;Castet de l'Array;376.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;40.0;BALAVO_S;Balavoine;153.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;29.0;REGINA_1;Régina;401.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;3.0;RUISSE_2;Ruisseau;140.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;31.0;TRESPO_1;Trespoey;366.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;6.0;SDARTI_1;Stade d'Artigueloutan;382.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;34.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;13.0;ARMAND_1;Armandieu;691.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;42.0;CLAVER_2;Claverie;645.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;28.0;TREVIL_1;Tréville;529.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;45.0;MDBILL_O;Mairie de Billère;244.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;33.0;FAISAN_1;Faisans;429.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;46.0;SDBILL_2;Stade Hugot;282.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;38.0;CIMETI_2;Cimetière;447.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;51.0;DGENNE_2;De Gennes;280.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;39.0;218ERI_2;218ème RI;354.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;54.0;MONTGO_2;Montgolfier;738.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;40.0;HUTTON_E;Hutton;367.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;56.0;CCLESC_2;Induspal;484.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;41.0;BOURBO_2;Bourbon;240.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;57.0;LQLIQE_E;LESCAR Quartier Libre;238.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;48.0;PLAINE_2;Plaine;289.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;4.0;CANAL_1;Canal;1013.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;49.0;LINIER_2;Linière;236.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;10.0;SLOUIS_1;St Louis;346.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;1.0;ASDF_1/2;ARTIGUELOUTAN Salle des Fêtes;0.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;13.0;BELSUN_E;Belsunce;488.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;3.0;POUSSI_1;Poussinière;394.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;14.0;IMAIRI_1;IDRON Mairie;553.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;9.0;ARMAND_1;Armandieu;691.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;17.0;BBSOLE_1;BIZANOS Beau Soleil;679.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;15.0;ARROUT_1;Arrouturous;525.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;21.0;SANSAR_1;Sansarricq;249.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;19.0;PANORA_N;Panorama;118.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;25.0;REGINA_1;Régina;401.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;20.0;SBENOI_1;St Benoît;589.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;26.0;SURSUL_1;Ste Ursule;275.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;23.0;CDLARR_1;Castet de l'Array;376.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;29.0;FAISAN_1;Faisans;429.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;31.0;LHMEDI_N;Les Halles Médiathèque;448.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;30.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;32.0;PDJUST_2;Palais de Justice;369.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;38.0;CLAVER_2;Claverie;645.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;33.0;VERDQE_E;Pl. Verdun Quai E;294.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;42.0;SDBILL_2;Stade Hugot;282.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;35.0;218ERI_2;218ème RI;354.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;48.0;DASSAU_2;Dassault;253.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;36.0;HUTTON_E;Hutton;367.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;55.0;LSOLQO_O;LESCAR Soleil;168.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;43.0;CHAMPS_2;Champs;330.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;2.0;EALPHA_E;ESAT Alpha;238.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;46.0;ENTREP_2;Entrepreneurs;449.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;7.0;CDLARR_1;Castet de l'Array;376.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;47.0;DGENNE_2;De Gennes;280.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;9.0;REGINA_1;Régina;401.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;49.0;LAVOIS_2;Lavoisier;516.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;11.0;TRESPO_1;Trespoey;366.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;51.0;LEBON_2;Lebon;268.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;12.0;LSCRIC_1;Lycée St Cricq;400.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;52.0;CCLESC_2;Induspal;484.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;13.0;FAISAN_1;Faisans;429.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;53.0;LQLIQE_E;LESCAR Quartier Libre;238.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;14.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;1.0;BBSOLE_1;BIZANOS Beau Soleil;0.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;18.0;CIMETI_2;Cimetière;447.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;4.0;SBENOI_1;St Benoît;589.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;21.0;BOURBO_2;Bourbon;240.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;6.0;SAPINS_O;Sapins;389.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;22.0;CLAVER_2;Claverie;645.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;10.0;SURSUL_1;Ste Ursule;275.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;23.0;MARNIE_4;Marnières;373.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;15.0;LHMEDI_N;Les Halles Médiathèque;448.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;8.0;GAYET_1;Gayet;538.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;27.0;CHAMPS_2;Champs;330.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;16.0;PDJUST_2;Palais de Justice;369.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;10.0;LPDGEL_1;Lycée des Métiers de l'Habitat;318.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;34.0;MONTGO_2;Montgolfier;738.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;20.0;HUTTON_E;Hutton;367.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;11.0;PDCAPI_N;Pont du Capitaine;250.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;37.0;LQLIQE_E;LESCAR Quartier Libre;238.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;26.0;SDBILL_2;Stade Hugot;282.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;13.0;CDPRIN_E;Croix du Prince;124.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;1.0;LSOLQO_O;LESCAR Soleil;0.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;28.0;PLAINE_2;Plaine;289.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;15.0;ROUSSI_E;Roussille;161.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;5.0;MONTGO_1;Montgolfier;314.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;31.0;DGENNE_2;De Gennes;280.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;20.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;445.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;8.0;DGENNE_1;De Gennes;262.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;33.0;LAVOIS_2;Lavoisier;516.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;22.0;PDJUST_2;Palais de Justice;369.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;9.0;ENTREP_1;Entrepreneurs;226.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;35.0;LEBON_2;Lebon;268.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;28.0;SDOMIN_2;St Dominique;455.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;17.0;CLAVER_1;Claverie;339.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;2.0;LQLIQO_O;LESCAR Quartier Libre;371.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;31.0;TOUQUE_2;Touquet;246.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;19.0;HUTTON_O;Hutton;205.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;4.0;LEBON_1;Lebon;419.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;35.0;COUETT_2;Couettes;185.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;23.0;PDJUST_1;Palais de Justice;224.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;6.0;LAVOIS_1;Lavoisier;659.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;36.0;LAPERR_2;Laperrine;237.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;24.0;GUICHE_1;Guichenné;349.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;7.0;DASSAU_1;Dassault;644.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;41.0;JALAI_2;Jaï Alaï;237.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;25.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;14.0;MDBILL_E;Mairie de Billère;336.0
+5;1.0;MAZERES-LEZONS L'Arriou > PAU Zénith;42.0;ZENI_1/2;PAU Zénith;571.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;26.0;FAISAN_2;Faisans;350.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;15.0;LASSAN_1;Lassansaa;263.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;1.0;ZENI_1/2;PAU Zénith;0.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;31.0;TREVIL_2;Tréville;316.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;21.0;CIMETI_1;Cimetière;340.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;11.0;ANGOT_N;Angot;397.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;34.0;SANSAR_2;Sansarricq;301.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;30.0;REGINA_2;Régina;302.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;12.0;TOUQUE_1;Touquet;156.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;37.0;BBSOLE_2;BIZANOS Beau Soleil;237.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;32.0;CDLARR_2;Castet de l'Array;581.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;13.0;PCIEL_1;Plein Ciel;241.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;38.0;SJEAN_2;St Jean;480.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;41.0;BELSUN_O;Belsunce;457.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;16.0;MOHED_1;Mohédan;453.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;39.0;ARROUT_2;Arrouturous;332.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;43.0;CAMARD_2;Camardoun;160.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;18.0;SJOSEP_O;St Joseph;269.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;40.0;IMAIRI_2;IDRON Mairie;600.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;44.0;SLOUIS_2;St Louis;348.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;19.0;PLAWRE_1;Parc Lawrance;283.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;42.0;PLACET_2;Placette;520.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;50.0;CANAL_2;Canal;467.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;20.0;PHOEBU_1;Gaston Phoebus;294.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;46.0;EDLEE_2;Ecole de Lée;751.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;52.0;SDARTI_2;Stade d'Artigueloutan;302.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;22.0;PDJUST_1;Palais de Justice;255.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;47.0;BICHES_2;Biches;908.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;53.0;8M1945_2;8 Mai 1945;362.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;25.0;F-BABE_2;Barthou - Beaumont;243.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;49.0;MDOUSS_2;Mairie d'Ousse;703.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;55.0;RUISSE_2;Ruisseau;140.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;28.0;MONNAI_N;Pl. de la Monnaie;461.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;10.0;LINIER_1;Linière;803.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;56.0;MOUNYO_2;Mounyoye;843.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;32.0;CONCOR_S;Concorde;211.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;11.0;PLAINE_1;Plaine;252.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;3.0;CCLESC_1;Induspal;249.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;33.0;PDCAPI_S;Pont du Capitaine;221.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;23.0;PDJUST_1;Palais de Justice;224.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;8.0;DGENNE_1;De Gennes;262.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;37.0;CCMAZE_S;Grand Sud;618.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;26.0;FAISAN_2;Faisans;350.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;9.0;ENTREP_1;Entrepreneurs;226.0
+5;2.0;PAU Zénith > MAZERES-LEZONS L'Arriou;40.0;LAGUTS_2;Les Agûts;247.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;28.0;TRESPO_2;Trespoey;462.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;16.0;MARNIE_3;Marnières;176.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;4.0;BALAVO_N;Balavoine;386.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;30.0;REGINA_2;Régina;302.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;19.0;HUTTON_O;Hutton;205.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;7.0;BUISSO_E;Buisson;463.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;32.0;CDLARR_2;Castet de l'Array;581.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;24.0;GUICHE_1;Guichenné;349.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;11.0;FAISAN_1;Faisans;294.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;33.0;SAPINS_E;Sapins;448.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;31.0;TREVIL_2;Tréville;316.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;17.0;CCLERM_E;Collège Clermont;396.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;37.0;BBSOLE_2;BIZANOS Beau Soleil;237.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;3.0;CDIDRO_1;Château d'Idron;315.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;18.0;FACULT_E;Facultés;459.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;1.0;IMAI_1/2;IDRON Mairie;0.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;4.0;CBEAUM_1;Clos Beaumont;747.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;23.0;SBLANC_2;Stade Blanchard;373.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;2.0;BELSUN_O;Belsunce;516.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;10.0;LAVAND_1;Lavandières;304.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;24.0;BOCAGE_2;Bocage;262.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;5.0;HONDAI_1;Hondaïs;306.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;13.0;GINOT_1;Ginot;258.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;27.0;CADETS_2;Cadets;210.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;19.0;PHOEBU_2;Gaston Phoebus;262.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;15.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;445.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;33.0;DDSERS_2;Domaine de Sers;1371.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;21.0;PDEXPO_2;Parc des Expos;284.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;17.0;PDJUST_2;Palais de Justice;369.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;39.0;LARLAS_2;Larlas;367.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;22.0;BFRENE_2;Beau Frêne;544.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;23.0;CSOLEI_2;Clair Soleil;381.0
+6;1.0;BIZANOS Laurets > SERRES-CASTET Liben;42.0;SDSCAS_2;Stade H. Marracq;306.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;25.0;LAYGUE_2;L'Ayguette;195.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;31.0;EGLISE_E;Eglise;461.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;4.0;CRFORG_1;Collège R. Forgues;412.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;26.0;CDESTE_2;Château d'Este;285.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;34.0;BILAA_2;Bilaa;210.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;7.0;VDOSSA_1;Vallée d'Ossau;692.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;30.0;MDLONS_O;Mairie de Lons;484.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;35.0;BENEHA_2;Beneharnum;433.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;8.0;LDBEAR_1;Luy de Béarn;970.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;32.0;PDAMER_E;Prix d'Amérique;384.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;38.0;LJMONO_2;Lycée J. Monod;689.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;10.0;AYGUEL_1;Ayguelongue;347.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;37.0;DGARRA_2;D.Garrain;705.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;1.0;IMAI_1/2;IDRON Mairie;0.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;11.0;DDSERS_1;Domaine de Sers;755.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;18.0;VERDQB_B;Pl. Verdun Quai B;247.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;2.0;BELSUN_O;Belsunce;516.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;14.0;DAURAT_1;Daurat;229.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;19.0;PHOEBU_2;Gaston Phoebus;262.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;8.0;BLAURE_E;BIZANOS Laurets;113.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;23.0;CITEAU_N;Cîteaux;324.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;22.0;BFRENE_2;Beau Frêne;544.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;11.0;LOUSSE_1;L'Ousse;368.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;30.0;F-FOIR_1;Pl. du Foirail;499.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;23.0;CSOLEI_2;Clair Soleil;381.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;14.0;F-BABE_1;Barthou - Beaumont;669.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;34.0;EVII_2;Edouard VII;331.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;25.0;LAYGUE_2;L'Ayguette;195.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;15.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;445.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;35.0;NAVARR_2;Navarre;423.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;26.0;CDESTE_2;Château d'Este;285.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;24.0;LAPLAC_2;Laplace;295.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;39.0;SMAGNE_S;St Magne;168.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;29.0;PRES_2;Prés;424.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;27.0;VIGNES_2;Vignes;639.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;41.0;VHUGO_E;Victor Hugo;372.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;30.0;MDLONS_O;Mairie de Lons;484.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;31.0;EGLISE_E;Eglise;461.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;42.0;SPOLYV_2;Salle Polyvalente;309.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;34.0;BILAA_2;Bilaa;210.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;33.0;LCAVET_E;La Cavette;418.0
+6;2.0;SERRES-CASTET Liben > BIZANOS Laurets;43.0;BLAURE_O;BIZANOS Laurets;530.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;36.0;BERNAT_2;Bernat;271.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;35.0;BENEHA_2;Beneharnum;433.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;2.0;MATTOT_2;Mattots;435.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;37.0;DGARRA_2;D.Garrain;705.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;46.0;PDLZ_1/2;POEY DE LESCAR ZA D817;930.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;7.0;POUSSI_1;Poussinière;394.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;40.0;PDANIE_2;Pic d'Anie;726.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;1.0;LCOLLE_1;LESCAR Collège S. Palay;0.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;11.0;BICHES_1;Biches;459.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;42.0;PDGER_2;Pic du Ger;322.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;2.0;BGRAND_O;Bie Grande;385.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;14.0;SLOUIS_1;St Louis;346.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;44.0;COTEAU_2;Coteau;336.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;3.0;CHARRE_S;Charreteur;601.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;16.0;PLACET_1;Placette;245.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;45.0;PBOURG_2;Poey Bourg;636.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;7.0;DGARRA_1;D.Garrain;746.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;17.0;BELSUN_E;Belsunce;488.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;4.0;SATAO_O;Satao;401.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;9.0;BENEHA_1;Beneharnum;324.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;18.0;IMAIRI_1;IDRON Mairie;553.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;5.0;SCATHE_O;Ste Catherine;248.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;15.0;MDLONS_E;Mairie de Lons;460.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;21.0;BBSOLE_1;BIZANOS Beau Soleil;679.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;11.0;LCAVET_O;La Cavette;221.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;23.0;BFRENE_1;Beau Frêne;362.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;23.0;PANORA_N;Panorama;118.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;16.0;PRES_1;Prés;235.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;24.0;PDEXPO_1;Parc des Expos;527.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;30.0;SURSUL_1;Ste Ursule;275.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;17.0;SULLY_1;Sully;507.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;25.0;PLAWRE_1;Parc Lawrance;169.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;32.0;LSCRIC_1;Lycée St Cricq;400.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;18.0;VIGNES_1;Vignes;213.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;27.0;VERDQA_A;Pl. Verdun Quai A;317.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;35.0;LHMEDI_N;Les Halles Médiathèque;448.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;22.0;CSOLEI_1;Clair Soleil;301.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;30.0;BOSQQH_H;PAU Bosquet Quai H;313.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;36.0;PDJUST_2;Palais de Justice;369.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;34.0;LOUSSE_2;L'Ousse;246.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;31.0;F-BABE_2;Barthou - Beaumont;243.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;37.0;VERDQE_E;Pl. Verdun Quai E;294.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;36.0;SPOLYV_2;Salle Polyvalente;343.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;37.0;BLAURE_O;BIZANOS Laurets;530.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;43.0;MARNIE_4;Marnières;373.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;41.0;CBEAUM_2;Clos Beaumont;337.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;40.0;HONDAI_2;Hondaïs;956.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;44.0;LASSAN_2;Lassansaa;198.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;42.0;CDIDRO_2;Château d'Idron;724.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;43.0;BELSUN_E;Belsunce;330.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;47.0;CHAMPS_2;Champs;330.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;2.0;PBOURG_1;Poey Bourg;729.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;44.0;IMAI_1/2;IDRON Mairie;427.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;50.0;ENTREP_2;Entrepreneurs;449.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;8.0;LCOLLE_1;LESCAR Collège S. Palay;272.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;3.0;COTEAU_1;Coteau;599.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;52.0;DASSAU_2;Dassault;253.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;10.0;CHARRE_S;Charreteur;601.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;4.0;CARIBE_1;Caribette;354.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;53.0;LAVOIS_2;Lavoisier;516.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;12.0;SCATHE_O;Ste Catherine;248.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;5.0;PDGER_1;Pic du Ger;1179.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;55.0;LEBON_2;Lebon;268.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;13.0;LJMONO_1;Lycée J. Monod;531.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;7.0;PDANIE_1;Pic d'Anie;372.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;58.0;LSOLQE_E;LESCAR Soleil;348.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;14.0;DGARRA_1;D.Garrain;746.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;9.0;BGRAND_O;Bie Grande;385.0
+7;1.0;8 Mai 1945 > LESCAR Soleil;59.0;LSOLQO_O;LESCAR Soleil;168.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;16.0;BENEHA_1;Beneharnum;324.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;11.0;SATAO_O;Satao;401.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;2.0;SDARTI_1;Stade d'Artigueloutan;382.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;20.0;EGLISE_O;Eglise;715.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;15.0;BERNAT_1;Bernat;649.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;5.0;MDOUSS_1;Mairie d'Ousse;537.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;21.0;LARROU_S;Larrouy;320.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;17.0;BILAA_1;Bilaa;391.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;6.0;BARTH_1;Barthouil;725.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;22.0;MDLONS_E;Mairie de Lons;460.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;18.0;LCAVET_O;La Cavette;221.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;7.0;BICHES_1;Biches;459.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;24.0;SULLY_1;Sully;507.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;19.0;PDAMER_O;Prix d'Amérique;413.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;8.0;EDLEE_1;Ecole de Lée;891.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;27.0;LAYGUE_1;L'Ayguette;342.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;23.0;PRES_1;Prés;235.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;11.0;CAMARD_1;Camardoun;276.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;32.0;PLAWRE_1;Parc Lawrance;169.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;29.0;CSOLEI_1;Clair Soleil;301.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;12.0;PLACET_1;Placette;245.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;35.0;PDJUST_1;Palais de Justice;255.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;30.0;BFRENE_1;Beau Frêne;362.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;16.0;SJEAN_1;St Jean;373.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;39.0;GINOT_2;Ginot;653.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;31.0;PDEXPO_1;Parc des Expos;527.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;18.0;EALPHA_E;ESAT Alpha;238.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;47.0;HONDAI_2;Hondaïs;956.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;33.0;PHOEBU_1;Gaston Phoebus;294.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;22.0;SAPINS_O;Sapins;389.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;48.0;CBEAUM_2;Clos Beaumont;337.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;34.0;VERDQA_A;Pl. Verdun Quai A;317.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;24.0;TREVIL_1;Tréville;529.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;51.0;IMAI_1/2;IDRON Mairie;427.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;37.0;BOSQQH_H;PAU Bosquet Quai H;313.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;27.0;TRESPO_1;Trespoey;366.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;1.0;MCDC_1/2;MORLAÀS Communauté de Communes;0.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;41.0;LOUSSE_2;L'Ousse;246.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;28.0;LSCRIC_1;Lycée St Cricq;400.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;5.0;MDMORL_1;Mairie de Morlaàs;454.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;43.0;SPOLYV_2;Salle Polyvalente;343.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;34.0;CIMETI_2;Cimetière;447.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;17.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;439.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;44.0;BLAURE_O;BIZANOS Laurets;530.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;37.0;BOURBO_2;Bourbon;240.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;18.0;CHP_N;CHP;425.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;45.0;RDIDRO_2;Route d'Idron;160.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;39.0;MARNIE_4;Marnières;373.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;6.0;F-BABE_1;Barthou - Beaumont;364.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;46.0;HAMEAU_2;Hameau;232.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;40.0;LASSAN_2;Lassansaa;198.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;17.0;LALAND_2;La Lande;924.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;49.0;CDIDRO_2;Château d'Idron;724.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;41.0;MDBILL_O;Mairie de Billère;244.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;19.0;NOBEL_2;Nobel;388.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;2.0;BARATN_1;Baratnau;1036.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;44.0;PLAINE_2;Plaine;289.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;21.0;CACHAL_2;Cachalat;1125.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;6.0;PISCIN_1;Piscine;476.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;45.0;LINIER_2;Linière;236.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;22.0;LHOTEL_2;LP Haute-Vue;2251.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;7.0;PDFORT_1;Pl. des Fors;557.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;50.0;MONTGO_2;Montgolfier;738.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;24.0;PDFORT_2;Pl. des Fors;384.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;8.0;HIV_1;Henri IV;382.0
+7;1.0;ARTIGUELOUTAN Salle des Fêtes > LESCAR Soleil;54.0;LSOLQE_E;LESCAR Soleil;348.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;25.0;PISCIN_2;Piscine;473.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;9.0;LHOTEL_1;LP Haute-Vue;1335.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;3.0;PANORA_N;Panorama;118.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;27.0;MDLSOL_2;Maison de la Solidarité;605.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;10.0;CACHAL_1;Cachalat;2183.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;5.0;SANSAR_1;Sansarricq;249.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;30.0;MCDC_1/2;MORLAÀS Communauté de Communes;1331.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;11.0;BERLAN_1;Berlanne;1157.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;8.0;TREVIL_1;Tréville;529.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;2.0;VENEZU_1;Vénézuéla;1474.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;12.0;NOBEL_1;Nobel;699.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;17.0;VERDQE_E;Pl. Verdun Quai E;294.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;3.0;TOUPIS_1;Toupis;339.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;13.0;ORBIGN_1;Orbigny;369.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;19.0;218ERI_2;218ème RI;354.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;5.0;CBERNE_1;Croix Bernes;554.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;15.0;PSANTA_1;Pissard Santarelli;941.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;24.0;LASSAN_2;Lassansaa;198.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;10.0;PD4SAI_1;Pl. des 4 Saisons;512.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;16.0;RCHAR_1;R.Char;564.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;25.0;MDBILL_O;Mairie de Billère;244.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;11.0;CRFORG_1;Collège R. Forgues;412.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;19.0;CJDALB_N;Collège J. d'Albret;245.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;29.0;LINIER_2;Linière;236.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;17.0;AYGUEL_1;Ayguelongue;347.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;20.0;NPRINC_N;Norman Prince;500.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;30.0;ENTREP_2;Entrepreneurs;449.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;23.0;TCADQD_D;Tourasse - Cité Administrative Quai D;344.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;21.0;SJAMME_1;St Jammes;505.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;32.0;DASSAU_2;Dassault;253.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;1.0;BOSQQF_F;PAU Bosquet Quai F;0.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;22.0;EVII_1;Edouard VII;354.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;36.0;CCLESC_2;Induspal;484.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;3.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;26.0;BONAPA_2;Bonaparte;358.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;38.0;LSOLQE_E;LESCAR Soleil;348.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;6.0;CDPARI_E;Commune de Paris;256.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;29.0;LHEID_2;L. Heid;255.0
+7;1.0;BIZANOS Beau Soleil > LESCAR Soleil;39.0;LSOLQO_O;LESCAR Soleil;168.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;15.0;DEVEZE_2;Devèzes;774.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;30.0;RDGA_1/2;PAU Rives du Gave;501.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;3.0;CCLESC_1;Induspal;249.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;19.0;TUMULU_2;Tumulus;522.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;1.0;RDGA_1/2;PAU Rives du Gave;0.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;10.0;LINIER_1;Linière;803.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;21.0;PARISE_2;Pariseau;470.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;3.0;LACOST_N;Lacoste;262.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;11.0;PLAINE_1;Plaine;252.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;27.0;SARZ_1/2;SAUVAGNON Arzacq;947.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;4.0;PGDPQC_C;PAU Gare de Pau Quai C;321.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;12.0;CHAMPS_1;Champs;227.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;6.0;BIDAU_1;Bidau;288.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;9.0;EVII_2;Edouard VII;331.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;13.0;SDBILL_1;Stade Hugot;327.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;11.0;LOUSTA_1;Loustalot;444.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;12.0;CJDALB_S;Collège J. d'Albret;567.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;16.0;MARNIE_3;Marnières;176.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;14.0;BOASIS_1;Belle Oasis;634.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;13.0;CHP_S;CHP;223.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;18.0;BOURBO_1;Bourbon;698.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;24.0;GUICHE_1;Guichenné;349.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;14.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;20.0;218ERI_1;218ème RI;385.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;26.0;FAISAN_2;Faisans;350.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;15.0;RCHAR_2;R.Char;410.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;22.0;VERDQC_C;Pl. Verdun Quai C;534.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;27.0;EVII_2;Edouard VII;331.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;23.0;HIV_2;Henri IV;1302.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;27.0;LSCRIC_2;Lycée St Cricq;415.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;29.0;NPRINC_S;Norman Prince;421.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;28.0;MARC_2;Marcadet;361.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;28.0;TRESPO_2;Trespoey;462.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;31.0;CHP_S;CHP;223.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;29.0;BARATN_2;Baratnau;401.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;29.0;SURSUL_2;Ste Ursule;317.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;35.0;AVIATI_2;Aviation;498.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;1.0;SARZ_1/2;SAUVAGNON Arzacq;0.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;33.0;SAPINS_E;Sapins;448.0
+11;1.0;GAN Le Neez > SENDETS Mairie;5.0;SBARTH_1;St Barthélémy;475.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;6.0;CASCAD_1;Cascade;752.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;35.0;SBENOI_2;St Benoît;253.0
+11;1.0;GAN Le Neez > SENDETS Mairie;15.0;PDOLY_1;Pont d'Oly;266.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;8.0;CMORLA_1;Chemin Morlané;498.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;36.0;PANORA_O;Panorama;503.0
+11;1.0;GAN Le Neez > SENDETS Mairie;19.0;ROUSSI_E;Roussille;161.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;9.0;TUMULU_1;Tumulus;1318.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;45.0;ARMAND_2;Armandieu;286.0
+11;1.0;GAN Le Neez > SENDETS Mairie;24.0;GUICHE_1;Guichenné;349.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;13.0;DEVEZE_1;Devèzes;361.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;48.0;BARTH_2;Barthouil;506.0
+11;1.0;GAN Le Neez > SENDETS Mairie;25.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;15.0;LDBEAR_1;Luy de Béarn;970.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;51.0;POUSSI_2;Poussinière;1065.0
+11;1.0;GAN Le Neez > SENDETS Mairie;27.0;EVII_2;Edouard VII;331.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;16.0;NNIEME_1;Normandie Niemen;523.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;54.0;MATTOT_2;Mattots;435.0
+11;1.0;GAN Le Neez > SENDETS Mairie;30.0;CJDALB_S;Collège J. d'Albret;567.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;18.0;DDSERS_1;Domaine de Sers;755.0
+7;2.0;LESCAR Soleil > ARTIGUELOUTAN Salle des Fêtes;57.0;ASDF_1/2;ARTIGUELOUTAN Salle des Fêtes;406.0
+11;1.0;GAN Le Neez > SENDETS Mairie;31.0;CHP_S;CHP;223.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;19.0;EUROPE_1;Europe;3814.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;1.0;LSOLQO_O;LESCAR Soleil;0.0
+11;1.0;GAN Le Neez > SENDETS Mairie;34.0;BDJOIN_2;Bataillon de Joinville;680.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;21.0;CUNIQD_D;Condorcet - Université Quai D;537.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;2.0;LQLIQO_O;LESCAR Quartier Libre;371.0
+11;1.0;GAN Le Neez > SENDETS Mairie;36.0;IDDROY_2;IDRON Domaine du Roy;360.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;22.0;CDPARI_O;Commune de Paris;358.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;4.0;LEBON_1;Lebon;419.0
+11;1.0;GAN Le Neez > SENDETS Mairie;41.0;LD817_2;Lée D817;511.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;25.0;F-FOIR_1;Pl. du Foirail;402.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;5.0;MONTGO_1;Montgolfier;314.0
+11;1.0;GAN Le Neez > SENDETS Mairie;42.0;OD817_2;Ousse D817;1486.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;26.0;F-HDES_1;Les Halles - Despourrins;345.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;6.0;LAVOIS_1;Lavoisier;659.0
+11;1.0;GAN Le Neez > SENDETS Mairie;43.0;LQUIND_2;La Quinda;441.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;2.0;F-HDES_2;Les Halles - Despourrins;607.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;7.0;DASSAU_1;Dassault;644.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;2.0;AVIATI_1;Aviation;343.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;4.0;MANOIR_2;Manoir;236.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;12.0;CHAMPS_1;Champs;227.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;3.0;BDJOIN_1;Bataillon de Joinville;476.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;5.0;TCADQA_A;Tourasse - Cité Administrative Quai A;624.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;13.0;SDBILL_1;Stade Hugot;327.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;10.0;EVII_1;Edouard VII;354.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;13.0;LDBEAR_2;Luy de Béarn;649.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;14.0;MDBILL_E;Mairie de Billère;336.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;11.0;FAISAN_1;Faisans;294.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;14.0;VDOSSA_2;Vallée d'Ossau;831.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;15.0;LASSAN_1;Lassansaa;263.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;12.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;17.0;CRFORG_2;Collège R. Forgues;445.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;17.0;CLAVER_1;Claverie;339.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;13.0;LHMEDI_N;Les Halles Médiathèque;448.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;20.0;CMORLA_2;Chemin Morlané;1207.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;18.0;BOURBO_1;Bourbon;698.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;14.0;PDJUST_2;Palais de Justice;369.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;23.0;CBERNE_2;Croix Bernes;889.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;20.0;218ERI_1;218ème RI;385.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;18.0;ROUSSI_O;Roussille;234.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;1.0;GLNE_1/2;GAN Le Neez;0.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;21.0;CIMETI_1;Cimetière;340.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;19.0;BARTHE_O;Barthe;233.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;2.0;BREL_1;Brel;293.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;22.0;VERDQC_C;Pl. Verdun Quai C;534.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;21.0;CGABAR_2;Collège E. Gabard;599.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;4.0;BROCA_1;Broca;195.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;25.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;23.0;BOASIS_2;Belle Oasis;306.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;7.0;VILLEF_1;Villefranche;379.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;27.0;LSCRIC_2;Lycée St Cricq;415.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;26.0;LOUSTA_2;Loustalot;517.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;8.0;CAVE_1;Cave;327.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;29.0;SURSUL_2;Ste Ursule;317.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;31.0;BIDAU_2;Bidau;400.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;9.0;FROMAG_1;Fromagerie;2042.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;34.0;SANSAR_2;Sansarricq;301.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;34.0;DISSEZ_2;Dissez;348.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;10.0;ASTOUS_1;Astous;522.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;35.0;SBENOI_2;St Benoît;253.0
+11;2.0;SENDETS Mairie > GAN Le Neez;1.0;SMAI_1/2;SENDETS Mairie;0.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;16.0;CGABAR_1;Collège E. Gabard;630.0
+7;2.0;LESCAR Soleil > BIZANOS Beau Soleil;36.0;PANORA_O;Panorama;503.0
+11;2.0;SENDETS Mairie > GAN Le Neez;2.0;CDBOS_1;Cami dou Bos;536.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;18.0;BARTHE_E;Barthe;339.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;6.0;HAMEAU_1;Hameau;930.0
+11;2.0;SENDETS Mairie > GAN Le Neez;5.0;OD817_1;Ousse D817;430.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;28.0;SJAMME_2;St Jammes;340.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;7.0;RDIDRO_1;Route d'Idron;259.0
+11;2.0;SENDETS Mairie > GAN Le Neez;10.0;SDIDRO_1;Stade d'Idron;599.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;30.0;CJDALB_S;Collège J. d'Albret;567.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;8.0;BLAURE_E;BIZANOS Laurets;113.0
+11;2.0;SENDETS Mairie > GAN Le Neez;13.0;BDJOIN_1;Bataillon de Joinville;476.0
+11;1.0;GAN Le Neez > SENDETS Mairie;3.0;DISSEZ_1;Dissez;613.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;9.0;SPOLYV_1;Salle Polyvalente;600.0
+11;2.0;SENDETS Mairie > GAN Le Neez;14.0;MOUCHO_N;Cdt Mouchotte;708.0
+11;1.0;GAN Le Neez > SENDETS Mairie;4.0;BROCA_1;Broca;195.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;11.0;LOUSSE_1;L'Ousse;368.0
+11;2.0;SENDETS Mairie > GAN Le Neez;15.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;632.0
+11;1.0;GAN Le Neez > SENDETS Mairie;6.0;BIDAU_1;Bidau;288.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;12.0;SNAUTI_1;Stade Nautique;364.0
+11;2.0;SENDETS Mairie > GAN Le Neez;24.0;PDJUST_2;Palais de Justice;369.0
+11;1.0;GAN Le Neez > SENDETS Mairie;8.0;CAVE_1;Cave;327.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;14.0;F-BABE_1;Barthou - Beaumont;669.0
+11;2.0;SENDETS Mairie > GAN Le Neez;27.0;PONTS_2;Ponts;301.0
+11;1.0;GAN Le Neez > SENDETS Mairie;11.0;LOUSTA_1;Loustalot;444.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;16.0;LHMEDI_N;Les Halles Médiathèque;323.0
+11;2.0;SENDETS Mairie > GAN Le Neez;37.0;ASTOUS_2;Astous;399.0
+11;1.0;GAN Le Neez > SENDETS Mairie;13.0;ZAVGAL_1;ZA Vert Galant;447.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;18.0;VERDQB_B;Pl. Verdun Quai B;247.0
+11;2.0;SENDETS Mairie > GAN Le Neez;39.0;CAVE_2;Cave;2118.0
+11;1.0;GAN Le Neez > SENDETS Mairie;16.0;CGABAR_1;Collège E. Gabard;630.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;20.0;PLAWRE_2;Parc Lawrance;302.0
+11;2.0;SENDETS Mairie > GAN Le Neez;40.0;VILLEF_2;Villefranche;264.0
+11;1.0;GAN Le Neez > SENDETS Mairie;17.0;CDPRIN_E;Croix du Prince;503.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;24.0;LAPLAC_2;Laplace;295.0
+11;2.0;SENDETS Mairie > GAN Le Neez;41.0;BIDAU_2;Bidau;400.0
+11;1.0;GAN Le Neez > SENDETS Mairie;21.0;GRAMON_1;Pl. Gramont;433.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;27.0;VIGNES_2;Vignes;639.0
+11;2.0;SENDETS Mairie > GAN Le Neez;43.0;BROCA_2;Broca;369.0
+11;1.0;GAN Le Neez > SENDETS Mairie;22.0;VERDQC_C;Pl. Verdun Quai C;275.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;28.0;SULLY_2;Sully;302.0
+11;2.0;SENDETS Mairie > GAN Le Neez;44.0;DISSEZ_2;Dissez;348.0
+11;1.0;GAN Le Neez > SENDETS Mairie;23.0;PDJUST_1;Palais de Justice;224.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;29.0;PRES_2;Prés;424.0
+11;2.0;SENDETS Mairie > GAN Le Neez;45.0;BREL_2;Brel;471.0
+11;1.0;GAN Le Neez > SENDETS Mairie;28.0;SJAMME_2;St Jammes;340.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;33.0;LCAVET_E;La Cavette;418.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;1.0;LQLIQO_O;LESCAR Quartier Libre;0.0
+11;1.0;GAN Le Neez > SENDETS Mairie;29.0;NPRINC_S;Norman Prince;421.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;36.0;BERNAT_2;Bernat;271.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;12.0;LHOURQ_1;La Hourquie;351.0
+11;1.0;GAN Le Neez > SENDETS Mairie;33.0;MOUCHO_S;Cdt Mouchotte;622.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;39.0;BGRAND_E;Bie Grande;358.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;13.0;PLAISA_1;Plaisance;328.0
+11;1.0;GAN Le Neez > SENDETS Mairie;35.0;AVIATI_2;Aviation;498.0
+8;1.0;IDRON Mairie > LESCAR Collège S. Palay;40.0;LCOLLE_1;LESCAR Collège S. Palay;721.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;14.0;CFLEU_1;Clos Fleuri;234.0
+11;1.0;GAN Le Neez > SENDETS Mairie;37.0;SDIDRO_2;Stade d'Idron;365.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;3.0;CDIDRO_1;Château d'Idron;315.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;18.0;FRENES_1;Frênes;248.0
+11;1.0;GAN Le Neez > SENDETS Mairie;38.0;LCAMP_2;Le Camp;575.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;4.0;CBEAUM_1;Clos Beaumont;747.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;23.0;LABOU_1;Labourie;547.0
+11;1.0;GAN Le Neez > SENDETS Mairie;46.0;SMAI_1/2;SENDETS Mairie;619.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;5.0;HONDAI_1;Hondaïs;306.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;25.0;OSSAU_1;Ossau;231.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;4.0;MOUCHO_N;Cdt Mouchotte;708.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;6.0;HAMEAU_1;Hameau;930.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;28.0;ANGOT_S;Angot;372.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;6.0;CHP_N;CHP;425.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;7.0;RDIDRO_1;Route d'Idron;259.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;29.0;CITEAU_S;Cîteaux;351.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;15.0;VERDQD_D;Pl. Verdun Quai D;253.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;9.0;SPOLYV_1;Salle Polyvalente;600.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;31.0;CDBOQD_D;Catherine de Bourbon Quai D;231.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;20.0;CDPRIN_O;Croix du Prince;303.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;10.0;LAVAND_1;Lavandières;304.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;32.0;CUNIQD_D;Condorcet - Université Quai D;537.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;25.0;BOURDI_2;Bourdieu;479.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;12.0;SNAUTI_1;Stade Nautique;364.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;3.0;RPOINT_N;Rond-point;283.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;29.0;CAVE_2;Cave;2118.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;13.0;GINOT_1;Ginot;258.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;8.0;COURTE_N;Courteault;222.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;32.0;SBARTH_2;St Barthélémy;298.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;16.0;LHMEDI_N;Les Halles Médiathèque;323.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;9.0;CDAGRI_N;Chambre d'Agriculture;307.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;35.0;BREL_2;Brel;471.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;17.0;PDJUST_2;Palais de Justice;369.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;13.0;CDBOQF_F;Catherine de Bourbon Quai F;304.0
+11;2.0;SENDETS Mairie > GAN Le Neez;3.0;LAPEYR_1;Lapeyrade;734.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;20.0;PLAWRE_2;Parc Lawrance;302.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;16.0;VELLED_N;Velleda;369.0
+11;2.0;SENDETS Mairie > GAN Le Neez;4.0;LQUIND_1;La Quinda;406.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;21.0;PDEXPO_2;Parc des Expos;284.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;19.0;AZNAR_2;Aznar;248.0
+11;2.0;SENDETS Mairie > GAN Le Neez;6.0;LD817_1;Lée D817;1352.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;28.0;SULLY_2;Sully;302.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;24.0;AUBISQ_2;Aubisque;283.0
+11;2.0;SENDETS Mairie > GAN Le Neez;7.0;OUSSER_1;Oussère;635.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;32.0;PDAMER_E;Prix d'Amérique;384.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;25.0;FRENES_2;Frênes;419.0
+11;2.0;SENDETS Mairie > GAN Le Neez;8.0;SMARC_1;St Marc;456.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;38.0;LJMONO_2;Lycée J. Monod;689.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;30.0;PLAISA_2;Plaisance;195.0
+11;2.0;SENDETS Mairie > GAN Le Neez;12.0;AVIATI_1;Aviation;343.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;39.0;BGRAND_E;Bie Grande;358.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;32.0;BGRAND_O;Bie Grande;347.0
+11;2.0;SENDETS Mairie > GAN Le Neez;18.0;NPRINC_N;Norman Prince;500.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;41.0;TOUZAN_2;Touzanne;345.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;34.0;AUBEPI_2;Aubépines;323.0
+11;2.0;SENDETS Mairie > GAN Le Neez;22.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+8;1.0;IDRON Mairie > POEY-DE-LESCAR ZA D817;43.0;CARIBE_2;Caribette;1253.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;35.0;PEURAL_2;Euralis;633.0
+11;2.0;SENDETS Mairie > GAN Le Neez;23.0;LHMEDI_N;Les Halles Médiathèque;448.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;6.0;LJMONO_1;Lycée J. Monod;531.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;36.0;LABADO_2;Labadot;855.0
+11;2.0;SENDETS Mairie > GAN Le Neez;26.0;GRAMON_2;Pl. Gramont;233.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;8.0;BERNAT_1;Bernat;649.0
+13;1.0;LESCAR Soleil > PAU  EFS;1.0;LSOLQO_O;LESCAR Soleil;0.0
+11;2.0;SENDETS Mairie > GAN Le Neez;28.0;ROUSSI_O;Roussille;234.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;10.0;BILAA_1;Bilaa;391.0
+13;1.0;LESCAR Soleil > PAU  EFS;5.0;EGLISE_O;Eglise;715.0
+11;2.0;SENDETS Mairie > GAN Le Neez;29.0;BARTHE_O;Barthe;233.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;12.0;PDAMER_O;Prix d'Amérique;413.0
+13;1.0;LESCAR Soleil > PAU  EFS;6.0;LARROU_S;Larrouy;320.0
+11;2.0;SENDETS Mairie > GAN Le Neez;31.0;CGABAR_2;Collège E. Gabard;599.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;13.0;EGLISE_O;Eglise;715.0
+13;1.0;LESCAR Soleil > PAU  EFS;7.0;MDLONS_E;Mairie de Lons;460.0
+11;2.0;SENDETS Mairie > GAN Le Neez;32.0;PDOLY_2;Pont d'Oly;627.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;14.0;LARROU_S;Larrouy;320.0
+13;1.0;LESCAR Soleil > PAU  EFS;12.0;LAFFIT_S;Laffitte;578.0
+11;2.0;SENDETS Mairie > GAN Le Neez;34.0;ZAVGAL_2;ZA Vert Galant;652.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;19.0;CDESTE_1;Château d'Este;654.0
+13;1.0;LESCAR Soleil > PAU  EFS;16.0;CUNIQD_D;Condorcet - Université Quai D;672.0
+11;2.0;SENDETS Mairie > GAN Le Neez;35.0;BOURDI_2;Bourdieu;479.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;20.0;LAYGUE_1;L'Ayguette;342.0
+13;1.0;LESCAR Soleil > PAU  EFS;20.0;JVERNE_S;Jules Verne;415.0
+11;2.0;SENDETS Mairie > GAN Le Neez;36.0;LOUSTA_2;Loustalot;517.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;21.0;LAPLAC_1;Laplace;166.0
+13;1.0;LESCAR Soleil > PAU  EFS;28.0;SJELIS_S;Ste Jeanne Elisabeth;707.0
+11;2.0;SENDETS Mairie > GAN Le Neez;38.0;FROMAG_2;Fromagerie;570.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;26.0;PHOEBU_1;Gaston Phoebus;294.0
+13;1.0;LESCAR Soleil > PAU  EFS;33.0;BLANQU_N;Blanqui;257.0
+11;2.0;SENDETS Mairie > GAN Le Neez;46.0;GLNE_1/2;GAN Le Neez;439.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;28.0;PDJUST_1;Palais de Justice;255.0
+13;1.0;LESCAR Soleil > PAU  EFS;37.0;EFS_1/2;PAU EFS;447.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;2.0;LQLIQE_E;LESCAR Quartier Libre;391.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;29.0;GUICHE_1;Guichenné;349.0
+13;2.0;PAU EFS > LESCAR Soleil;3.0;HIBISC_O;Hibiscus;610.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;3.0;LSOLQE_E;LESCAR Soleil;348.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;32.0;GINOT_2;Ginot;653.0
+13;2.0;PAU EFS > LESCAR Soleil;9.0;PEBOUE_N;Péboué;609.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;5.0;LABADO_1;Labadot;444.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;33.0;SNAUTI_2;Stade Nautique;287.0
+13;2.0;PAU EFS > LESCAR Soleil;11.0;RPOINT_N;Rond-point;547.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;8.0;CHARRE_S;Charreteur;540.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;35.0;LAVAND_2;Lavandières;458.0
+13;2.0;PAU EFS > LESCAR Soleil;12.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;606.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;10.0;SCATHE_O;Ste Catherine;248.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;38.0;RDIDRO_2;Route d'Idron;160.0
+13;2.0;PAU EFS > LESCAR Soleil;15.0;NPRINC_N;Norman Prince;500.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;11.0;BGRAND_E;Bie Grande;853.0
+8;2.0;LESCAR Collège S. Palay > IDRON Mairie;39.0;HAMEAU_2;Hameau;232.0
+13;2.0;PAU EFS > LESCAR Soleil;18.0;JVERNE_N;Jules Verne;263.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;15.0;BIDOU_1;Bidou;534.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;1.0;PDLZ_1/2;POEY DE LESCAR ZA D817;0.0
+13;2.0;PAU EFS > LESCAR Soleil;19.0;DARSON_N;D'Arsonval;364.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;16.0;PONTER_1;Ponterique;303.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;6.0;TOUZAN_1;Touzanne;359.0
+13;2.0;PAU EFS > LESCAR Soleil;21.0;CDPARI_E;Commune de Paris;256.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;17.0;TEULER_1;Teulère;328.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;25.0;VIGNES_1;Vignes;213.0
+13;2.0;PAU EFS > LESCAR Soleil;23.0;LSJPER_N;Lycée St John Perse;609.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;21.0;CLOHAR_1;Cloharé;591.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;26.0;CDESTE_1;Château d'Este;654.0
+13;2.0;PAU EFS > LESCAR Soleil;25.0;BIDASS_O;Bidassoa;392.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;24.0;AZNAR_1;Aznar;387.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;28.0;LAPLAC_1;Laplace;166.0
+13;2.0;PAU EFS > LESCAR Soleil;26.0;LAFFIT_N;Laffitte;295.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;26.0;TAINE_1;Taine;272.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;36.0;GUICHE_1;Guichenné;349.0
+13;2.0;PAU EFS > LESCAR Soleil;27.0;SANTON_N;Santona;619.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;38.0;TOURAS_S;Tourasse;219.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;38.0;F-BABE_2;Barthou - Beaumont;243.0
+13;2.0;PAU EFS > LESCAR Soleil;31.0;MDLONS_O;Mairie de Lons;809.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;41.0;PPDPQB_B;PAU Porte des Pyrénées Quai B;374.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;40.0;SNAUTI_2;Stade Nautique;287.0
+13;2.0;PAU EFS > LESCAR Soleil;36.0;LSOLQE_E;LESCAR Soleil;964.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;1.0;PPDPQB_B;PAU Porte des Pyrénées Quai B;0.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;42.0;LAVAND_2;Lavandières;458.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;1.0;JCFP_1/2;JURANCON Corps Franc Pommiès;0.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;4.0;LAPUYA_N;Lapuyade;314.0
+8;2.0;POEY-DE-LESCAR ZA D817 > IDRON Mairie;50.0;BELSUN_E;Belsunce;330.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;12.0;PDEXPO_S;Parc des Expos;422.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;5.0;TOURAS_N;Tourasse;368.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;3.0;MARC_1;Marcadet;385.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;16.0;FACULT_E;Facultés;459.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;6.0;WAGNER_N;Wagner;248.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;4.0;MDLSOL_1;Maison de la Solidarité;368.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;18.0;LSJPER_S;Lycée St John Perse;302.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;7.0;MARCAD_N;Marcadau;446.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;14.0;LALAND_1;La Lande;523.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;20.0;IRIS_E;Iris;460.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;15.0;ANGOT_N;Angot;397.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;23.0;FAISAN_1;Faisans;294.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;22.0;RAMEAU_O;Rameau;157.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;20.0;LABOU_2;Labourie;511.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;24.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;27.0;PPDPQB_B;PAU Porte des Pyrénées Quai B;374.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;21.0;ECHATR_N;Erckmann Chatrian;388.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;25.0;F-BABE_2;Barthou - Beaumont;374.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;2.0;JLPAC_O;JURANCON LP A. Campa;418.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;22.0;CLOHAR_2;Cloharé;352.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;27.0;PGDPQD_D;PAU Gare de Pau Quai D;462.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;5.0;COUBER_O;Coubertin;301.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;23.0;COUSTE_2;Coustettes;525.0
+9;1.0;MORLAAS Communauté de Communes > PAU Rives du Gave;28.0;LACOST_S;Lacoste;331.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;6.0;MDJURA_S;Mairie de Jurançon;480.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;26.0;TEULER_2;Teulère;241.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;2.0;LHEID_1;L. Heid;613.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;7.0;LOLIBE_E;Lolibé;319.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;27.0;PONTER_2;Ponterique;328.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;5.0;BONAPA_1;Bonaparte;462.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;12.0;PDEXPO_S;Parc des Expos;422.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;28.0;BIDOU_2;Bidou;338.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;7.0;BOSQQD_D;PAU Bosquet Quai D;422.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;14.0;ESPE_S;ESPE;560.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;37.0;LLAOU_2;Le Laou;423.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;8.0;FAISAN_2;Faisans;350.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;1.0;BBSOLE_1;BIZANOS Beau Soleil;0.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;38.0;LSOLQO_O;LESCAR Soleil;816.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;10.0;SJAMME_2;St Jammes;340.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;3.0;PANORA_N;Panorama;118.0
+13;1.0;LESCAR Soleil > PAU  EFS;2.0;SDUMON_E;Santos Dumont;1061.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;11.0;NPRINC_S;Norman Prince;421.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;7.0;PPDPQA_A;PAU Porte des Pyrénées Quai A;1283.0
+13;1.0;LESCAR Soleil > PAU  EFS;3.0;LCAVET_O;La Cavette;483.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;16.0;PSANTA_2;Pissard Santarelli;572.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;9.0;LAPUYA_N;Lapuyade;314.0
+13;1.0;LESCAR Soleil > PAU  EFS;4.0;PDAMER_O;Prix d'Amérique;413.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;18.0;ORBIGN_2;Orbigny;596.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;15.0;RONSAR_N;Ronsard;329.0
+13;1.0;LESCAR Soleil > PAU  EFS;13.0;BIDASS_E;Bidassoa;321.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;20.0;BERLAN_2;Berlanne;670.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;16.0;LSJPER_N;Lycée St John Perse;838.0
+13;1.0;LESCAR Soleil > PAU  EFS;19.0;DARSON_S;D'Arsonval;266.0
+9;2.0;PAU Rives du Gave > MORLAAS Communauté de Communes;26.0;REMPAR_2;Remparts;338.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;19.0;CCLERM_O;Collège Clermont;480.0
+13;1.0;LESCAR Soleil > PAU  EFS;21.0;CDFLEU_S;Cité des Fleurs;320.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;4.0;CDFOIR_1;Champ de Foire;358.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;20.0;ESPE_N;ESPE;360.0
+13;1.0;LESCAR Soleil > PAU  EFS;24.0;CJDALB_S;Collège J. d'Albret;567.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;7.0;PARISE_1;Pariseau;296.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;25.0;PDESPA_O;Pont d'Espagne;360.0
+13;1.0;LESCAR Soleil > PAU  EFS;25.0;CHP_S;CHP;223.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;12.0;LARLAS_1;Larlas;453.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;27.0;LOLIBE_O;Lolibé;509.0
+13;1.0;LESCAR Soleil > PAU  EFS;26.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;14.0;VDOSSA_1;Vallée d'Ossau;692.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;30.0;GUYNEM_2;Guynemer;321.0
+13;1.0;LESCAR Soleil > PAU  EFS;29.0;PEBOUE_S;Péboué;199.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;20.0;CDBOQD_D;Catherine de Bourbon Quai D;1012.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;1.0;PPDPQA_A;PAU Porte des Pyrénées Quai A;0.0
+13;1.0;LESCAR Soleil > PAU  EFS;30.0;FTRIST_N;Flora Tristan;602.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;24.0;MANOIR_1;Manoir;512.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;3.0;LAPUYA_N;Lapuyade;314.0
+13;1.0;LESCAR Soleil > PAU  EFS;31.0;MDASSO_E;Maison des Associations;342.0
+10;1.0;SAUVAGNON Arzacq > PAU Bosquet Quai F;27.0;BOSQQF_F;PAU Bosquet Quai F;140.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;6.0;RAMEAU_E;Rameau;402.0
+13;1.0;LESCAR Soleil > PAU  EFS;32.0;ASFO_E;ASFO;316.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;7.0;CUNIQA_A;Condorcet - Université Quai A;452.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;7.0;SJBAPT_N;St Jean-Baptiste;238.0
+13;1.0;LESCAR Soleil > PAU  EFS;36.0;TOURTE_E;Tourterelles;653.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;8.0;CDBOQA_A;Catherine de Bourbon Quai A;416.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;10.0;LSJPER_N;Lycée St John Perse;838.0
+13;2.0;PAU EFS > LESCAR Soleil;1.0;EFS_1/2;PAU EFS;0.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;9.0;EUROPE_2;Europe;965.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;12.0;FACULT_O;Facultés;300.0
+13;2.0;PAU EFS > LESCAR Soleil;2.0;TOURTE_O;Tourterelles;560.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;10.0;DDSERS_2;Domaine de Sers;3887.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;19.0;PDESPA_O;Pont d'Espagne;360.0
+13;2.0;PAU EFS > LESCAR Soleil;4.0;GUILHE_E;Guilhem;583.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;11.0;AYGUEL_2;Ayguelongue;700.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;21.0;LOLIBE_O;Lolibé;509.0
+13;2.0;PAU EFS > LESCAR Soleil;6.0;ASFO_O;ASFO;249.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;12.0;NNIEME_2;Normandie Niemen;430.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;23.0;COUBER_E;Coubertin;423.0
+13;2.0;PAU EFS > LESCAR Soleil;8.0;FTRIST_S;Flora Tristan;373.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;16.0;LARLAS_2;Larlas;367.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;24.0;GUYNEM_2;Guynemer;321.0
+13;2.0;PAU EFS > LESCAR Soleil;13.0;CHP_N;CHP;425.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;18.0;PD4SAI_2;Pl. des 4 Saisons;516.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;7.0;VDOR_1;Val d'Or;226.0
+13;2.0;PAU EFS > LESCAR Soleil;16.0;DCARBO_E;De Carbonnières;468.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;22.0;CASCAD_2;Cascade;224.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;10.0;CAFPA_1;Centre AFPA;416.0
+13;2.0;PAU EFS > LESCAR Soleil;20.0;TCADQA_A;Tourasse - Cité Administrative Quai A;373.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;24.0;CDFOIR_2;Champ de Foire;471.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;11.0;TURSAN_1;Tursan;238.0
+13;2.0;PAU EFS > LESCAR Soleil;22.0;CUNIQA_A;Condorcet - Université Quai A;452.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;25.0;TOUPIS_2;Toupis;322.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;13.0;TOUQUE_1;Touquet;232.0
+13;2.0;PAU EFS > LESCAR Soleil;24.0;NPAILL_N;Nelson Paillou;467.0
+10;2.0;PAU Bosquet Quai F > SAUVAGNON Arzacq;26.0;VENEZU_2;Vénézuéla;515.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;17.0;FACULT_O;Facultés;300.0
+13;2.0;PAU EFS > LESCAR Soleil;29.0;PESQUE_O;Pesqué;983.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;3.0;DISSEZ_1;Dissez;613.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;18.0;CCLERM_O;Collège Clermont;480.0
+13;2.0;PAU EFS > LESCAR Soleil;30.0;ESTIEN_O;Estieni;214.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;5.0;SBARTH_1;St Barthélémy;475.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;19.0;REDANU_1;Rhin et Danube;251.0
+13;2.0;PAU EFS > LESCAR Soleil;34.0;LCAVET_E;La Cavette;418.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;12.0;BOURDI_1;Bourdieu;505.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;22.0;PASTEU_1;Pasteur;187.0
+13;2.0;PAU EFS > LESCAR Soleil;37.0;LSOLQO_O;LESCAR Soleil;168.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;13.0;ZAVGAL_1;ZA Vert Galant;447.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;24.0;GUICHE_1;Guichenné;486.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;2.0;JLPAC_O;JURANCON LP A. Campa;418.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;15.0;PDOLY_1;Pont d'Oly;266.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;25.0;BOSQQE_E;PAU Bosquet Quai E;132.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;3.0;JCURIE_1;Joliot Curie;277.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;17.0;CDPRIN_E;Croix du Prince;503.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;1.0;BOSQQE_E;PAU Bosquet Quai E;0.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;8.0;VALLEE_E;Vallée;440.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;19.0;ROUSSI_E;Roussille;161.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;3.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;9.0;PDESPA_E;Pont d'Espagne;759.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;20.0;PONTS_1;Ponts;327.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;7.0;FACULT_E;Facultés;459.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;10.0;HUTTON_S;Hutton;370.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;21.0;GRAMON_1;Pl. Gramont;433.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;10.0;PCIEL_2;Plein Ciel;192.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;11.0;ROUSS_S;Rousseau;260.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;22.0;VERDQC_C;Pl. Verdun Quai C;275.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;17.0;VDOR_2;Val d'Or;250.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;13.0;SJOSEP_E;St Joseph;271.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;23.0;PDJUST_1;Palais de Justice;224.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;19.0;DDSERS_2;Domaine de Sers;1371.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;17.0;CUNIVE_E;Cité Universitaire;260.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;25.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;23.0;MECO_1/2;MONTARDON Ecole;524.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;19.0;RONSAR_S;Ronsard;800.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;32.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;2.0;ALLIAS_1;Allias;794.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;23.0;MOZART_O;Mozart;434.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;33.0;MOUCHO_S;Cdt Mouchotte;622.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;4.0;HIALES_1;Hiales;1093.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;25.0;LAPUYA_S;Lapuyade;308.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;34.0;BDJOIN_2;Bataillon de Joinville;680.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;5.0;AYOUS_1;Ayous;1091.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;28.0;SAPINS_O;Sapins;1227.0
+11;1.0;GAN Le Neez > IDRON Domaine du Roy;36.0;IDDROY_2;IDRON Domaine du Roy;360.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;9.0;DDSERS_1;Domaine de Sers;755.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;29.0;FOUGER_S;Fougères;384.0
+11;1.0;GAN Le Neez > SENDETS Mairie;1.0;GLNE_1/2;GAN Le Neez;0.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;12.0;DAURAT_1;Daurat;229.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;30.0;BALAIT_S;Balaïtous;471.0
+11;1.0;GAN Le Neez > SENDETS Mairie;2.0;BREL_1;Brel;293.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;13.0;FEUILL_1;Feuillage;220.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;31.0;BBSOLE_2;BIZANOS Beau Soleil;315.0
+11;1.0;GAN Le Neez > SENDETS Mairie;7.0;VILLEF_1;Villefranche;379.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;14.0;CCDMAI_1;Le Mail;274.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;3.0;JCURIE_1;Joliot Curie;277.0
+11;1.0;GAN Le Neez > SENDETS Mairie;9.0;FROMAG_1;Fromagerie;2042.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;17.0;MEON_1;Méon;275.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;9.0;PDESPA_E;Pont d'Espagne;759.0
+11;1.0;GAN Le Neez > SENDETS Mairie;10.0;ASTOUS_1;Astous;522.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;18.0;LAFFIT_O;Laffitte;365.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;11.0;ROUSS_S;Rousseau;260.0
+11;1.0;GAN Le Neez > SENDETS Mairie;12.0;BOURDI_1;Bourdieu;505.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;21.0;MONTAR_1;Montardon;284.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;13.0;SJOSEP_E;St Joseph;271.0
+11;1.0;GAN Le Neez > SENDETS Mairie;14.0;BOASIS_1;Belle Oasis;634.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;25.0;VERDQA_A;Pl. Verdun Quai A;317.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;19.0;RONSAR_S;Ronsard;800.0
+11;1.0;GAN Le Neez > SENDETS Mairie;18.0;BARTHE_E;Barthe;339.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;26.0;PDJUST_1;Palais de Justice;255.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;20.0;IRIS_E;Iris;460.0
+11;1.0;GAN Le Neez > SENDETS Mairie;20.0;PONTS_1;Ponts;327.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;2.0;LHMEDI_N;Les Halles Médiathèque;448.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;21.0;SJBAPT_S;St Jean-Baptiste;449.0
+11;1.0;GAN Le Neez > SENDETS Mairie;26.0;FAISAN_2;Faisans;350.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;6.0;PLAWRE_2;Parc Lawrance;302.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;24.0;TOURAS_O;Tourasse;421.0
+11;1.0;GAN Le Neez > SENDETS Mairie;32.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;8.0;MONTAR_2;Montardon;162.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;27.0;PPDPQB_B;PAU Porte des Pyrénées Quai B;374.0
+11;1.0;GAN Le Neez > SENDETS Mairie;39.0;SMARC_2;St Marc;437.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;10.0;FOUCHE_2;Fouchet;318.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;2.0;EALPHA_E;ESAT Alpha;238.0
+11;1.0;GAN Le Neez > SENDETS Mairie;40.0;OUSSER_2;Oussère;467.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;19.0;HIPPAU_2;Hippodrome;233.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;4.0;BALAIT_N;Balaïtous;632.0
+11;1.0;GAN Le Neez > SENDETS Mairie;44.0;LAPEYR_2;Lapeyrade;365.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;21.0;AYGUEL_2;Ayguelongue;700.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;8.0;RPOINT_N;Rond-point;283.0
+11;1.0;GAN Le Neez > SENDETS Mairie;45.0;CDBOS_2;Cami dou Bos;661.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;24.0;AYOUS_2;Ayous;719.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;11.0;MOZART_E;Mozart;413.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;1.0;IDDROY_1;IDRON Domaine du Roy;0.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;25.0;HIALES_2;Hiales;1046.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;12.0;RAMEAU_E;Rameau;402.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;5.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;632.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;26.0;BRUSCO_2;Bruscos;1005.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;13.0;SJBAPT_N;St Jean-Baptiste;238.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;7.0;CJDALB_N;Collège J. d'Albret;245.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;2.0;PCMUQD_D;PAU Cité Multimédia Quai D;98.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;21.0;SJOSEP_O;St Joseph;542.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;8.0;NPRINC_N;Norman Prince;500.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;3.0;PEMPLO_1;Pôle Emploi;400.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;28.0;MDJURA_N;Mairie de Jurançon;496.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;9.0;SJAMME_1;St Jammes;505.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;4.0;ASFO_O;ASFO;407.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;29.0;COUBER_E;Coubertin;423.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;16.0;GRAMON_2;Pl. Gramont;233.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;5.0;MDASSO_O;Maison des Associations;241.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;31.0;JCFP_1/2;JURANCON Corps Franc Pommiès;963.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;17.0;PONTS_2;Ponts;301.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;7.0;MARGUE_1;Marguerites;338.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;5.0;MOZART_E;Mozart;413.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;22.0;PDOLY_2;Pont d'Oly;627.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;9.0;RAMEAU_O;Rameau;142.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;8.0;IRIS_O;Iris;476.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;24.0;ZAVGAL_2;ZA Vert Galant;652.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;10.0;MOZART_O;Mozart;434.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;11.0;CUNIVE_O;Cité Universitaire;330.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;27.0;ASTOUS_2;Astous;399.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;12.0;WAGNER_N;Wagner;248.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;13.0;CCLERM_O;Collège Clermont;480.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;28.0;FROMAG_2;Fromagerie;570.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;13.0;MARCAD_O;Marcadau;398.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;15.0;SJOSEP_O;St Joseph;542.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;30.0;VILLEF_2;Villefranche;264.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;15.0;JVERNE_N;Jules Verne;334.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;18.0;HUTTON_N;Hutton;253.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;33.0;BROCA_2;Broca;369.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;17.0;CADIER_1;Pasteur Cadier;154.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;20.0;VALLEE_O;Vallée;754.0
+11;2.0;IDRON Domaine du Roy > GAN Le Neez;36.0;GLNE_1/2;GAN Le Neez;439.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;27.0;BARTHE_O;Barthe;233.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;22.0;MDJURA_N;Mairie de Jurançon;496.0
+11;2.0;SENDETS Mairie > GAN Le Neez;9.0;LCAMP_1;Le Camp;410.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;30.0;DLFONT_2;De La Fontaine;331.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;25.0;JCFP_1/2;JURANCON Corps Franc Pommiès;963.0
+11;2.0;SENDETS Mairie > GAN Le Neez;11.0;IDDROY_1;IDRON Domaine du Roy;414.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;31.0;MDJURA_N;Mairie de Jurançon;303.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;1.0;MECO_1/2;MONTARDON Ecole;0.0
+11;2.0;SENDETS Mairie > GAN Le Neez;16.0;CHP_N;CHP;425.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;32.0;COUBER_E;Coubertin;423.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;4.0;AYGUEL_1;Ayguelongue;1430.0
+11;2.0;SENDETS Mairie > GAN Le Neez;17.0;CJDALB_N;Collège J. d'Albret;245.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;10.0;BARTHE_E;Barthe;339.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;6.0;HIPPAU_1;Hippodrome;1334.0
+11;2.0;SENDETS Mairie > GAN Le Neez;19.0;SJAMME_1;St Jammes;505.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;12.0;MONNAI_S;Pl. de la Monnaie;453.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;8.0;DAURAT_1;Daurat;229.0
+11;2.0;SENDETS Mairie > GAN Le Neez;20.0;EVII_1;Edouard VII;354.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;13.0;PGDPQA_A;PAU Gare de Pau Quai A;480.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;21.0;CARNOT_1;Carnot;401.0
+11;2.0;SENDETS Mairie > GAN Le Neez;21.0;FAISAN_1;Faisans;294.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;16.0;BOSQQD_D;PAU Bosquet Quai D;422.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;2.0;F-HDES_2;Les Halles - Despourrins;125.0
+11;2.0;SENDETS Mairie > GAN Le Neez;25.0;VERDQD_D;Pl. Verdun Quai D;253.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;17.0;F-HDES_2;Les Halles - Despourrins;440.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;4.0;ABREMO_2;Abbé Brémond;436.0
+11;2.0;SENDETS Mairie > GAN Le Neez;30.0;CDPRIN_O;Croix du Prince;303.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;18.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;5.0;REDANU_2;Rhin et Danube;312.0
+11;2.0;SENDETS Mairie > GAN Le Neez;33.0;BOASIS_2;Belle Oasis;306.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;23.0;CORISA_2;Corisande;334.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;11.0;TOUQUE_2;Touquet;246.0
+11;2.0;SENDETS Mairie > GAN Le Neez;42.0;SBARTH_2;St Barthélémy;298.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;26.0;TOURAS_S;Tourasse;219.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;12.0;VELLED_N;Velleda;290.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;4.0;LLAOU_1;Le Laou;873.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;36.0;PCMUQB_B;PAU Cité Multimédia Quai B;246.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;14.0;CAFPA_2;Centre AFPA;275.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;6.0;PEURAL_1;Euralis;870.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;2.0;F-HDES_2;Les Halles - Despourrins;304.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;15.0;ADER_2;Ader;392.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;7.0;AUBEPI_1;Aubépines;504.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;8.0;SJOSEP_E;St Joseph;323.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;18.0;HIPPAU_2;Hippodrome;233.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;9.0;SATAO_O;Satao;401.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;13.0;MEON_2;Méon;313.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;21.0;LAGRIC_2;Lycée Agricole;1281.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;19.0;AUBISQ_1;Aubisque;231.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;14.0;SJULIE_2;St Julien;326.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;1.0;UAPP_1/2;UZEIN Aéroport Pau Pyrénées;0.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;20.0;COUSTE_1;Coustettes;397.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;19.0;VDOR_2;Val d'Or;250.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;3.0;BRUSCO_1;Bruscos;697.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;22.0;ECHATR_S;Erckmann Chatrian;289.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;2.0;PSUD_E;Perlic Sud;505.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;6.0;LDBEAR_1;Luy de Béarn;734.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;27.0;VELLED_S;Velleda;463.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;5.0;PLONG_1;Pont Long;377.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;7.0;NNIEME_1;Normandie Niemen;523.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;30.0;CDBOQE_E;Catherine de Bourbon Quai E;231.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;7.0;VDOR_1;Val d'Or;327.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;10.0;HIPPAU_1;Hippodrome;1334.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;33.0;CDPARI_O;Commune de Paris;358.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;17.0;MONTAR_1;Montardon;284.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;19.0;FOUCHE_1;Fouchet;348.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;34.0;CDAGRI_S;Chambre d'Agriculture;344.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;18.0;SJOSEP_O;St Joseph;269.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;20.0;LABOUR_1;Labourdette;225.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;35.0;COURTE_S;Courteault;257.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;23.0;GUICHE_1;Guichenné;349.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;24.0;PHOEBU_1;Gaston Phoebus;294.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;36.0;MARCAD_S;Marcadau;226.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;24.0;BOSQQC_C;PAU Bosquet Quai C;545.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;27.0;GUICHE_1;Guichenné;349.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;37.0;WAGNER_S;Wagner;462.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;1.0;BOSQQC_C;PAU Bosquet Quai C;0.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;28.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;39.0;LAPUYA_S;Lapuyade;412.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;5.0;VERDQD_D;Pl. Verdun Quai D;253.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;1.0;BOSQQC_C;PAU Bosquet Quai C;0.0
+12;1.0;LESCAR Quartier Libre > PAU Porte des Pyrénées Quai B;40.0;RPOINT_S;Rond-point;259.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;6.0;GRAMON_2;Pl. Gramont;233.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;3.0;PDJUST_2;Palais de Justice;369.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;2.0;PPDPQA_A;PAU Porte des Pyrénées Quai A;532.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;9.0;JDBILL_2;Jardins de Billère;877.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;4.0;VERDQB_B;Pl. Verdun Quai B;247.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;10.0;CDPARI_E;Commune de Paris;232.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;11.0;BLACAS_2;Lacassagne;526.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;5.0;PHOEBU_2;Gaston Phoebus;262.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;11.0;CUNIQA_A;Condorcet - Université Quai A;452.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;2.0;REBEQU_1;Rebeque;1028.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;13.0;SJULIE_2;St Julien;326.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;12.0;CDBOQA_A;Catherine de Bourbon Quai A;416.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;4.0;LAMARQ_1;Lamarque;397.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;16.0;FEUILL_2;Feuillage;261.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;14.0;CITEAU_N;Cîteaux;225.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;7.0;MDBILL_S;Mairie de Billère;420.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;17.0;DAURAT_2;Daurat;205.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;17.0;TAINE_2;Taine;375.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;12.0;VERDQC_C;Pl. Verdun Quai C;275.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;18.0;VDOR_2;Val d'Or;250.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;18.0;OSSAU_2;Ossau;304.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;15.0;BOSQQC_C;PAU Bosquet Quai C;545.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;23.0;LDBEAR_2;Luy de Béarn;649.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;29.0;CFLEU_2;Clos Fleuri;435.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;1.0;VCAMOU;Pl. Verdun Camou;0.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;27.0;ALLIAS_2;Allias;576.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;31.0;LHOURQ_2;La Hourquie;445.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;2.0;GTOUR;Grand Tour;290.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;28.0;UAPP_1/2;UZEIN Aéroport Pau Pyrénées;788.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;33.0;CHARRE_N;Charreteur;518.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;6.0;CPAU;Château de Pau;195.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;14.0;CORISA_1;Corisande;287.0
+12;2.0;PAU Porte des Pyrénées Quai B > LESCAR Quartier Libre;39.0;LQLIQO_O;LESCAR Quartier Libre;371.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;7.0;SMART_S;St Martin;118.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;20.0;F-HDES_1;Les Halles - Despourrins;345.0
+13;1.0;LESCAR Soleil > PAU  EFS;8.0;ESTIEN_E;Estieni;960.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;9.0;PPYRE_S;Palais des Pyrénées;235.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;29.0;CGABAR_2;Collège E. Gabard;599.0
+13;1.0;LESCAR Soleil > PAU  EFS;9.0;PESQUE_E;Pesqué;242.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;12.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;226.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;33.0;GUYNEM_2;Guynemer;321.0
+13;1.0;LESCAR Soleil > PAU  EFS;10.0;MEDIAT_S;Médiathèque;799.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;13.0;F-HDES_2;Les Halles - Despourrins;164.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;1.0;JCFP_1/2;JURANCON Corps Franc Pommiès;0.0
+13;1.0;LESCAR Soleil > PAU  EFS;11.0;SANTON_S;Santona;793.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;16.0;PASTEU_1;Pasteur;187.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;2.0;JLPAC_O;JURANCON LP A. Campa;418.0
+13;1.0;LESCAR Soleil > PAU  EFS;14.0;NPAILL_S;Nelson Paillou;365.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;1.0;CSTO_1/2;PAU CST Jean Feger;0.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;8.0;CGABAR_1;Collège E. Gabard;310.0
+13;1.0;LESCAR Soleil > PAU  EFS;15.0;LSJPER_S;Lycée St John Perse;468.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;2.0;STAP_1;STAP;293.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;9.0;CDPRIN_E;Croix du Prince;503.0
+13;1.0;LESCAR Soleil > PAU  EFS;17.0;CDPARI_O;Commune de Paris;358.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;6.0;PSANTA_1;Pissard Santarelli;487.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;19.0;CMARZE_2;Clinique Marzet;228.0
+13;1.0;LESCAR Soleil > PAU  EFS;18.0;TCADQD_D;Tourasse - Cité Administrative Quai D;344.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;7.0;PSDHAM_1;PAU Stades du Hameau;406.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;21.0;NPARK_2;Nandina Park;166.0
+13;1.0;LESCAR Soleil > PAU  EFS;22.0;DCARBO_O;De Carbonnières;364.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;10.0;CHP_N;CHP;425.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;24.0;MARCAD_E;Marcadau;278.0
+13;1.0;LESCAR Soleil > PAU  EFS;23.0;NPRINC_S;Norman Prince;459.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;11.0;CJDALB_N;Collège J. d'Albret;245.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;25.0;WAGNER_S;Wagner;411.0
+13;1.0;LESCAR Soleil > PAU  EFS;27.0;PPDPQA_A;PAU Porte des Pyrénées Quai A;399.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;12.0;NPRINC_N;Norman Prince;500.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;28.0;RAMEAU_E;Rameau;402.0
+13;1.0;LESCAR Soleil > PAU  EFS;34.0;GUILHE_O;Guilhem;306.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;15.0;FAISAN_1;Faisans;294.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;30.0;MARGUE_2;Marguerites;217.0
+13;1.0;LESCAR Soleil > PAU  EFS;35.0;HIBISC_E;Hibiscus;571.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;16.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;31.0;BLAISE_2;Blaise;302.0
+13;2.0;PAU EFS > LESCAR Soleil;5.0;BLANQU_S;Blanqui;309.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;17.0;F-HDES_2;Les Halles - Despourrins;304.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;32.0;MDASSO_E;Maison des Associations;418.0
+13;2.0;PAU EFS > LESCAR Soleil;7.0;MDASSO_O;Maison des Associations;241.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;27.0;LAYGUE_2;L'Ayguette;195.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;1.0;BOSQQC_C;PAU Bosquet Quai C;0.0
+13;2.0;PAU EFS > LESCAR Soleil;10.0;SJELIS_N;Ste Jeanne Elisabeth;200.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;28.0;CDESTE_2;Château d'Este;285.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;3.0;LHMEDI_N;Les Halles Médiathèque;159.0
+13;2.0;PAU EFS > LESCAR Soleil;14.0;CJDALB_N;Collège J. d'Albret;245.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;29.0;BDAMOU_2;Bois d'Amour;493.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;4.0;PDJUST_2;Palais de Justice;369.0
+13;2.0;PAU EFS > LESCAR Soleil;17.0;CDFLEU_N;Cité des Fleurs;433.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;33.0;BJGOIS_2;BILLERE J. Gois;209.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;7.0;PLAWRE_2;Parc Lawrance;302.0
+13;2.0;PAU EFS > LESCAR Soleil;28.0;MEDIAT_N;Médiathèque;630.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;10.0;BFRENE_1;Beau Frêne;362.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;10.0;LABOUR_2;Labourdette;295.0
+13;2.0;PAU EFS > LESCAR Soleil;32.0;EGLISE_E;Eglise;461.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;15.0;PDJUST_1;Palais de Justice;255.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;11.0;FOUCHE_2;Fouchet;318.0
+13;2.0;PAU EFS > LESCAR Soleil;33.0;PDAMER_E;Prix d'Amérique;384.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;18.0;FAISAN_2;Faisans;350.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;17.0;FEUILL_2;Feuillage;261.0
+13;2.0;PAU EFS > LESCAR Soleil;35.0;SDUMON_O;Santos Dumont;564.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;29.0;LARRIB_2;Larribau;445.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;18.0;DAURAT_2;Daurat;205.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;4.0;GUYNEM_1;Guynemer;290.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;1.0;BOSQQF_F;PAU Bosquet Quai F;0.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;3.0;PINSON_N;Pinsons;364.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;5.0;COUBER_O;Coubertin;301.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;3.0;PDJUST_2;Palais de Justice;369.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;4.0;FARMAN_1;Farman;367.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;6.0;MDJURA_S;Mairie de Jurançon;480.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;5.0;PHOEBU_2;Gaston Phoebus;262.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;6.0;PMADRI_1;Paris Madrid;332.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;7.0;LOLIBE_E;Lolibé;319.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;6.0;PLAWRE_2;Parc Lawrance;302.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;9.0;FEUILL_1;Feuillage;220.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;14.0;ESPE_S;ESPE;560.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;7.0;SJOSEP_E;St Joseph;323.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;11.0;LARTIG_1;Lartigue;259.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;15.0;CCLERM_E;Collège Clermont;403.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;12.0;SANTON_N;Santona;570.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;13.0;MEON_1;Méon;275.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;21.0;SJBAPT_S;St Jean-Baptiste;449.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;18.0;COUSTE_2;Coustettes;525.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;14.0;LAFFIT_O;Laffitte;365.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;24.0;TOURAS_O;Tourasse;421.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;19.0;AUBISQ_2;Aubisque;283.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;19.0;PLAWRE_1;Parc Lawrance;283.0
+14;1.0;JURANCON Corps Franc Pommiès > BIZANOS Beau Soleil;26.0;RPOINT_S;Rond-point;259.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;20.0;FRENES_2;Frênes;419.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;21.0;VERDQA_A;Pl. Verdun Quai A;317.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;1.0;JCFP_1/2;JURANCON Corps Franc Pommiès;0.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;21.0;TEULER_2;Teulère;241.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;22.0;PDJUST_1;Palais de Justice;255.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;4.0;GUYNEM_1;Guynemer;290.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;22.0;PONTER_2;Ponterique;328.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;2.0;F-HDES_2;Les Halles - Despourrins;304.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;8.0;VALLEE_E;Vallée;440.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;25.0;PLAISA_2;Plaisance;195.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;4.0;PDJUST_2;Palais de Justice;369.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;10.0;HUTTON_S;Hutton;370.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;1.0;LEMM_1/2;LESCAR Village Emmaüs;0.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;7.0;MULOT_2;Mulot;353.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;15.0;CCLERM_E;Collège Clermont;403.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;3.0;PLAISA_1;Plaisance;359.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;13.0;LAMARQ_2;Lamarque;641.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;16.0;FACULT_E;Facultés;459.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;7.0;TEULER_1;Teulère;328.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;1.0;LSOLQO_O;LESCAR Soleil;0.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;17.0;CUNIVE_E;Cité Universitaire;260.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;13.0;PAQUAL_1;Piscine Aqualons;263.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;8.0;JDBILL_1;Jardins de Billère;303.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;18.0;LSJPER_S;Lycée St John Perse;302.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;17.0;LAFFIT_O;Laffitte;477.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;9.0;ETIGNY_1;Etigny;896.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;22.0;RAMEAU_O;Rameau;157.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;21.0;SJOSEP_O;St Joseph;269.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;11.0;GRAMON_1;Pl. Gramont;365.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;23.0;MOZART_O;Mozart;434.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;24.0;VERDQA_A;Pl. Verdun Quai A;317.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;14.0;GUICHE_1;Guichenné;349.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;25.0;LAPUYA_S;Lapuyade;308.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;4.0;F-BPAI_1;Bd de la Paix;517.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;3.0;CIMETI_1;Cimetière;258.0
+14;1.0;JURANCON Corps Franc Pommiès > PAU Porte des Pyrénées Quai B;26.0;RPOINT_S;Rond-point;259.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;5.0;CDBOQC_C;Catherine de Bourbon Quai C;668.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;4.0;VBAYARD;Pl. Verdun Bayard;234.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;5.0;FOUGER_N;Fougères;442.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;9.0;F-FOIR_1;Pl. du Foirail;456.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;8.0;MPAU;Mairie de Pau;125.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;6.0;SAPINS_E;Sapins;459.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;6.0;F-SARA_2;Saragosse;327.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;10.0;CLEME;Clemenceau;227.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;10.0;TOURAS_E;Tourasse;293.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;8.0;CUNIQB_B;Condorcet - Université Quai B;715.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;14.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;14.0;IRIS_O;Iris;476.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;10.0;F-BPAI_2;Bd de la Paix;662.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;18.0;LHREPU_1;Les Halles République;130.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;17.0;CUNIVE_O;Cité Universitaire;330.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;1.0;PCMUQA_A;PAU Cité Multimédia Quai A;0.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;20.0;SJACQUES;St Jacques;136.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;18.0;FACULT_O;Facultés;300.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;7.0;PECIEL_1;Parc en Ciel;220.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;23.0;VERDQB_B;Pl. Verdun Quai B;100.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;22.0;PDEXPO_N;Parc des Expos;269.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;9.0;SJBAPT_N;St Jean-Baptiste;274.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;3.0;RAMADI_1;Ramadier;461.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;23.0;ROUSS_N;Rousseau;424.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;15.0;CORISA_1;Corisande;287.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;5.0;GEOLOG_1;Géologues;407.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;24.0;HUTTON_N;Hutton;253.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;20.0;F-FOIR_1;Pl. du Foirail;461.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;8.0;MOUCHO_N;Cdt Mouchotte;464.0
+14;2.0;BIZANOS Beau Soleil > JURANCON Corps Franc Pommiès;26.0;VALLEE_O;Vallée;754.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;24.0;BONAPA_2;Bonaparte;358.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;9.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;632.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;2.0;RPOINT_N;Rond-point;283.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;26.0;MONNAI_N;Pl. de la Monnaie;461.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;20.0;VERDQB_B;Pl. Verdun Quai B;247.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;4.0;TOURAS_E;Tourasse;293.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;27.0;ROUSSI_O;Roussille;353.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;24.0;BFRENE_2;Beau Frêne;544.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;9.0;RONSAR_N;Ronsard;329.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;29.0;CDPRIN_O;Croix du Prince;303.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;26.0;LAPLAC_2;Laplace;295.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;14.0;ESPE_N;ESPE;360.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;31.0;DLFONT_2;De La Fontaine;331.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;1.0;BJGOIS_1;BILLERE J. Gois;0.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;16.0;PDEXPO_N;Parc des Expos;269.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;33.0;COUBER_E;Coubertin;423.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;3.0;LACAOU_1;Lacaou;315.0
+14;2.0;PAU Porte des Pyrénées Quai A > JURANCON Corps Franc Pommiès;17.0;ROUSS_N;Rousseau;424.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;34.0;GUYNEM_2;Guynemer;321.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;5.0;BDAMOU_1;Bois d'Amour;165.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;2.0;PASSAD_1;Passades;287.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;5.0;MDJURA_S;Mairie de Jurançon;480.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;6.0;CDESTE_1;Château d'Este;586.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;3.0;LAGRIC_1;Lycée Agricole;1558.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;6.0;DLFONT_1;De La Fontaine;318.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;8.0;LAPLAC_1;Laplace;166.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;5.0;DDSERS_1;Domaine de Sers;755.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;9.0;BARTHE_E;Barthe;339.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;11.0;PDEXPO_1;Parc des Expos;527.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;9.0;ADER_1;Ader;368.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;11.0;MONNAI_S;Pl. de la Monnaie;453.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;12.0;PLAWRE_1;Parc Lawrance;169.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;12.0;VELLED_S;Velleda;528.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;12.0;PGDPQA_A;PAU Gare de Pau Quai A;480.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;13.0;PHOEBU_1;Gaston Phoebus;294.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;14.0;PCIEL_1;Plein Ciel;241.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;13.0;BONAPA_1;Bonaparte;406.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;20.0;SJAMME_2;St Jammes;340.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;15.0;NPAILL_S;Nelson Paillou;190.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;21.0;JVERNE_S;Jules Verne;287.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;21.0;NPRINC_S;Norman Prince;421.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;16.0;CUNIVE_O;Cité Universitaire;326.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;24.0;PESQUI_2;Pesquidoux;277.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;23.0;CHP_S;CHP;223.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;20.0;ABREMO_1;Abbé Brémond;415.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;25.0;MDLAU_2;MJC du Laü;261.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;24.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+16;1.0;MONTARDON Ecole > PAU Bosquet Quai E;23.0;LHAPLA_1;Les Halles Planté;129.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;28.0;SJBAPT_S;St Jean-Baptiste;449.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;25.0;MOUCHO_S;Cdt Mouchotte;622.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;6.0;CCLERM_E;Collège Clermont;396.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;32.0;GBONHE_2;Gaston Bonheur;127.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;26.0;PSDHAM_2;PAU Stades du Hameau;308.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;8.0;CUNIVE_E;Cité Universitaire;260.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;35.0;TRIANO_2;Trianon;450.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;27.0;PSANTA_2;Pissard Santarelli;416.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;9.0;NPAILL_N;Nelson Paillou;305.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;3.0;PPDPQC_C;PAU Porte des Pyrénées Quai C;632.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;28.0;GEOLOG_2;Géologues;513.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;13.0;TURSAN_2;Tursan;306.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;13.0;VERDQB_B;Pl. Verdun Quai B;247.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;30.0;RAMADI_2;Ramadier;487.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;16.0;DAURAT_2;Daurat;370.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;22.0;SJULIE_2;St Julien;326.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;31.0;CSTO_1/2;PAU CST Jean Feger;534.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;20.0;AYGUEL_2;Ayguelongue;700.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;28.0;PMADRI_2;Paris Madrid;379.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;9.0;LABOUR_2;Labourdette;295.0
+16;2.0;PAU Bosquet Quai E > MONTARDON Ecole;22.0;PASSAD_2;Passades;1585.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;5.0;PLONG_1;Pont Long;377.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;10.0;FOUCHE_2;Fouchet;318.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;8.0;AYGUEL_1;Ayguelongue;347.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;10.0;CCDMAI_1;Le Mail;274.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;13.0;MEDIAT_N;Médiathèque;630.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;11.0;VDOR_1;Val d'Or;226.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;16.0;LABOUR_1;Labourdette;225.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;14.0;PDSPOR_2;Plaine des Sports;846.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;15.0;LARTIG_1;Lartigue;259.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;18.0;SJOSEP_O;St Joseph;269.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;15.0;PAQUAL_2;Piscine Aqualons;368.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;16.0;SJULIE_1;St Julien;317.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;25.0;FAISAN_2;Faisans;350.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;23.0;BIDOU_2;Bidou;338.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;22.0;SJOSEP_O;St Joseph;269.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;26.0;EVII_2;Edouard VII;331.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;4.0;CFLEU_1;Clos Fleuri;234.0
+17;1.0;UZEIN Aéroport Pau-Pyrénées > PAU Bosquet Quai D;23.0;PLAWRE_1;Parc Lawrance;283.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;29.0;CJDALB_S;Collège J. d'Albret;567.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;9.0;AUBISQ_1;Aubisque;231.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;7.0;SJOSEP_E;St Joseph;323.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;32.0;MOUCHO_S;Cdt Mouchotte;622.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;10.0;COUSTE_1;Coustettes;397.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;9.0;LABOUR_2;Labourdette;295.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;2.0;STAP_1;STAP;293.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;14.0;PDSPOR_1;Plaine des Sports;355.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;11.0;LAFFIT_E;Laffitte;362.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;5.0;GEOLOG_1;Géologues;407.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;16.0;SANTON_S;Santona;793.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;12.0;MEON_2;Méon;313.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;10.0;ROUSSE_1;Rousse;282.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;18.0;FOUCHE_1;Fouchet;348.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;14.0;LARTIG_2;Lartigue;222.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;14.0;NDAME_1;Notre Dame;287.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;19.0;LABOUR_1;Labourdette;225.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;15.0;CCDMAI_2;Le Mail;378.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;15.0;GARET_1;Garet;227.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;27.0;BOSQQF_F;PAU Bosquet Quai F;209.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;20.0;DDSERS_2;Domaine de Sers;1371.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;17.0;LHMEDI_N;Les Halles Médiathèque;448.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;2.0;F-CLIN_1;Cliniques;252.0
+17;2.0;PAU Bosquet Quai C > UZEIN Aéroport Pau-Pyrénées;22.0;NNIEME_2;Normandie Niemen;430.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;18.0;PDJUST_2;Palais de Justice;369.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;6.0;CUNIQC_C;Condorcet - Université Quai C;515.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;1.0;PCMUQA_A;PAU Cité Multimédia Quai A;0.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;20.0;GRAMON_2;Pl. Gramont;233.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;7.0;TCADQC_C;Tourasse - Cité Administrative Quai C;717.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;6.0;BLAISE_1;Blaise;446.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;22.0;ETIGNY_2;Etigny;335.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;8.0;F-SARA_1;Saragosse;498.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;8.0;RAVEL_1;Ravel;194.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;23.0;JDBILL_2;Jardins de Billère;877.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;10.0;F-HDES_1;Les Halles - Despourrins;345.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;11.0;TOURAS_N;Tourasse;415.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;25.0;BLACAS_2;Lacassagne;526.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;11.0;BOSQQA_A;Pl. d'Espagne - Bosquet Quai A;176.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;16.0;NPARK_1;Nandina Park;260.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;26.0;CAMPAG_2;Campagnole;503.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;12.0;F-BABE_2;Barthou - Beaumont;461.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;18.0;CMARZE_1;Clinique Marzet;470.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;29.0;REBEQU_2;Rebeque;698.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;13.0;PGDPQE_E;PAU Gare de Pau Quai E;792.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;19.0;F-FOIR_1;Pl. du Foirail;461.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;31.0;LSOLQO_O;LESCAR Soleil;168.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;1.0;PGDPQE_E;PAU Gare de Pau Quai E;0.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;21.0;BOSQQD_D;PAU Bosquet Quai D;343.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;2.0;REBEQU_1;Rebeque;1028.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;2.0;F-BABE_1;Barthou - Beaumont;857.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;22.0;F-BABE_2;Barthou - Beaumont;552.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;4.0;LAMARQ_1;Lamarque;397.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;4.0;F-HDES_2;Les Halles - Despourrins;164.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;23.0;BONAPA_2;Bonaparte;358.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;5.0;CAMPAG_1;Campagnole;622.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;11.0;F-BHAM_2;Buros - Le Hameau;561.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;24.0;PGDPQB_B;PAU Gare de Pau Quai B;392.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;9.0;ETIGNY_1;Etigny;896.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;2.0;TRIANO_1;Trianon;222.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;25.0;MONNAI_N;Pl. de la Monnaie;461.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;13.0;PDJUST_1;Palais de Justice;224.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;5.0;GBONHE_1;Gaston Bonheur;551.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;26.0;ROUSSI_O;Roussille;353.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;14.0;GUICHE_1;Guichenné;349.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;6.0;TDUNIO_1;Trait d'Union;346.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;28.0;CDPRIN_O;Croix du Prince;303.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;15.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;10.0;IRIS_O;Iris;476.0
+A;1.0;PAU Cité Multimédia Quai A > JURANCON Corps Franc Pommiès;34.0;JCFP_1/2;JURANCON Corps Franc Pommiès;963.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;16.0;GARET_2;Garet;535.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;11.0;LPBARA_1;LP H. Baradat;297.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;3.0;JCURIE_1;Joliot Curie;277.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;17.0;NDAME_2;Notre Dame;235.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;16.0;JVERNE_N;Jules Verne;334.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;4.0;GUYNEM_1;Guynemer;290.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;24.0;SJELIS_S;Ste Jeanne Elisabeth;612.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;17.0;NPARK_1;Nandina Park;260.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;5.0;COUBER_O;Coubertin;301.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;26.0;GEOLOG_2;Géologues;409.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;18.0;CADIER_1;Pasteur Cadier;154.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;6.0;MDJURA_S;Mairie de Jurançon;480.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;27.0;LARRIB_2;Larribau;445.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;21.0;F-HDES_1;Les Halles - Despourrins;345.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;7.0;DLFONT_1;De La Fontaine;318.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;1.0;CSTO_1/2;PAU CST Jean Feger;0.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;22.0;BOSQQA_A;Pl. d'Espagne - Bosquet Quai A;176.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;11.0;ROUSSI_E;Roussille;161.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;14.0;COURTE_N;Courteault;222.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;23.0;F-BABE_2;Barthou - Beaumont;461.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;14.0;BONAPA_1;Bonaparte;406.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;25.0;PDEXPO_2;Parc des Expos;284.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;25.0;PGDPQB_B;PAU Gare de Pau Quai B;392.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;15.0;F-BABE_1;Barthou - Beaumont;364.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;31.0;SCHWEI_2;Schweitzer;257.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;28.0;BARTHE_O;Barthe;233.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;20.0;CADIER_2;Pasteur Cadier;450.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;38.0;MOULIN_2;Moulin;346.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;32.0;MDJURA_N;Mairie de Jurançon;303.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;22.0;JVERNE_S;Jules Verne;287.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;40.0;PESQUE_E;Pesqué;242.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;35.0;JLPAC_O;JURANCON LP A. Campa;610.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;27.0;MOZART_E;Mozart;424.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;42.0;PAQUAL_2;Piscine Aqualons;368.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;1.0;JLPAC_O;JURANCON LP A. Campa;0.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;29.0;RAVEL_2;Ravel;143.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;44.0;VERDER_2;Verderie;185.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;2.0;JCURIE_1;Joliot Curie;277.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;33.0;ASFO_E;ASFO;316.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;47.0;FARMAN_1;Farman;367.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;4.0;COUBER_O;Coubertin;301.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;34.0;PEMPLO_2;Pôle Emploi;375.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;1.0;LHDP_1/2;LONS Hauts du Perlic;0.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;15.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;445.0
+A;2.0;JURANÇON Corps Franc Pommiès > PAU Cité Multimédia Quai B;35.0;PCMUQC_C;PAU Cité Multimédia Quai C;407.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;9.0;PDSPOR_1;Plaine des Sports;355.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;17.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;5.0;VERDQB_B;Pl. Verdun Quai B;247.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;10.0;PESQUE_O;Pesqué;423.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;18.0;CMARZE_2;Clinique Marzet;228.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;6.0;PHOEBU_2;Gaston Phoebus;262.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;12.0;MOULIN_1;Moulin;318.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;19.0;CADIER_2;Pasteur Cadier;450.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;9.0;MONTAR_2;Montardon;162.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;13.0;CHENER_1;Chêneraie;421.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;20.0;NPARK_2;Nandina Park;166.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;12.0;LAFFIT_E;Laffitte;362.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;22.0;LAPLAC_1;Laplace;166.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;22.0;CORISA_2;Corisande;334.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;15.0;LARTIG_2;Lartigue;222.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;26.0;PLAWRE_1;Parc Lawrance;169.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;23.0;MARCAD_E;Marcadau;278.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;16.0;CCDMAI_2;Le Mail;378.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;31.0;F-AALO_2;Alliés - Alsace Lorraine;582.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;27.0;IRIS_E;Iris;349.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;20.0;PMADRI_2;Paris Madrid;379.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;35.0;CDAGRI_S;Chambre d'Agriculture;523.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;33.0;LILAS_2;Lilas;700.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;21.0;PLONG_2;Pont Long;276.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;37.0;MARCAD_S;Marcadau;226.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;34.0;COPERN_2;Copernic;326.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;22.0;FARMAN_2;Farman;416.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;40.0;MOZART_E;Mozart;424.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;1.0;PSDHAM_1;PAU Stades du Hameau;0.0
+B;1.0;PAU Bosquet Quai C > LONS Perlic;23.0;LPER_1/2;LONS Perlic;389.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;41.0;RAMEAU_E;Rameau;402.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;6.0;NPRINC_N;Norman Prince;500.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;1.0;LPER_1/2;LONS Perlic;0.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;45.0;MDASSO_E;Maison des Associations;418.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;10.0;BOSQQC_C;PAU Bosquet Quai C;389.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;8.0;DAURAT_1;Daurat;229.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;46.0;ASFO_E;ASFO;316.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;11.0;LHMEDI_N;Les Halles Médiathèque;448.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;10.0;CCDMAI_1;Le Mail;274.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;15.0;PLAWRE_2;Parc Lawrance;302.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;12.0;SJULIE_1;St Julien;317.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;18.0;LABOUR_2;Labourdette;295.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;15.0;FOUCHE_1;Fouchet;348.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;19.0;FOUCHE_2;Fouchet;318.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;16.0;LABOUR_1;Labourdette;225.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;20.0;LAFFIT_E;Laffitte;362.0
+B;2.0;LONS Perlic > PAU Bosquet Quai C;20.0;PHOEBU_1;Gaston Phoebus;294.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;25.0;FEUILL_2;Feuillage;261.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;3.0;LHMEDI_N;Les Halles Médiathèque;159.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;27.0;VDOR_2;Val d'Or;250.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;8.0;ETIGNY_2;Etigny;335.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;29.0;PLONG_2;Pont Long;276.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;10.0;MDBILL_N;Mairie de Billère;304.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;6.0;PMADRI_1;Paris Madrid;332.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;12.0;CAMPAG_2;Campagnole;503.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;7.0;VDOR_1;Val d'Or;327.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;14.0;JACQUA_2;Jacquard;411.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;13.0;MEON_1;Méon;275.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;15.0;REBEQU_2;Rebeque;698.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;14.0;LAFFIT_O;Laffitte;365.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;16.0;LSOLQE_E;LESCAR Soleil;1105.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;22.0;PDJUST_1;Palais de Justice;255.0
+C;1.0;PAU Bosquet Quai C > LESCAR Soleil;17.0;LSOLQO_O;LESCAR Soleil;168.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;23.0;GUICHE_1;Guichenné;349.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;3.0;JACQUA_1;Jacquard;701.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;24.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;5.0;CAMPAG_1;Campagnole;622.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;27.0;SJAMME_2;St Jammes;340.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;6.0;BLACAS_1;Lacassagne;628.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;30.0;CHP_S;CHP;223.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;10.0;MULOT_1;Mulot;341.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;31.0;PPDPQD_D;PAU Porte des Pyrénées Quai D;462.0
+C;2.0;LESCAR Soleil > PAU Bosquet Quai C;13.0;PDJUST_1;Palais de Justice;224.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;6.0;PEBOUE_N;Péboué;440.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;5.0;GRAMON_1;Pl. Gramont;364.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;8.0;RPOINT_N;Rond-point;547.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;11.0;FOCH;Foch;172.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;11.0;CPAM_1;CPAM;409.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;15.0;CARNOT_1;Carnot;240.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;12.0;11NOVE_1;11 Novembre;390.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;17.0;LHAPLA_1;Les Halles Planté;129.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;16.0;BOSQQC_C;PAU Bosquet Quai C;537.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;19.0;GASSIOT;Gassiot;168.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;19.0;VERDQD_D;Pl. Verdun Quai D;253.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;21.0;BERNADOT;Bernadotte;187.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;21.0;MULOT_2;Mulot;353.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;22.0;VERDQC_C;Pl. Verdun Quai C;151.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;27.0;LAMARQ_2;Lamarque;641.0
+COXI;1.0;Coxitis Pl. Verdun Camou > Pl. Verdun Camou;24.0;VCAMOU;Pl. Verdun Camou;207.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;28.0;JACQUA_2;Jacquard;411.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;4.0;LARRIB_1;Larribau;438.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;1.0;LSOLQO_O;LESCAR Soleil;0.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;13.0;SJAMME_1;St Jammes;505.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;3.0;JACQUA_1;Jacquard;701.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;14.0;EVII_1;Edouard VII;354.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;7.0;MDBILL_S;Mairie de Billère;420.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;18.0;LHMEDI_N;Les Halles Médiathèque;159.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;8.0;JDBILL_1;Jardins de Billère;303.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;19.0;PDJUST_2;Palais de Justice;369.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;10.0;MULOT_1;Mulot;341.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;21.0;PHOEBU_2;Gaston Phoebus;262.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;12.0;VERDQC_C;Pl. Verdun Quai C;275.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;22.0;PLAWRE_2;Parc Lawrance;302.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;19.0;11NOVE_2;11 Novembre;238.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;23.0;PDEXPO_2;Parc des Expos;284.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;21.0;ROUSSE_2;Rousse;390.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;25.0;CSOLEI_2;Clair Soleil;381.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;22.0;LAPUYA_S;Lapuyade;286.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;30.0;SCHWEI_2;Schweitzer;257.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;29.0;CSTO_1/2;PAU CST Jean Feger;534.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;31.0;LACAOU_2;Lacaou;258.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;3.0;PEMPLO_1;Pôle Emploi;400.0
+D;1.0;PAU CST Jean Feger > BILLERE J. Gois;32.0;RICHEL_2;Richelieu;348.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;4.0;ASFO_O;ASFO;407.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;2.0;RICHEL_1;Richelieu;307.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;5.0;MDASSO_O;Maison des Associations;241.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;4.0;SCHWEI_1;Schweitzer;273.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;12.0;WAGNER_N;Wagner;248.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;7.0;LAYGUE_1;L'Ayguette;342.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;15.0;CDAGRI_N;Chambre d'Agriculture;307.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;9.0;CSOLEI_1;Clair Soleil;301.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;18.0;ABREMO_1;Abbé Brémond;415.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;14.0;VERDQA_A;Pl. Verdun Quai A;317.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;19.0;F-FOIR_1;Pl. du Foirail;499.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;16.0;GUICHE_1;Guichenné;349.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;21.0;PDJUST_2;Palais de Justice;369.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;17.0;BOSQQD_D;PAU Bosquet Quai D;372.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;23.0;PHOEBU_2;Gaston Phoebus;262.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;19.0;EVII_2;Edouard VII;331.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;28.0;LAPLAC_2;Laplace;295.0
+D;2.0;BILLERE J. Gois > PAU CST Jean Feger;22.0;CJDALB_S;Collège J. d'Albret;567.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;30.0;BDAMOU_2;Bois d'Amour;162.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;2.0;LHMEDI_N;Les Halles Médiathèque;795.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;34.0;BJGOIS_2;BILLERE J. Gois;209.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;4.0;VERDQB_B;Pl. Verdun Quai B;247.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;43.0;ECHATR_E;Erckmann Chatrian;290.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;8.0;MONTAR_2;Montardon;162.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;45.0;PSUD_E;Perlic Sud;350.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;11.0;LAFFIT_E;Laffitte;362.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;49.0;LHDP_1/2;LONS Hauts du Perlic;923.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;16.0;ECHATR_N;Erckmann Chatrian;204.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;4.0;LPERLI_1;LONS Perlic;360.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;17.0;CLOHAR_2;Cloharé;352.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;6.0;VERDER_1;Verderie;269.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;24.0;CFLEU_2;Clos Fleuri;435.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;8.0;PAQUAL_1;Piscine Aqualons;289.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;26.0;LHOURQ_N;La Hourquie;413.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;11.0;ESTIEN_O;Estieni;214.0
+EMMA;1.0;PAU Bosquet Quai F > LESCAR Village Emmaüs;27.0;LEMM_1/2;LESCAR Village Emmaüs;2059.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;15.0;GENETS_1;Genêts;300.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;2.0;LHOURQ_S;La Hourquie;2515.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;17.0;RICHEL_1;Richelieu;307.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;5.0;BIDOU_1;Bidou;534.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;19.0;SCHWEI_1;Schweitzer;273.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;6.0;PONTER_1;Ponterique;303.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;21.0;LAYGUE_1;L'Ayguette;319.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;8.0;FRENES_1;Frênes;248.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;25.0;PDEXPO_1;Parc des Expos;527.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;11.0;CLOHAR_1;Cloharé;591.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;32.0;ABREMO_2;Abbé Brémond;436.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;12.0;ECHATR_S;Erckmann Chatrian;289.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;33.0;REDANU_2;Rhin et Danube;312.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;15.0;MEDIAT_S;Médiathèque;826.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;34.0;CARLIT_2;Carlitos;298.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;20.0;MONTAR_1;Montardon;284.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;38.0;WAGNER_S;Wagner;462.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;22.0;PLAWRE_1;Parc Lawrance;283.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;39.0;TOURAS_S;Tourasse;219.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;23.0;PHOEBU_1;Gaston Phoebus;294.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;47.0;PEMPLO_2;Pôle Emploi;375.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;25.0;PDJUST_1;Palais de Justice;255.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;48.0;PCMUQC_C;PAU Cité Multimédia Quai C;407.0
+EMMA;2.0;LESCAR Village Emmaüs > PAU Bosquet Quai F;26.0;GUICHE_1;Guichenné;349.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;49.0;CSTO_1/2;PAU CST Jean Feger;1132.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;1.0;F-HFMI_1;PAU Hôpital F. Mitterrand;0.0
+F;1.0;PAU Hôpital F. Mitterrand > PAU Gare de Pau Quai E;3.0;F-BHAM_1;Buros - Le Hameau;295.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;3.0;BOSQQB_B;Pl. d'Espagne - Bosquet Quai B;445.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;5.0;F-AALO_2;Alliés - Alsace Lorraine;442.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;7.0;TCADQB_B;Tourasse - Cité Administrative Quai B;478.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;9.0;CDBOQB_B;Catherine de Bourbon Quai B;513.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;12.0;F-CLIN_2;Cliniques;257.0
+F;2.0;PAU Gare de Pau Quai E > PAU Hôpital F. Mitterrand;13.0;F-HFMI_2;PAU Hôpital F. Mitterrand;241.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;3.0;COPERN_1;Copernic;493.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;4.0;LILAS_1;Lilas;314.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;8.0;MCAMPO_1;Mgr Campo;258.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;12.0;MDLAU_1;MJC du Laü;299.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;13.0;PESQUI_1;Pesquidoux;201.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;14.0;MARCAD_O;Marcadau;295.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;19.0;CMARZE_1;Clinique Marzet;470.0
+T1;1.0;PAU Cité Multimédia Quai A > JURANCON LP A.Campa;30.0;CGABAR_2;Collège E. Gabard;599.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;3.0;GUYNEM_1;Guynemer;290.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;7.0;CGABAR_1;Collège E. Gabard;310.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;8.0;CDPRIN_E;Croix du Prince;503.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;10.0;ROUSSI_E;Roussille;161.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;14.0;F-BABE_1;Barthou - Beaumont;364.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;16.0;F-HDES_2;Les Halles - Despourrins;164.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;26.0;LPBARA_2;LP H. Baradat;279.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;29.0;MCAMPO_2;Mgr Campo;223.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;30.0;PECIEL_2;Parc en Ciel;252.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;31.0;TDUNIO_2;Trait d'Union;274.0
+T1;2.0;JURANÇON LP A.Campa > PAU Cité Multimédia Quai B;36.0;PCMUQB_B;PAU Cité Multimédia Quai B;451.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;2.0;MOUCHO_N;Cdt Mouchotte;464.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;4.0;CHP_N;CHP;425.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;5.0;CJDALB_N;Collège J. d'Albret;245.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;7.0;SJAMME_1;St Jammes;505.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;8.0;EVII_1;Edouard VII;354.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;9.0;FAISAN_1;Faisans;294.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;12.0;PDJUST_2;Palais de Justice;369.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;14.0;PHOEBU_2;Gaston Phoebus;262.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;16.0;SJOSEP_E;St Joseph;323.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;17.0;MONTAR_2;Montardon;162.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;21.0;MEON_2;Méon;313.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;23.0;LARTIG_2;Lartigue;222.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;24.0;CCDMAI_2;Le Mail;378.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;26.0;DAURAT_2;Daurat;205.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;30.0;FARMAN_2;Farman;416.0
+T2;1.0;PAU Stades du Hameau > LONS Perlic;31.0;LPER_1/2;LONS Perlic;389.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;1.0;LPER_1/2;LONS Perlic;0.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;2.0;PSUD_E;Perlic Sud;505.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;3.0;PINSON_N;Pinsons;364.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;4.0;FARMAN_1;Farman;367.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;8.0;DAURAT_1;Daurat;229.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;9.0;FEUILL_1;Feuillage;220.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;11.0;LARTIG_1;Lartigue;259.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;12.0;SJULIE_1;St Julien;317.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;15.0;FOUCHE_1;Fouchet;348.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;17.0;MONTAR_1;Montardon;284.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;19.0;PLAWRE_1;Parc Lawrance;283.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;20.0;PHOEBU_1;Gaston Phoebus;294.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;21.0;VERDQA_A;Pl. Verdun Quai A;317.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;28.0;NPRINC_S;Norman Prince;421.0
+T2;2.0;LONS Perlic > PAU Stades du Hameau;33.0;PSDHAM_2;PAU Stades du Hameau;308.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;1.0;CSTO_1/2;PAU CST Jean Feger;0.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;3.0;RAMADI_1;Ramadier;461.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;4.0;LARRIB_1;Larribau;438.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;7.0;SJELIS_N;Ste Jeanne Elisabeth;200.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;9.0;LAPUYA_N;Lapuyade;314.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;13.0;PEYROU_1;Peyroulet;216.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;24.0;MDBILL_N;Mairie de Billère;304.0
+T3;1.0;PAU CST Jean Feger > LESCAR Soleil;30.0;LSOLQE_E;LESCAR Soleil;1105.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;6.0;BLACAS_1;Lacassagne;628.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;11.0;GRAMON_1;Pl. Gramont;365.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;18.0;PEYROU_2;Peyroulet;266.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;20.0;CPAM_2;CPAM;422.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;23.0;RPOINT_S;Rond-point;259.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;25.0;PEBOUE_S;Péboué;199.0
+T3;2.0;LESCAR Soleil > PAU CST Jean Feger;28.0;RAMADI_2;Ramadier;487.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;2.0;PCMUQD_D;PAU Cité Multimédia Quai D;1339.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;6.0;BLAISE_1;Blaise;446.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;7.0;MARGUE_1;Marguerites;338.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;8.0;RAVEL_1;Ravel;194.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;9.0;RAMEAU_O;Rameau;142.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;10.0;MOZART_O;Mozart;434.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;11.0;TOURAS_N;Tourasse;415.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;13.0;MARCAD_N;Marcadau;446.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;16.0;CARLIT_1;Carlitos;457.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;17.0;REDANU_1;Rhin et Danube;283.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;20.0;LHMEDI_N;Les Halles Médiathèque;428.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;22.0;VERDQB_B;Pl. Verdun Quai B;247.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;24.0;PLAWRE_2;Parc Lawrance;302.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;26.0;BFRENE_2;Beau Frêne;544.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;27.0;CSOLEI_2;Clair Soleil;381.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;29.0;LAYGUE_2;L'Ayguette;195.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;32.0;LACAOU_2;Lacaou;258.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;33.0;RICHEL_2;Richelieu;348.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;35.0;GENETS_2;Genêts;646.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;36.0;PLATEA_2;Plateau;285.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;37.0;CHENER_2;Chêneraie;553.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;39.0;ESTIEN_E;Estieni;265.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;41.0;PDSPOR_2;Plaine des Sports;410.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;46.0;PINSON_N;Pinsons;364.0
+T4;1.0;PAU CST Jean Feger > LONS Hauts du Perlic;48.0;PLONG_1;Pont Long;377.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;2.0;PLONG_2;Pont Long;475.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;3.0;FARMAN_2;Farman;416.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;5.0;BLERIO_1;Blériot;423.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;7.0;ECHATR_O;Erckmann Chatrian;187.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;14.0;PLATEA_1;Plateau;424.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;16.0;BJGOIS_1;BILLERE J. Gois;491.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;18.0;LACAOU_1;Lacaou;315.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;20.0;BDAMOU_1;Bois d'Amour;165.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;23.0;CSOLEI_1;Clair Soleil;301.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;24.0;BFRENE_1;Beau Frêne;362.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;27.0;PHOEBU_1;Gaston Phoebus;294.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;28.0;VERDQA_A;Pl. Verdun Quai A;317.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;29.0;PDJUST_1;Palais de Justice;255.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;30.0;LHMEDI_S;Les Halles Médiathèque;298.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;36.0;COURTE_S;Courteault;257.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;42.0;RAVEL_2;Ravel;143.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;43.0;MARGUE_2;Marguerites;217.0
+T4;2.0;LONS Hauts du Perlic > PAU CST Jean Feger;44.0;BLAISE_2;Blaise;302.0

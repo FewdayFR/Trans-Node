@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<lign id="17">
+  <destination>
+    <description>PAU Bosquet Quai D</description>
+    <sens_id>1</sens_id>
+    <sequence_1>
+      <code_arret>UAPP_1/2</code_arret>
+      <nom_arret>UZEIN Aéroport Pau Pyrénées</nom_arret>
+      <tts>UZEIN Aéroport Pau Pyrénées</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>ALLIAS_1</code_arret>
+      <nom_arret>Allias</nom_arret>
+      <tts>Allias</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>BRUSCO_1</code_arret>
+      <nom_arret>Bruscos</nom_arret>
+      <tts>Bruscos</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>HIALES_1</code_arret>
+      <nom_arret>Hiales</nom_arret>
+      <tts>Hiales</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>AYOUS_1</code_arret>
+      <nom_arret>Ayous</nom_arret>
+      <tts>Ayous</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>LDBEAR_1</code_arret>
+      <nom_arret>Luy de Béarn</nom_arret>
+      <tts>Luy de Béarn</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>NNIEME_1</code_arret>
+      <nom_arret>Normandie Niemen</nom_arret>
+      <tts>Normandie Niemen</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>AYGUEL_1</code_arret>
+      <nom_arret>Ayguelongue</nom_arret>
+      <tts>Ayguelongue</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>DDSERS_1</code_arret>
+      <nom_arret>Domaine de Sers</nom_arret>
+      <tts>Domaine de Sers</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>HIPPAU_1</code_arret>
+      <nom_arret>Hippodrome</nom_arret>
+      <tts>Hippodrome</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>VDOR_1</code_arret>
+      <nom_arret>Val d'Or</nom_arret>
+      <tts>Val d'Or</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, 6, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>DAURAT_1</code_arret>
+      <nom_arret>Daurat</nom_arret>
+      <tts>Daurat</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, 6, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>FEUILL_1</code_arret>
+      <nom_arret>Feuillage</nom_arret>
+      <tts>Feuillage</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>CCDMAI_1</code_arret>
+      <nom_arret>Le Mail</nom_arret>
+      <tts>Le Mail</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>LARTIG_1</code_arret>
+      <nom_arret>Lartigue</nom_arret>
+      <tts>Lartigue</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>SJULIE_1</code_arret>
+      <nom_arret>St Julien</nom_arret>
+      <tts>St Julien</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>MEON_1</code_arret>
+      <nom_arret>Méon</nom_arret>
+      <tts>Méon</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>LAFFIT_O</code_arret>
+      <nom_arret>Laffitte</nom_arret>
+      <tts>Laffitte</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>FOUCHE_1</code_arret>
+      <nom_arret>Fouchet</nom_arret>
+      <tts>Fouchet</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>LABOUR_1</code_arret>
+      <nom_arret>Labourdette</nom_arret>
+      <tts>Labourdette</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>MONTAR_1</code_arret>
+      <nom_arret>Montardon</nom_arret>
+      <tts>Montardon</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, EMMA, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>SJOSEP_O</code_arret>
+      <nom_arret>St Joseph</nom_arret>
+      <tts>St Joseph</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, EMMA, 14, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>PLAWRE_1</code_arret>
+      <nom_arret>Parc Lawrance</nom_arret>
+      <tts>Parc Lawrance</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>PHOEBU_1</code_arret>
+      <nom_arret>Gaston Phoebus</nom_arret>
+      <tts>Gaston Phoebus</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+    <sequence_25>
+      <code_arret>VERDQA_A</code_arret>
+      <nom_arret>Pl. Verdun Quai A</nom_arret>
+      <tts>Pl. Verdun Quai A</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_25>
+    <sequence_26>
+      <code_arret>PDJUST_1</code_arret>
+      <nom_arret>Palais de Justice</nom_arret>
+      <tts>Palais de Justice</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_26>
+    <sequence_27>
+      <code_arret>GUICHE_1</code_arret>
+      <nom_arret>Guichenné</nom_arret>
+      <tts>Guichenné</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, T2, 5, T3, 11, EMMA, C, 8, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_27>
+    <sequence_28>
+      <code_arret>BOSQQD_D</code_arret>
+      <nom_arret>PAU Bosquet Quai D</nom_arret>
+      <tts>PAU Bosquet Quai D</tts>
+      <terminus>1</terminus>
+      <correspondance>T2, T3, 11, 6, A, 9, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_28>
+  </destination>
+  <destination>
+    <description>UZEIN Aéroport Pau-Pyrénées</description>
+    <sens_id>2</sens_id>
+    <sequence_1>
+      <code_arret>BOSQQC_C</code_arret>
+      <nom_arret>PAU Bosquet Quai C</nom_arret>
+      <tts>PAU Bosquet Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, T3, 11, 6, C, 9, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>LHMEDI_N</code_arret>
+      <nom_arret>Les Halles Médiathèque</nom_arret>
+      <tts>Les Halles Médiathèque</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>PDJUST_2</code_arret>
+      <nom_arret>Palais de Justice</nom_arret>
+      <tts>Palais de Justice</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, T4, 11, EMMA, C, 8, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>VERDQB_B</code_arret>
+      <nom_arret>Pl. Verdun Quai B</nom_arret>
+      <tts>Pl. Verdun Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, COXI, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>PHOEBU_2</code_arret>
+      <nom_arret>Gaston Phoebus</nom_arret>
+      <tts>Gaston Phoebus</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>PLAWRE_2</code_arret>
+      <nom_arret>Parc Lawrance</nom_arret>
+      <tts>Parc Lawrance</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>SJOSEP_E</code_arret>
+      <nom_arret>St Joseph</nom_arret>
+      <tts>St Joseph</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, EMMA, 14, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>MONTAR_2</code_arret>
+      <nom_arret>Montardon</nom_arret>
+      <tts>Montardon</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>LABOUR_2</code_arret>
+      <nom_arret>Labourdette</nom_arret>
+      <tts>Labourdette</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>FOUCHE_2</code_arret>
+      <nom_arret>Fouchet</nom_arret>
+      <tts>Fouchet</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>LAFFIT_E</code_arret>
+      <nom_arret>Laffitte</nom_arret>
+      <tts>Laffitte</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, EMMA</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>MEON_2</code_arret>
+      <nom_arret>Méon</nom_arret>
+      <tts>Méon</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>SJULIE_2</code_arret>
+      <nom_arret>St Julien</nom_arret>
+      <tts>St Julien</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>LARTIG_2</code_arret>
+      <nom_arret>Lartigue</nom_arret>
+      <tts>Lartigue</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>CCDMAI_2</code_arret>
+      <nom_arret>Le Mail</nom_arret>
+      <tts>Le Mail</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>FEUILL_2</code_arret>
+      <nom_arret>Feuillage</nom_arret>
+      <tts>Feuillage</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>DAURAT_2</code_arret>
+      <nom_arret>Daurat</nom_arret>
+      <tts>Daurat</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, 6, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>VDOR_2</code_arret>
+      <nom_arret>Val d'Or</nom_arret>
+      <tts>Val d'Or</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 16, 6, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>HIPPAU_2</code_arret>
+      <nom_arret>Hippodrome</nom_arret>
+      <tts>Hippodrome</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>DDSERS_2</code_arret>
+      <nom_arret>Domaine de Sers</nom_arret>
+      <tts>Domaine de Sers</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>AYGUEL_2</code_arret>
+      <nom_arret>Ayguelongue</nom_arret>
+      <tts>Ayguelongue</tts>
+      <terminus>0</terminus>
+      <correspondance>16, 6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>NNIEME_2</code_arret>
+      <nom_arret>Normandie Niemen</nom_arret>
+      <tts>Normandie Niemen</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>LDBEAR_2</code_arret>
+      <nom_arret>Luy de Béarn</nom_arret>
+      <tts>Luy de Béarn</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>AYOUS_2</code_arret>
+      <nom_arret>Ayous</nom_arret>
+      <tts>Ayous</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+    <sequence_25>
+      <code_arret>HIALES_2</code_arret>
+      <nom_arret>Hiales</nom_arret>
+      <tts>Hiales</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_25>
+    <sequence_26>
+      <code_arret>BRUSCO_2</code_arret>
+      <nom_arret>Bruscos</nom_arret>
+      <tts>Bruscos</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_26>
+    <sequence_27>
+      <code_arret>ALLIAS_2</code_arret>
+      <nom_arret>Allias</nom_arret>
+      <tts>Allias</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_27>
+    <sequence_28>
+      <code_arret>UAPP_1/2</code_arret>
+      <nom_arret>UZEIN Aéroport Pau Pyrénées</nom_arret>
+      <tts>UZEIN Aéroport Pau Pyrénées</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_28>
+  </destination>
+</lign>

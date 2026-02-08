@@ -1,0 +1,223 @@
+<?xml version="1.0" ?>
+<lign id="COXI">
+  <destination>
+    <description>Pl. Verdun Camou</description>
+    <sens_id>1</sens_id>
+    <sequence_1>
+      <code_arret>VCAMOU</code_arret>
+      <nom_arret>Pl. Verdun Camou</nom_arret>
+      <tts>Pl. Verdun Camou</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>GTOUR</code_arret>
+      <nom_arret>Grand Tour</nom_arret>
+      <tts>Grand Tour</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>CIMETI_1</code_arret>
+      <nom_arret>Cimetière</nom_arret>
+      <tts>Cimetière</tts>
+      <terminus>0</terminus>
+      <correspondance>7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>VBAYARD</code_arret>
+      <nom_arret>Pl. Verdun Bayard</nom_arret>
+      <tts>Pl. Verdun Bayard</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>GRAMON_1</code_arret>
+      <nom_arret>Pl. Gramont</nom_arret>
+      <tts>Pl. Gramont</tts>
+      <terminus>0</terminus>
+      <correspondance>T3, C, 11</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>CPAU</code_arret>
+      <nom_arret>Château de Pau</nom_arret>
+      <tts>Château de Pau</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>SMART_S</code_arret>
+      <nom_arret>St Martin</nom_arret>
+      <tts>St Martin</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>MPAU</code_arret>
+      <nom_arret>Mairie de Pau</nom_arret>
+      <tts>Mairie de Pau</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>PPYRE_S</code_arret>
+      <nom_arret>Palais des Pyrénées</nom_arret>
+      <tts>Palais des Pyrénées</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>CLEME</code_arret>
+      <nom_arret>Clemenceau</nom_arret>
+      <tts>Clemenceau</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>FOCH</code_arret>
+      <nom_arret>Foch</nom_arret>
+      <tts>Foch</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>BOSQQB_B</code_arret>
+      <nom_arret>Pl. d'Espagne - Bosquet Quai B</nom_arret>
+      <tts>Pl. d'Espagne - Bosquet Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 5, 8, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>F-HDES_2</code_arret>
+      <nom_arret>Les Halles - Despourrins</nom_arret>
+      <tts>Les Halles - Despourrins</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T1, 16, 6, 10, A, C, D, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>F-AALO_2</code_arret>
+      <nom_arret>Alliés - Alsace Lorraine</nom_arret>
+      <tts>Alliés - Alsace Lorraine</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, 16, T4, 6, 10, A, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>CARNOT_1</code_arret>
+      <nom_arret>Carnot</nom_arret>
+      <tts>Carnot</tts>
+      <terminus>0</terminus>
+      <correspondance>16</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>PASTEU_1</code_arret>
+      <nom_arret>Pasteur</nom_arret>
+      <tts>Pasteur</tts>
+      <terminus>0</terminus>
+      <correspondance>16</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>LHAPLA_1</code_arret>
+      <nom_arret>Les Halles Planté</nom_arret>
+      <tts>Les Halles Planté</tts>
+      <terminus>0</terminus>
+      <correspondance>16</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>LHREPU_1</code_arret>
+      <nom_arret>Les Halles République</nom_arret>
+      <tts>Les Halles République</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>GASSIOT</code_arret>
+      <nom_arret>Gassiot</nom_arret>
+      <tts>Gassiot</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>SJACQUES</code_arret>
+      <nom_arret>St Jacques</nom_arret>
+      <tts>St Jacques</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>BERNADOT</code_arret>
+      <nom_arret>Bernadotte</nom_arret>
+      <tts>Bernadotte</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>VERDQC_C</code_arret>
+      <nom_arret>Pl. Verdun Quai C</nom_arret>
+      <tts>Pl. Verdun Quai C</tts>
+      <terminus>0</terminus>
+      <correspondance>T3, 11, C, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>VERDQB_B</code_arret>
+      <nom_arret>Pl. Verdun Quai B</nom_arret>
+      <tts>Pl. Verdun Quai B</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 5, T4, EMMA, 8, 17, D, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>VCAMOU</code_arret>
+      <nom_arret>Pl. Verdun Camou</nom_arret>
+      <tts>Pl. Verdun Camou</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+  </destination>
+</lign>

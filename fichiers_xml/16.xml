@@ -1,0 +1,443 @@
+<?xml version="1.0" ?>
+<lign id="16">
+  <destination>
+    <description>PAU Bosquet Quai E</description>
+    <sens_id>1</sens_id>
+    <sequence_1>
+      <code_arret>MECO_1/2</code_arret>
+      <nom_arret>MONTARDON Ecole</nom_arret>
+      <tts>MONTARDON Ecole</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>PASSAD_1</code_arret>
+      <nom_arret>Passades</nom_arret>
+      <tts>Passades</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>LAGRIC_1</code_arret>
+      <nom_arret>Lycée Agricole</nom_arret>
+      <tts>Lycée Agricole</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>AYGUEL_1</code_arret>
+      <nom_arret>Ayguelongue</nom_arret>
+      <tts>Ayguelongue</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>DDSERS_1</code_arret>
+      <nom_arret>Domaine de Sers</nom_arret>
+      <tts>Domaine de Sers</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>HIPPAU_1</code_arret>
+      <nom_arret>Hippodrome</nom_arret>
+      <tts>Hippodrome</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>VDOR_1</code_arret>
+      <nom_arret>Val d'Or</nom_arret>
+      <tts>Val d'Or</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 6, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>DAURAT_1</code_arret>
+      <nom_arret>Daurat</nom_arret>
+      <tts>Daurat</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 6, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>ADER_1</code_arret>
+      <nom_arret>Ader</nom_arret>
+      <tts>Ader</tts>
+      <terminus>0</terminus>
+      <correspondance>6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>CAFPA_1</code_arret>
+      <nom_arret>Centre AFPA</nom_arret>
+      <tts>Centre AFPA</tts>
+      <terminus>0</terminus>
+      <correspondance>6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>TURSAN_1</code_arret>
+      <nom_arret>Tursan</nom_arret>
+      <tts>Tursan</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>VELLED_S</code_arret>
+      <nom_arret>Velleda</nom_arret>
+      <tts>Velleda</tts>
+      <terminus>0</terminus>
+      <correspondance>12</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>TOUQUE_1</code_arret>
+      <nom_arret>Touquet</nom_arret>
+      <tts>Touquet</tts>
+      <terminus>0</terminus>
+      <correspondance>5</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>PCIEL_1</code_arret>
+      <nom_arret>Plein Ciel</nom_arret>
+      <tts>Plein Ciel</tts>
+      <terminus>0</terminus>
+      <correspondance>5</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>NPAILL_S</code_arret>
+      <nom_arret>Nelson Paillou</nom_arret>
+      <tts>Nelson Paillou</tts>
+      <terminus>0</terminus>
+      <correspondance>13</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>CUNIVE_O</code_arret>
+      <nom_arret>Cité Universitaire</nom_arret>
+      <tts>Cité Universitaire</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>FACULT_O</code_arret>
+      <nom_arret>Facultés</nom_arret>
+      <tts>Facultés</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>CCLERM_O</code_arret>
+      <nom_arret>Collège Clermont</nom_arret>
+      <tts>Collège Clermont</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>REDANU_1</code_arret>
+      <nom_arret>Rhin et Danube</nom_arret>
+      <tts>Rhin et Danube</tts>
+      <terminus>0</terminus>
+      <correspondance>6, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>ABREMO_1</code_arret>
+      <nom_arret>Abbé Brémond</nom_arret>
+      <tts>Abbé Brémond</tts>
+      <terminus>0</terminus>
+      <correspondance>6, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>CARNOT_1</code_arret>
+      <nom_arret>Carnot</nom_arret>
+      <tts>Carnot</tts>
+      <terminus>0</terminus>
+      <correspondance>COXI</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>PASTEU_1</code_arret>
+      <nom_arret>Pasteur</nom_arret>
+      <tts>Pasteur</tts>
+      <terminus>0</terminus>
+      <correspondance>COXI</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>LHAPLA_1</code_arret>
+      <nom_arret>Les Halles Planté</nom_arret>
+      <tts>Les Halles Planté</tts>
+      <terminus>0</terminus>
+      <correspondance>COXI</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+    <sequence_24>
+      <code_arret>GUICHE_1</code_arret>
+      <nom_arret>Guichenné</nom_arret>
+      <tts>Guichenné</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T2, 5, T3, 11, EMMA, C, 8, 17, D, 7</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_24>
+    <sequence_25>
+      <code_arret>BOSQQE_E</code_arret>
+      <nom_arret>PAU Bosquet Quai E</nom_arret>
+      <tts>PAU Bosquet Quai E</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_25>
+  </destination>
+  <destination>
+    <description>MONTARDON Ecole</description>
+    <sens_id>2</sens_id>
+    <sequence_1>
+      <code_arret>BOSQQE_E</code_arret>
+      <nom_arret>PAU Bosquet Quai E</nom_arret>
+      <tts>PAU Bosquet Quai E</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_1>
+    <sequence_2>
+      <code_arret>F-HDES_2</code_arret>
+      <nom_arret>Les Halles - Despourrins</nom_arret>
+      <tts>Les Halles - Despourrins</tts>
+      <terminus>0</terminus>
+      <correspondance>B, T1, 6, 10, COXI, A, C, D, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_2>
+    <sequence_3>
+      <code_arret>F-AALO_2</code_arret>
+      <nom_arret>Alliés - Alsace Lorraine</nom_arret>
+      <tts>Alliés - Alsace Lorraine</tts>
+      <terminus>0</terminus>
+      <correspondance>T1, T4, 6, 10, COXI, A, F</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_3>
+    <sequence_4>
+      <code_arret>ABREMO_2</code_arret>
+      <nom_arret>Abbé Brémond</nom_arret>
+      <tts>Abbé Brémond</tts>
+      <terminus>0</terminus>
+      <correspondance>6, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_4>
+    <sequence_5>
+      <code_arret>REDANU_2</code_arret>
+      <nom_arret>Rhin et Danube</nom_arret>
+      <tts>Rhin et Danube</tts>
+      <terminus>0</terminus>
+      <correspondance>6, T4</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_5>
+    <sequence_6>
+      <code_arret>CCLERM_E</code_arret>
+      <nom_arret>Collège Clermont</nom_arret>
+      <tts>Collège Clermont</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_6>
+    <sequence_7>
+      <code_arret>FACULT_E</code_arret>
+      <nom_arret>Facultés</nom_arret>
+      <tts>Facultés</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_7>
+    <sequence_8>
+      <code_arret>CUNIVE_E</code_arret>
+      <nom_arret>Cité Universitaire</nom_arret>
+      <tts>Cité Universitaire</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 14</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_8>
+    <sequence_9>
+      <code_arret>NPAILL_N</code_arret>
+      <nom_arret>Nelson Paillou</nom_arret>
+      <tts>Nelson Paillou</tts>
+      <terminus>0</terminus>
+      <correspondance>13</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_9>
+    <sequence_10>
+      <code_arret>PCIEL_2</code_arret>
+      <nom_arret>Plein Ciel</nom_arret>
+      <tts>Plein Ciel</tts>
+      <terminus>0</terminus>
+      <correspondance>5</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_10>
+    <sequence_11>
+      <code_arret>TOUQUE_2</code_arret>
+      <nom_arret>Touquet</nom_arret>
+      <tts>Touquet</tts>
+      <terminus>0</terminus>
+      <correspondance>5</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_11>
+    <sequence_12>
+      <code_arret>VELLED_N</code_arret>
+      <nom_arret>Velleda</nom_arret>
+      <tts>Velleda</tts>
+      <terminus>0</terminus>
+      <correspondance>12</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_12>
+    <sequence_13>
+      <code_arret>TURSAN_2</code_arret>
+      <nom_arret>Tursan</nom_arret>
+      <tts>Tursan</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_13>
+    <sequence_14>
+      <code_arret>CAFPA_2</code_arret>
+      <nom_arret>Centre AFPA</nom_arret>
+      <tts>Centre AFPA</tts>
+      <terminus>0</terminus>
+      <correspondance>6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_14>
+    <sequence_15>
+      <code_arret>ADER_2</code_arret>
+      <nom_arret>Ader</nom_arret>
+      <tts>Ader</tts>
+      <terminus>0</terminus>
+      <correspondance>6</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_15>
+    <sequence_16>
+      <code_arret>DAURAT_2</code_arret>
+      <nom_arret>Daurat</nom_arret>
+      <tts>Daurat</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 6, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_16>
+    <sequence_17>
+      <code_arret>VDOR_2</code_arret>
+      <nom_arret>Val d'Or</nom_arret>
+      <tts>Val d'Or</tts>
+      <terminus>0</terminus>
+      <correspondance>B, 6, 17, T2</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_17>
+    <sequence_18>
+      <code_arret>HIPPAU_2</code_arret>
+      <nom_arret>Hippodrome</nom_arret>
+      <tts>Hippodrome</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_18>
+    <sequence_19>
+      <code_arret>DDSERS_2</code_arret>
+      <nom_arret>Domaine de Sers</nom_arret>
+      <tts>Domaine de Sers</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_19>
+    <sequence_20>
+      <code_arret>AYGUEL_2</code_arret>
+      <nom_arret>Ayguelongue</nom_arret>
+      <tts>Ayguelongue</tts>
+      <terminus>0</terminus>
+      <correspondance>6, 17, 10</correspondance>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_20>
+    <sequence_21>
+      <code_arret>LAGRIC_2</code_arret>
+      <nom_arret>Lycée Agricole</nom_arret>
+      <tts>Lycée Agricole</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_21>
+    <sequence_22>
+      <code_arret>PASSAD_2</code_arret>
+      <nom_arret>Passades</nom_arret>
+      <tts>Passades</tts>
+      <terminus>0</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_22>
+    <sequence_23>
+      <code_arret>MECO_1/2</code_arret>
+      <nom_arret>MONTARDON Ecole</nom_arret>
+      <tts>MONTARDON Ecole</tts>
+      <terminus>1</terminus>
+      <correspondance/>
+      <desservi>1</desservi>
+      <pmr>0</pmr>
+    </sequence_23>
+  </destination>
+</lign>
