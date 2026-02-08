@@ -4,21 +4,23 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import subprocess
 
-# --- CONFIGURATION DES CHEMINS (RASPBERRY PI) ---
-# On utilise /home/pi/ ou le chemin relatif si tu lances le script depuis le dossier
-BASE_DIR = "/home/pi/Trans-Node" 
+# --- CONFIGURATION DES CHEMINS AUTOMATIQUE ---
+# os.path.dirname(__file__) trouve automatiquement le dossier où se trouve le script
+BASE_DIR = os.path.dirname(os.path.abspath(__file__)) 
 PATH_XML = os.path.join(BASE_DIR, "fichiers_xml/11.xml")
 BASE_ASSETS = os.path.join(BASE_DIR, "assets")
 PATH_FONT = os.path.join(BASE_ASSETS, "Ubuntu-Medium.ttf")
 PATH_LOGO = os.path.join(BASE_ASSETS, "trans-node-nobg.png")
 PATH_FLECHE = os.path.join(BASE_ASSETS, "fleche-gps.svg")
 
-# Configuration Piper (TTS)
-PATH_PIPER = "piper"  # Installé globalement ou chemin vers l'exécutable
+# Configuration Piper
+# Si piper est dans le même dossier que ton script :
+PATH_PIPER = os.path.join(BASE_DIR, "piper/piper") 
 PATH_VOIX = os.path.join(BASE_DIR, "models/fr_FR-siwis-medium.onnx")
 
 def charger_donnees_bus(chemin_xml):
     if not os.path.exists(chemin_xml):
+        print(f"ERREUR : Fichier XML introuvable à {chemin_xml}")
         return "Destination Inconnue", ["Erreur XML"] * 10
     try:
         tree = ET.parse(chemin_xml)
@@ -28,22 +30,31 @@ def charger_donnees_bus(chemin_xml):
         liste_arrets = []
         for sequence in root.find(".//destination"):
             if 'sequence_' in sequence.tag:
-                nom = sequence.find("nom_arret").text
-                if not liste_arrets or liste_arrets[-1] != nom:
-                    liste_arrets.append(nom)
+                nom_el = sequence.find("nom_arret")
+                if nom_el is not None:
+                    nom = nom_el.text
+                    if not liste_arrets or liste_arrets[-1] != nom:
+                        liste_arrets.append(nom)
         return destination, liste_arrets
-    except Exception:
+    except Exception as e:
+        print(f"Erreur XML : {e}")
         return "Erreur", ["Erreur"] * 10
 
 def annoncer_arret(nom_arret):
-    """Lance la synthèse vocale Piper sur Raspberry Pi"""
+    """Lance la synthèse vocale Piper"""
     phrase = f"Prochain arrêt, {nom_arret}"
+    if not os.path.exists(PATH_VOIX):
+        print("ERREUR : Modèle de voix ONNX introuvable")
+        return
+    
     try:
-        # Commande optimisée pour la sortie audio du Raspberry Pi
+        # On utilise le chemin complet vers l'exécutable piper
         cmd = f'echo "{phrase}" | {PATH_PIPER} --model {PATH_VOIX} --output_raw | aplay -r 22050 -f S16_LE -t raw'
         subprocess.Popen(cmd, shell=True)
     except Exception as e:
         print(f"Erreur TTS : {e}")
+
+# ... (Le reste du code reste identique)
 
 # --- INITIALISATION ---
 pygame.init()
