@@ -8,19 +8,24 @@ import time
 # --- CONFIGURATION ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 os.chdir(BASE_DIR)
-FONT_PATH = os.path.join(BASE_DIR, "assets", "Ubuntu-Medium.ttf")
 VOICE_TEMP = os.path.join(BASE_DIR, "intro_tmp.wav")
 NEXT_SCRIPT = os.path.join(BASE_DIR, "siv.py")
 
 def piper_worker(text):
-    """Génère le fichier audio avec Piper"""
-    piper_path = os.path.join(BASE_DIR, "piper", "piper.exe") # .exe pour Windows
+    """Génère le fichier audio avec Piper sur Linux"""
+    # On utilise 'piper' tout court sur Linux, pas 'piper.exe'
+    piper_path = os.path.join(BASE_DIR, "piper", "piper")
     model_path = os.path.join(BASE_DIR, "models", "fr_FR-siwis-medium.onnx")
+    lib_path = os.path.join(BASE_DIR, "piper")
     
-    # Commande adaptée pour Windows (sans export LD_LIBRARY_PATH)
-    command = f'echo {text} | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
+    # Commande Linux avec LD_LIBRARY_PATH pour charger les dépendances de Piper
+    command = (
+        f'export LD_LIBRARY_PATH="{lib_path}:$LD_LIBRARY_PATH" && '
+        f'echo "{text}" | "{piper_path}" --model "{model_path}" --output_file "{VOICE_TEMP}"'
+    )
     try:
-        subprocess.run(command, shell=True, check=True)
+        # On exécute la commande
+        subprocess.run(command, shell=True, check=True, executable='/bin/bash')
     except Exception as e:
         print(f"Erreur Piper: {e}")
 
@@ -34,18 +39,21 @@ def main():
     screen = pygame.display.set_mode((sw, sh), pygame.NOFRAME | pygame.FULLSCREEN)
 
     # Chargement Logo
-    logo_img = pygame.image.load(os.path.join("assets", "trans-node-nobg.png")).convert_alpha()
-    h_logo = int(sh * 0.4)
-    logo_w = int(logo_img.get_width() * (h_logo / logo_img.get_height()))
-    logo = pygame.transform.smoothscale(logo_img, (logo_w, h_logo))
-    logo_rect = logo.get_rect(center=(sw // 2, sh // 2))
+    logo_path = os.path.join("assets", "trans-node-nobg.png")
+    if os.path.exists(logo_path):
+        logo_img = pygame.image.load(logo_path).convert_alpha()
+        h_logo = int(sh * 0.4)
+        logo_w = int(logo_img.get_width() * (h_logo / logo_img.get_height()))
+        logo = pygame.transform.smoothscale(logo_img, (logo_w, h_logo))
+        logo_rect = logo.get_rect(center=(sw // 2, sh // 2))
+    else:
+        print("Logo introuvable !")
+        logo = None
 
-    # Génération du message audio
+    # Lancement de la génération audio
     threading.Thread(target=piper_worker, args=("Bonjour et bienvenue à bord.",)).start()
 
     clock = pygame.time.Clock()
-    start_time = time.time()
-    
     circle_radius = 0
     logo_alpha = 0
     audio_started = False
@@ -59,43 +67,45 @@ def main():
 
         screen.fill((0, 0, 0)) 
 
-        # 1. Animation Iris (Cercle blanc qui s'étend)
+        # 1. Animation Iris
         if circle_radius < sw * 1.2:
             pygame.draw.circle(screen, (255, 255, 255), (sw // 2, sh // 2), int(circle_radius))
             circle_radius += (sw * 0.04)
         else:
             screen.fill((255, 255, 255))
             
-            # 2. Apparition en fondu du logo
-            if logo_alpha < 255:
+            # 2. Fondu du logo
+            if logo and logo_alpha < 255:
                 logo_alpha += 5
                 logo.set_alpha(logo_alpha)
-            
-            screen.blit(logo, logo_rect)
+                screen.blit(logo, logo_rect)
+            elif logo:
+                screen.blit(logo, logo_rect)
 
-            # 3. Gestion de l'audio et de la sortie
+            # 3. Surveillance de la fin du son
             if os.path.exists(VOICE_TEMP) and not audio_started:
-                sound = pygame.mixer.Sound(VOICE_TEMP)
-                sound.play()
-                audio_started = True
+                try:
+                    pygame.mixer.Sound(VOICE_TEMP).play()
+                    audio_started = True
+                except:
+                    pass
             
-            # CONDITION DE SORTIE : Audio fini ET logo totalement affiché
+            # On quitte quand le son est fini et le logo bien visible
             if audio_started and not pygame.mixer.get_busy() and logo_alpha >= 255:
-                # On attend 1 seconde de silence pour ne pas couper brutalement
-                time.sleep(1)
+                time.sleep(1) # Petite pause de confort
                 running = False
 
         pygame.display.flip()
         clock.tick(60)
 
-    # --- RELAIS VERS LE SCRIPT SIV ---
+    # --- TRANSITION ---
     pygame.quit()
     
     if os.path.exists(VOICE_TEMP):
         try: os.remove(VOICE_TEMP)
         except: pass
 
-    # Lancement du second script et arrêt immédiat de celui-ci
+    # Lancement du SIV
     subprocess.Popen([sys.executable, NEXT_SCRIPT])
     sys.exit()
 
